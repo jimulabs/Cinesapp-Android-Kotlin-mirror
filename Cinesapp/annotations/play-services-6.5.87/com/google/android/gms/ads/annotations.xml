@@ -1,0 +1,95 @@
+<root>
+    <item name='com.google.android.gms.ads.AdSize FULL_BANNER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdSize LEADERBOARD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdRequest android.os.Bundle getNetworkExtrasBundle(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdSize LARGE_BANNER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdRequest boolean isTestDevice(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.a com.google.android.gms.ads.AdSize a(int, int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdSize WIDE_SKYSCRAPER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdRequest.Builder com.google.android.gms.ads.AdRequest.Builder addTestDevice(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdRequest.Builder com.google.android.gms.ads.AdRequest.Builder addCustomEventExtrasBundle(java.lang.Class&lt;? extends com.google.android.gms.ads.mediation.customevent.CustomEvent&gt;, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdSize int getWidthInPixels(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdActivity SIMPLE_CLASS_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdRequest.Builder com.google.android.gms.ads.AdRequest.Builder addKeyword(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdView void loadAd(com.google.android.gms.ads.AdRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdRequest.Builder com.google.android.gms.ads.AdRequest.Builder setGender(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdRequest.Builder com.google.android.gms.ads.AdRequest.Builder setBirthday(java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdSize BANNER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdRequest.Builder com.google.android.gms.ads.AdRequest.Builder addCustomEventExtrasBundle(java.lang.Class&lt;? extends com.google.android.gms.ads.mediation.customevent.CustomEvent&gt;, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdRequest.Builder com.google.android.gms.ads.AdRequest.Builder setLocation(android.location.Location)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdRequest.Builder com.google.android.gms.ads.AdRequest build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.InterstitialAd void loadAd(com.google.android.gms.ads.AdRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdRequest.Builder com.google.android.gms.ads.AdRequest.Builder tagForChildDirectedTreatment(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdSize MEDIUM_RECTANGLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdRequest.Builder com.google.android.gms.ads.AdRequest.Builder setContentUrl(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdRequest.Builder com.google.android.gms.ads.AdRequest.Builder addNetworkExtrasBundle(java.lang.Class&lt;? extends com.google.android.gms.ads.mediation.MediationAdapter&gt;, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdActivity CLASS_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdRequest.Builder com.google.android.gms.ads.AdRequest.Builder addNetworkExtrasBundle(java.lang.Class&lt;? extends com.google.android.gms.ads.mediation.MediationAdapter&gt;, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdRequest.Builder com.google.android.gms.ads.AdRequest.Builder addNetworkExtras(com.google.android.gms.ads.mediation.NetworkExtras) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdSize SMART_BANNER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdRequest.Builder com.google.android.gms.ads.AdRequest.Builder addNetworkExtras(com.google.android.gms.ads.mediation.NetworkExtras)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdRequest.Builder com.google.android.gms.ads.AdRequest.Builder setContentUrl(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.AdSize int getHeightInPixels(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

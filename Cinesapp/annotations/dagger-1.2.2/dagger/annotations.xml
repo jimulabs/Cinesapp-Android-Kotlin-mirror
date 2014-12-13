@@ -1,0 +1,47 @@
+<root>
+    <item name='dagger.ObjectGraph dagger.ObjectGraph plus(java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='dagger.ObjectGraph T get(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='dagger.ObjectGraph dagger.ObjectGraph plus(java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='dagger.ObjectGraph dagger.ObjectGraph create(java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.Provides.Type SET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.ObjectGraph T inject(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='dagger.ObjectGraph dagger.ObjectGraph create(java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.Provides.Type SET_VALUES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.ObjectGraph T inject(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='dagger.Provides.Type UNIQUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

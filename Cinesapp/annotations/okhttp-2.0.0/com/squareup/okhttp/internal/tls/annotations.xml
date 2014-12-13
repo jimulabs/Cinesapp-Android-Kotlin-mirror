@@ -1,0 +1,5 @@
+<root>
+    <item name='com.squareup.okhttp.internal.tls.OkHostnameVerifier INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

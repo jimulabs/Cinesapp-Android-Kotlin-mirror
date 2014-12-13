@@ -1,0 +1,35 @@
+<root>
+    <item name='dagger.internal.loaders.ReflectiveStaticInjection void attach(dagger.internal.Linker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='dagger.internal.loaders.GeneratedAdapters MODULE_ADAPTER_SUFFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.loaders.ReflectiveStaticInjection dagger.internal.StaticInjection create(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.loaders.GeneratedAdapters STATIC_INJECTION_SUFFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.loaders.ReflectiveAtInjectBinding dagger.internal.Binding&lt;T&gt; create(java.lang.Class&lt;T&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.loaders.GeneratedAdapters INJECT_ADAPTER_SUFFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.loaders.ReflectiveAtInjectBinding void attach(dagger.internal.Linker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='dagger.internal.loaders.ReflectiveStaticInjection dagger.internal.StaticInjection create(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.loaders.ReflectiveAtInjectBinding dagger.internal.Binding&lt;T&gt; create(java.lang.Class&lt;T&gt;, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

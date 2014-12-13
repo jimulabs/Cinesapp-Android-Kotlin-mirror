@@ -1,0 +1,23 @@
+<root>
+    <item name='com.google.android.gms.panorama.Panorama API'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.panorama.Panorama PanoramaApi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.panorama.PanoramaApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.panorama.PanoramaApi.PanoramaResult&gt; loadPanoramaInfo(com.google.android.gms.common.api.GoogleApiClient, android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.panorama.PanoramaApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.panorama.PanoramaApi.PanoramaResult&gt; loadPanoramaInfoAndGrantAccess(com.google.android.gms.common.api.GoogleApiClient, android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.panorama.Panorama DQ'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

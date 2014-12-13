@@ -1,0 +1,455 @@
+<root>
+    <item name='com.google.android.gms.common.api.BaseImplementation.b void b(R) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient void stopAutoManage(android.support.v4.app.FragmentActivity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder addApi(com.google.android.gms.common.api.Api&lt;O&gt;, O) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder Builder(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient void registerConnectionFailedListener(com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.StatusCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Api.b T a(android.content.Context, android.os.Looper, com.google.android.gms.internal.jg, O, com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder Builder(android.content.Context, com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.BaseImplementation.a com.google.android.gms.common.api.Api.c&lt;A&gt; gz()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder addApi(com.google.android.gms.common.api.Api&lt;? extends com.google.android.gms.common.api.Api.ApiOptions.NotRequiredOptions&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Scope CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Api.b T a(android.content.Context, android.os.Looper, com.google.android.gms.internal.jg, O, com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder setHandler(android.os.Handler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder addApi(com.google.android.gms.common.api.Api&lt;O&gt;, O)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Scope void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.g void onSaveInstanceState(android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.BaseImplementation.a a(com.google.android.gms.common.api.Api.c&lt;A&gt;, com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.g void onLoaderReset(android.support.v4.content.Loader&lt;com.google.android.gms.common.ConnectionResult&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder Builder(android.content.Context, com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Status com.google.android.gms.common.api.Status getStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.b JG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.a void a(L, com.google.android.gms.common.data.DataHolder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.e com.google.android.gms.common.api.Scope[] am(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.BaseImplementation.AbstractPendingResult R c(com.google.android.gms.common.api.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.e com.google.android.gms.common.api.Scope z(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.BatchResult R take(com.google.android.gms.common.api.BatchResultToken&lt;R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Api java.util.List&lt;com.google.android.gms.common.api.Scope&gt; gy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Api.b T a(android.content.Context, android.os.Looper, com.google.android.gms.internal.jg, O, com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; clearDefaultAccountAndReconnect()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.Status com.google.android.gms.common.ConnectionResult gQ()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.BaseImplementation.AbstractPendingResult R c(com.google.android.gms.common.api.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.f com.google.android.gms.common.api.Result c(com.google.android.gms.common.api.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.e java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.e com.google.android.gms.common.api.Scope z(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder addApi(com.google.android.gms.common.api.Api&lt;? extends com.google.android.gms.common.api.Api.ApiOptions.NotRequiredOptions&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Batch com.google.android.gms.common.api.Result c(com.google.android.gms.common.api.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.Status Kz'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.BaseImplementation.CallbackHandler void deliverResultCallback(com.google.android.gms.common.api.ResultCallback&lt;R&gt;, R) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.PendingResult void a(com.google.android.gms.common.api.PendingResult.a) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.Result com.google.android.gms.common.api.Status getStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient com.google.android.gms.common.api.d&lt;L&gt; d(L)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient boolean isConnectionCallbacksRegistered(com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder addApi(com.google.android.gms.common.api.Api&lt;O&gt;, O) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.g void onLoadFinished(android.support.v4.content.Loader, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.StatusCreator com.google.android.gms.common.api.Status createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.internal.jg gH()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.e java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient void unregisterConnectionCallbacks(com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder addScope(com.google.android.gms.common.api.Scope) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient C a(com.google.android.gms.common.api.Api.c&lt;C&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.Status Ky'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.b com.google.android.gms.common.api.Status getStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder setGravityForPopups(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.g com.google.android.gms.common.api.g a(android.support.v4.app.FragmentActivity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder setViewForPopups(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.ResultCallback void onResult(R) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient com.google.android.gms.common.api.d&lt;L&gt; d(L) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.Status Kx'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.BaseImplementation.AbstractPendingResult void setResultCallback(com.google.android.gms.common.api.ResultCallback&lt;R&gt;, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.g android.support.v4.content.Loader&lt;com.google.android.gms.common.ConnectionResult&gt; onCreateLoader(int, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.d.b void c(L) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.g void onLoadFinished(android.support.v4.content.Loader, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Api.b T a(android.content.Context, android.os.Looper, com.google.android.gms.internal.jg, O, com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.PendingResult void setResultCallback(com.google.android.gms.common.api.ResultCallback&lt;R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder enableAutoManage(android.support.v4.app.FragmentActivity, int, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder useDefaultAccount()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.e java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient boolean a(com.google.android.gms.common.api.Scope) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.BaseImplementation.a void a(A) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.Status void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder addConnectionCallbacks(com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Status KA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.StatusCreator com.google.android.gms.common.api.Status createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Status Kw'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.b b(com.google.android.gms.common.data.DataHolder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Api.b T a(android.content.Context, android.os.Looper, com.google.android.gms.internal.jg, O, com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.BaseImplementation.AbstractPendingResult void b(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder addOnConnectionFailedListener(com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient com.google.android.gms.common.ConnectionResult blockingConnect(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.PendingResult void setResultCallback(com.google.android.gms.common.api.ResultCallback&lt;R&gt;, long, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.g void a(android.support.v4.content.Loader&lt;com.google.android.gms.common.ConnectionResult&gt;, com.google.android.gms.common.ConnectionResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Batch.Builder Builder(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Batch com.google.android.gms.common.api.Result c(com.google.android.gms.common.api.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.BaseImplementation.AbstractPendingResult void setResultCallback(com.google.android.gms.common.api.ResultCallback&lt;R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient boolean isConnectionFailedListenerRegistered(com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.Status CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.a void c(L) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.Api.b T a(android.content.Context, android.os.Looper, com.google.android.gms.internal.jg, O, com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.BaseImplementation.a a(com.google.android.gms.common.api.Api.c&lt;A&gt;, com.google.android.gms.common.api.GoogleApiClient) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.g void a(int, com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder addScope(com.google.android.gms.common.api.Scope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.BaseImplementation.a void l(com.google.android.gms.common.api.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder setAccountName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.StatusCreator com.google.android.gms.common.api.Status[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.BaseImplementation.AbstractPendingResult void a(com.google.android.gms.common.api.PendingResult.a) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient void unregisterConnectionFailedListener(com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.g void a(android.support.v4.content.Loader&lt;com.google.android.gms.common.ConnectionResult&gt;, com.google.android.gms.common.ConnectionResult) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.b Eb'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Batch.Builder com.google.android.gms.common.api.BatchResultToken&lt;R&gt; add(com.google.android.gms.common.api.PendingResult&lt;R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient void registerConnectionCallbacks(com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.BaseImplementation.CallbackHandler void handleMessage(android.os.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder Builder(android.content.Context, com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Batch.Builder com.google.android.gms.common.api.Batch build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.StatusCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Batch com.google.android.gms.common.api.BatchResult createFailedResult(com.google.android.gms.common.api.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.Api.b T a(android.content.Context, android.os.Looper, com.google.android.gms.internal.jg, O, com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder enableAutoManage(android.support.v4.app.FragmentActivity, int, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.g com.google.android.gms.common.api.g a(android.support.v4.app.FragmentActivity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.StatusCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.GoogleApiClient.Builder com.google.android.gms.common.api.GoogleApiClient.Builder setHandler(android.os.Handler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.BaseImplementation.a com.google.android.gms.common.api.BaseImplementation.a gE()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.api.d void a(com.google.android.gms.common.api.d.b&lt;? super L&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

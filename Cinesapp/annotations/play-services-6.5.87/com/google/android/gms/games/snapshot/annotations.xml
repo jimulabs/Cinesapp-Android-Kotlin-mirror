@@ -1,0 +1,311 @@
+<root>
+    <item name='com.google.android.gms.games.snapshot.SnapshotContentsEntity void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataEntityCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotContentsEntity boolean writeBytes(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataEntity SnapshotMetadataEntity(com.google.android.gms.games.snapshot.SnapshotMetadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotContentsEntityCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataChange.Builder com.google.android.gms.games.snapshot.SnapshotMetadataChange.Builder fromMetadata(com.google.android.gms.games.snapshot.SnapshotMetadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataChangeCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataRef void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataRef java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataChangeCreator com.google.android.gms.games.snapshot.SnapshotMetadataChangeEntity[] er(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadata void getDescription(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotEntity com.google.android.gms.games.snapshot.Snapshot freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotContentsEntityCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshots void discardAndClose(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.snapshot.Snapshot) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshots com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.CommitSnapshotResult&gt; commitAndClose(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.snapshot.Snapshot, com.google.android.gms.games.snapshot.SnapshotMetadataChange) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataChange EMPTY_CHANGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshots com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.OpenSnapshotResult&gt; open(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.snapshot.SnapshotMetadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataEntity void getDescription(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotEntityCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataEntityCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataRef com.google.android.gms.games.Game getGame()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotContentsEntityCreator com.google.android.gms.games.snapshot.SnapshotContentsEntity cD(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataEntity CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataBuffer com.google.android.gms.games.snapshot.SnapshotMetadata get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshots EXTRA_SNAPSHOT_METADATA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotEntity java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshots com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.OpenSnapshotResult&gt; resolveConflict(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, com.google.android.gms.games.snapshot.Snapshot) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataEntityCreator com.google.android.gms.games.snapshot.SnapshotMetadataEntity createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotContentsEntityCreator com.google.android.gms.games.snapshot.SnapshotContentsEntity cD(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshots int getMaxCoverImageSize(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotContents boolean modifyBytes(int, byte[], int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataBuffer java.lang.Object get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshots EXTRA_SNAPSHOT_NEW'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataRef com.google.android.gms.games.snapshot.SnapshotMetadata freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataRef SnapshotMetadataRef(com.google.android.gms.common.data.DataHolder, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotEntity CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataChange.Builder com.google.android.gms.games.snapshot.SnapshotMetadataChange.Builder setDescription(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshots com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.OpenSnapshotResult&gt; open(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.snapshot.SnapshotMetadata) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataChange.Builder com.google.android.gms.games.snapshot.SnapshotMetadataChange build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotEntityCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotEntity void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotContentsEntityCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataRef void getDescription(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotContentsEntity CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshots void discardAndClose(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.snapshot.Snapshot) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshots com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.DeleteSnapshotResult&gt; delete(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.snapshot.SnapshotMetadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataEntityCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataRef com.google.android.gms.games.Player getOwner()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshots com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.OpenSnapshotResult&gt; open(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotContents boolean writeBytes(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotEntity com.google.android.gms.games.snapshot.SnapshotMetadata getMetadata()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshots com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.LoadSnapshotsResult&gt; load(com.google.android.gms.common.api.GoogleApiClient, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotEntityCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotContentsEntityCreator com.google.android.gms.games.snapshot.SnapshotContentsEntity[] eq(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadata com.google.android.gms.games.Game getGame()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshots com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.OpenSnapshotResult&gt; resolveConflict(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, java.lang.String, com.google.android.gms.games.snapshot.SnapshotMetadataChange, com.google.android.gms.games.snapshot.SnapshotContents) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataChange.Builder com.google.android.gms.games.snapshot.SnapshotMetadataChange.Builder fromMetadata(com.google.android.gms.games.snapshot.SnapshotMetadata)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataChangeCreator com.google.android.gms.games.snapshot.SnapshotMetadataChangeEntity cE(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataChangeCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataChangeCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataChangeEntity CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotEntityCreator com.google.android.gms.games.snapshot.SnapshotEntity createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshots.LoadSnapshotsResult com.google.android.gms.games.snapshot.SnapshotMetadataBuffer getSnapshots()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotContentsEntity boolean modifyBytes(int, byte[], int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshots int getMaxDataSize(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotEntityCreator com.google.android.gms.games.snapshot.SnapshotEntity[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataEntity com.google.android.gms.games.snapshot.SnapshotMetadata freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataChange.Builder com.google.android.gms.games.snapshot.SnapshotMetadataChange.Builder setPlayedTimeMillis(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotEntity SnapshotEntity(com.google.android.gms.games.snapshot.SnapshotMetadata, com.google.android.gms.games.snapshot.SnapshotContentsEntity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshots android.content.Intent getSelectSnapshotIntent(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, boolean, boolean, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataEntityCreator com.google.android.gms.games.snapshot.SnapshotMetadataEntity createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataEntity java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataChangeCreator com.google.android.gms.games.snapshot.SnapshotMetadataChangeEntity cE(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshots com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.OpenSnapshotResult&gt; resolveConflict(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, com.google.android.gms.games.snapshot.Snapshot) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotEntityCreator com.google.android.gms.games.snapshot.SnapshotEntity createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.Snapshot com.google.android.gms.games.snapshot.SnapshotMetadata getMetadata()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataChange.Builder com.google.android.gms.games.snapshot.SnapshotMetadataChange.Builder setCoverImage(android.graphics.Bitmap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataEntityCreator com.google.android.gms.games.snapshot.SnapshotMetadataEntity[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataEntity void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadataChangeEntity void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.snapshot.SnapshotMetadata com.google.android.gms.games.Player getOwner()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

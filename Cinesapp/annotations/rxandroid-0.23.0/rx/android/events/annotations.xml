@@ -1,0 +1,8 @@
+<root>
+    <item name='rx.android.events.OnCheckedChangeEvent OnCheckedChangeEvent(android.widget.CompoundButton) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.events.OnTextChangeEvent OnTextChangeEvent(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

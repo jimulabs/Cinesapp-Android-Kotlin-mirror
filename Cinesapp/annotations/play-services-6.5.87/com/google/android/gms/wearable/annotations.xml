@@ -1,0 +1,377 @@
+<root>
+    <item name='com.google.android.gms.wearable.PutDataRequest com.google.android.gms.wearable.PutDataRequest createFromDataItem(com.google.android.gms.wearable.DataItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.MessageApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; addListener(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.wearable.MessageApi.MessageListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.d com.google.android.gms.wearable.c[] gv(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataMap com.google.android.gms.wearable.DataMap fromByteArray(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.WearableListenerService BIND_LISTENER_INTENT_ACTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataEventBuffer DataEventBuffer(com.google.android.gms.common.data.DataHolder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.a java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataRequest com.google.android.gms.wearable.PutDataRequest createFromDataItem(com.google.android.gms.wearable.DataItem)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.Asset CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataMapItem com.google.android.gms.wearable.DataMapItem fromDataItem(com.google.android.gms.wearable.DataItem)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.Wearable API'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.Asset com.google.android.gms.wearable.Asset createFromRef(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataEventBuffer com.google.android.gms.common.api.Status getStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.wearable.DataApi.GetFdForAssetResult&gt; getFdForAsset(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.wearable.Asset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.NodeApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.wearable.NodeApi.GetConnectedNodesResult&gt; getConnectedNodes(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.WearableListenerService android.os.IBinder onBind(android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataMapRequest com.google.android.gms.wearable.PutDataMapRequest createFromDataMapItem(com.google.android.gms.wearable.DataMapItem)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.e com.google.android.gms.wearable.PutDataRequest[] gw(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.d com.google.android.gms.wearable.c em(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataRequest void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.wearable.DataApi.GetFdForAssetResult&gt; getFdForAsset(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.wearable.DataItemAsset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.e java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.Asset com.google.android.gms.wearable.Asset createFromFd(android.os.ParcelFileDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataRequest com.google.android.gms.wearable.PutDataRequest k(android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataRequest com.google.android.gms.wearable.PutDataRequest putAsset(java.lang.String, com.google.android.gms.wearable.Asset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataMap TAG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.d java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataMap com.google.android.gms.wearable.DataMap fromByteArray(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.wearable.DataApi.GetFdForAssetResult&gt; getFdForAsset(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.wearable.Asset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.Wearable MessageApi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.Asset com.google.android.gms.wearable.Asset createFromUri(android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.c CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataMapRequest com.google.android.gms.wearable.PutDataMapRequest createWithAutoAppendedId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.c void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.wearable.DataApi.DataItemResult&gt; putDataItem(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.wearable.PutDataRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.Wearable.WearableOptions.Builder com.google.android.gms.wearable.Wearable.WearableOptions build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataItemBuffer java.lang.String ha()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataMap com.google.android.gms.wearable.DataMap fromBundle(android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.Asset com.google.android.gms.wearable.Asset createFromRef(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataMapRequest com.google.android.gms.wearable.PutDataMapRequest createFromDataMapItem(com.google.android.gms.wearable.DataMapItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataMapItem com.google.android.gms.wearable.DataMapItem fromDataItem(com.google.android.gms.wearable.DataItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.wearable.DataItemBuffer&gt; getDataItems(com.google.android.gms.common.api.GoogleApiClient, android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.e com.google.android.gms.wearable.PutDataRequest en(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataEvent com.google.android.gms.wearable.DataItem getDataItem()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.Asset com.google.android.gms.wearable.Asset createFromBytes(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataMap void putAll(com.google.android.gms.wearable.DataMap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; removeListener(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.wearable.DataApi.DataListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.a com.google.android.gms.wearable.Asset[] gu(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.d java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.e java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.a java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataMapRequest com.google.android.gms.wearable.PutDataMapRequest create(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.NodeApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.wearable.NodeApi.GetLocalNodeResult&gt; getLocalNode(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.DataMap java.util.ArrayList&lt;com.google.android.gms.wearable.DataMap&gt; arrayListFromBundleArrayList(java.util.ArrayList&lt;android.os.Bundle&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.NodeApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; removeListener(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.wearable.NodeApi.NodeListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.DataApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.wearable.DataApi.DeleteDataItemsResult&gt; deleteDataItems(com.google.android.gms.common.api.GoogleApiClient, android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.Asset com.google.android.gms.wearable.Asset createFromUri(android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.MessageApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.wearable.MessageApi.SendMessageResult&gt; sendMessage(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, java.lang.String, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.Asset com.google.android.gms.wearable.Asset createFromBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.d java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataRequest com.google.android.gms.wearable.PutDataRequest removeAsset(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.a java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataMapItem com.google.android.gms.wearable.DataMap getDataMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataRequest com.google.android.gms.wearable.PutDataRequest create(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataItemBuffer com.google.android.gms.wearable.DataItem r(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; addListener(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.wearable.DataApi.DataListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataMapRequest com.google.android.gms.wearable.DataMap getDataMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataRequest com.google.android.gms.wearable.PutDataRequest putAsset(java.lang.String, com.google.android.gms.wearable.Asset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataItemBuffer java.lang.Object f(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.NodeApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; addListener(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.wearable.NodeApi.NodeListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataRequest CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.Wearable NodeApi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataItem java.util.Map&lt;java.lang.String,com.google.android.gms.wearable.DataItemAsset&gt; getAssets()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.DataApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.wearable.DataApi.DataItemResult&gt; getDataItem(com.google.android.gms.common.api.GoogleApiClient, android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.Wearable DataApi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataEventBuffer java.lang.String ha()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.e com.google.android.gms.wearable.PutDataRequest en(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.Wearable DQ'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.Wearable axl'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataRequest com.google.android.gms.wearable.PutDataRequest create(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataRequest WEAR_URI_SCHEME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataEventBuffer java.lang.Object f(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.wearable.DataItemBuffer&gt; getDataItems(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.Asset void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.e java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataMapRequest com.google.android.gms.wearable.PutDataMapRequest create(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.Wearable axm'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.d com.google.android.gms.wearable.c em(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataItemBuffer DataItemBuffer(com.google.android.gms.common.data.DataHolder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataRequest com.google.android.gms.wearable.PutDataRequest setData(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataMap byte[] toByteArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataItem com.google.android.gms.wearable.DataItem setData(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.DataItemBuffer com.google.android.gms.common.api.Status getStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataMap java.util.ArrayList&lt;com.google.android.gms.wearable.DataMap&gt; arrayListFromBundleArrayList(java.util.ArrayList&lt;android.os.Bundle&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataMapRequest com.google.android.gms.wearable.PutDataMapRequest createWithAutoAppendedId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.a com.google.android.gms.wearable.Asset el(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataEventBuffer com.google.android.gms.wearable.DataEvent q(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.Asset com.google.android.gms.wearable.Asset createFromFd(android.os.ParcelFileDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.MessageApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; removeListener(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.wearable.MessageApi.MessageListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataRequest com.google.android.gms.wearable.PutDataRequest createWithAutoAppendedId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataMap android.os.Bundle toBundle()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataRequest com.google.android.gms.wearable.PutDataRequest putAsset(java.lang.String, com.google.android.gms.wearable.Asset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.DataMap com.google.android.gms.wearable.DataMap fromBundle(android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.PutDataRequest com.google.android.gms.wearable.PutDataRequest createWithAutoAppendedId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wearable.a com.google.android.gms.wearable.Asset el(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

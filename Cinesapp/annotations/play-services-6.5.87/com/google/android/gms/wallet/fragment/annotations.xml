@@ -1,0 +1,179 @@
+<root>
+    <item name='com.google.android.gms.wallet.fragment.a java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentOptions.Builder com.google.android.gms.wallet.fragment.WalletFragmentOptions.Builder setMode(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragment void onSaveInstanceState(android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.Dimension long a(android.util.TypedValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle com.google.android.gms.wallet.fragment.WalletFragmentStyle setStyleResourceId(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentOptions.Builder com.google.android.gms.wallet.fragment.WalletFragmentOptions.Builder setFragmentStyle(com.google.android.gms.wallet.fragment.WalletFragmentStyle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentOptions.Builder com.google.android.gms.wallet.fragment.WalletFragmentOptions.Builder setTheme(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.a com.google.android.gms.wallet.fragment.WalletFragmentInitParams dZ(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle com.google.android.gms.wallet.fragment.WalletFragmentStyle setBuyButtonAppearance(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle com.google.android.gms.wallet.fragment.WalletFragmentStyle setBuyButtonHeight(int, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.c java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentOptions void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.SupportWalletFragment com.google.android.gms.wallet.fragment.SupportWalletFragment newInstance(com.google.android.gms.wallet.fragment.WalletFragmentOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.a java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.a java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.b com.google.android.gms.wallet.fragment.WalletFragmentOptions[] gi(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.c java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.b com.google.android.gms.wallet.fragment.WalletFragmentOptions ea(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentInitParams com.google.android.gms.wallet.fragment.WalletFragmentInitParams.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentInitParams.Builder com.google.android.gms.wallet.fragment.WalletFragmentInitParams.Builder setMaskedWalletRequestCode(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentInitParams CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle com.google.android.gms.wallet.fragment.WalletFragmentStyle setBuyButtonHeight(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentOptions CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.b java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle com.google.android.gms.wallet.fragment.WalletFragmentStyle setBuyButtonText(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.b com.google.android.gms.wallet.fragment.WalletFragmentOptions ea(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentInitParams void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle com.google.android.gms.wallet.fragment.WalletFragmentStyle setMaskedWalletDetailsTextAppearance(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle com.google.android.gms.wallet.fragment.WalletFragmentStyle setBuyButtonWidth(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.a com.google.android.gms.wallet.fragment.WalletFragmentInitParams[] gh(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.c com.google.android.gms.wallet.fragment.WalletFragmentStyle[] gj(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.c com.google.android.gms.wallet.fragment.WalletFragmentStyle eb(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentOptions com.google.android.gms.wallet.fragment.WalletFragmentOptions.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle com.google.android.gms.wallet.fragment.WalletFragmentStyle setMaskedWalletDetailsButtonBackgroundColor(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.SupportWalletFragment void onSaveInstanceState(android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle com.google.android.gms.wallet.fragment.WalletFragmentStyle setMaskedWalletDetailsBackgroundColor(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle com.google.android.gms.wallet.fragment.WalletFragmentStyle setMaskedWalletDetailsButtonTextAppearance(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentOptions com.google.android.gms.wallet.fragment.WalletFragmentOptions a(android.content.Context, android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle com.google.android.gms.wallet.fragment.WalletFragmentStyle setMaskedWalletDetailsButtonBackgroundResource(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle com.google.android.gms.wallet.fragment.WalletFragmentStyle setMaskedWalletDetailsLogoImageType(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragment com.google.android.gms.wallet.fragment.WalletFragment newInstance(com.google.android.gms.wallet.fragment.WalletFragmentOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.b java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.a com.google.android.gms.wallet.fragment.WalletFragmentInitParams dZ(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle com.google.android.gms.wallet.fragment.WalletFragmentStyle setMaskedWalletDetailsHeaderTextAppearance(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.c java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentOptions.Builder com.google.android.gms.wallet.fragment.WalletFragmentOptions.Builder setFragmentStyle(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle com.google.android.gms.wallet.fragment.WalletFragmentStyle setBuyButtonWidth(int, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle com.google.android.gms.wallet.fragment.WalletFragmentStyle setMaskedWalletDetailsBackgroundResource(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.b java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle void ab(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentOptions com.google.android.gms.wallet.fragment.WalletFragmentOptions a(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentInitParams.Builder com.google.android.gms.wallet.fragment.WalletFragmentInitParams.Builder setMaskedWalletRequest(com.google.android.gms.wallet.MaskedWalletRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentStyle com.google.android.gms.wallet.fragment.WalletFragmentStyle setMaskedWalletDetailsLogoTextColor(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.c com.google.android.gms.wallet.fragment.WalletFragmentStyle eb(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentInitParams.Builder com.google.android.gms.wallet.fragment.WalletFragmentInitParams.Builder setAccountName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentOptions.Builder com.google.android.gms.wallet.fragment.WalletFragmentOptions.Builder setEnvironment(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.wallet.fragment.WalletFragmentInitParams.Builder com.google.android.gms.wallet.fragment.WalletFragmentInitParams.Builder setMaskedWallet(com.google.android.gms.wallet.MaskedWallet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

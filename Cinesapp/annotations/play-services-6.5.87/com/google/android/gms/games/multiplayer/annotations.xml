@@ -1,0 +1,239 @@
+<root>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantResultCreator com.google.android.gms.games.multiplayer.ParticipantResult createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantUtils boolean bY(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.Participatable java.util.ArrayList&lt;com.google.android.gms.games.multiplayer.Participant&gt; getParticipants()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationBuffer java.lang.Object f(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.Multiplayer EXTRA_MIN_AUTOMATCH_PLAYERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantEntity com.google.android.gms.games.multiplayer.Participant freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantResult CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.Invitations.LoadInvitationsResult com.google.android.gms.games.multiplayer.InvitationBuffer getInvitations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantRef void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantEntityCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.Invitations android.content.Intent getInvitationInboxIntent(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationBuffer java.lang.String ha()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.Multiplayer EXTRA_INVITATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantRef com.google.android.gms.games.multiplayer.Participant freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationRef java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantRef ParticipantRef(com.google.android.gms.common.data.DataHolder, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantResultCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantResultCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantResult void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationRef void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationEntity java.util.ArrayList&lt;com.google.android.gms.games.multiplayer.Participant&gt; getParticipants()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantResultCreator com.google.android.gms.games.multiplayer.ParticipantResult[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantEntityCreator com.google.android.gms.games.multiplayer.ParticipantEntity[] em(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantResult java.lang.String getParticipantId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantEntityCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.Invitations void registerInvitationListener(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.OnInvitationReceivedListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantEntity CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantEntity void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.Multiplayer EXTRA_EXCLUSIVE_BIT_MASK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationEntityCreator com.google.android.gms.games.multiplayer.InvitationEntity[] el(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationEntity com.google.android.gms.games.multiplayer.Invitation freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantEntityCreator com.google.android.gms.games.multiplayer.ParticipantEntity cA(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantBuffer com.google.android.gms.games.multiplayer.Participant get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationBuffer com.google.android.gms.games.multiplayer.Invitation k(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationEntityCreator com.google.android.gms.games.multiplayer.InvitationEntity cz(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.Invitations com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.Invitations.LoadInvitationsResult&gt; loadInvitations(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.Invitations void unregisterInvitationListener(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationRef com.google.android.gms.games.multiplayer.Participant getInviter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.Invitation com.google.android.gms.games.Game getGame()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationEntity void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationEntityCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.Multiplayer EXTRA_ROOM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantEntity ParticipantEntity(com.google.android.gms.games.multiplayer.Participant) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantResultCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.Invitations com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.Invitations.LoadInvitationsResult&gt; loadInvitations(com.google.android.gms.common.api.GoogleApiClient, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantRef void getDisplayName(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.Multiplayer EXTRA_MAX_AUTOMATCH_PLAYERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.Invitation com.google.android.gms.games.multiplayer.Participant getInviter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantRef java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationEntity CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantResultCreator com.google.android.gms.games.multiplayer.ParticipantResult createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationRef java.util.ArrayList&lt;com.google.android.gms.games.multiplayer.Participant&gt; getParticipants()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantBuffer java.lang.Object get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.Participant void getDisplayName(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationEntityCreator com.google.android.gms.games.multiplayer.InvitationEntity cz(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantEntity void getDisplayName(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationRef com.google.android.gms.games.Game getGame()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationEntityCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationEntity java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantResult ParticipantResult(java.lang.String, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantResult ParticipantResult(int, java.lang.String, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationRef com.google.android.gms.games.multiplayer.Invitation freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantUtils java.lang.String getParticipantId(java.util.ArrayList&lt;com.google.android.gms.games.multiplayer.Participant&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantEntityCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.InvitationEntityCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.Multiplayer EXTRA_TURN_BASED_MATCH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantEntityCreator com.google.android.gms.games.multiplayer.ParticipantEntity cA(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.ParticipantEntity java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

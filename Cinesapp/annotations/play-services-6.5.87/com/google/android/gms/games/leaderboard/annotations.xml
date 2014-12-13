@@ -1,0 +1,275 @@
+<root>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboard java.util.ArrayList&lt;com.google.android.gms.games.leaderboard.LeaderboardVariant&gt; getVariants()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScore void getDisplayScore(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboard void getDisplayName(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards void submitScore(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.SubmitScoreResult&gt; submitScoreImmediate(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.ScoreSubmissionData ScoreSubmissionData(com.google.android.gms.common.data.DataHolder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreRef java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards android.content.Intent getLeaderboardIntent(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreRef void getScoreHolderDisplayName(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardEntity LeaderboardEntity(com.google.android.gms.games.leaderboard.Leaderboard) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreRef void getDisplayRank(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards.LeaderboardMetadataResult com.google.android.gms.games.leaderboard.LeaderboardBuffer getLeaderboards()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.LoadScoresResult&gt; loadPlayerCenteredScores(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, int, int, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.LeaderboardMetadataResult&gt; loadLeaderboardMetadata(com.google.android.gms.common.api.GoogleApiClient, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreBufferHeader android.os.Bundle mI()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreEntity void getDisplayRank(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardEntity com.google.android.gms.games.leaderboard.Leaderboard mG()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreEntity void getScoreHolderDisplayName(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardRef com.google.android.gms.games.leaderboard.Leaderboard mG()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreEntity LeaderboardScoreEntity(com.google.android.gms.games.leaderboard.LeaderboardScore) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScore java.lang.String getDisplayRank()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards android.content.Intent getLeaderboardIntent(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreEntity com.google.android.gms.games.leaderboard.LeaderboardScore mJ()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScore java.lang.String getDisplayScore()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardEntity java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards.LoadScoresResult com.google.android.gms.games.leaderboard.LeaderboardScoreBuffer getScores()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardRef java.util.ArrayList&lt;com.google.android.gms.games.leaderboard.LeaderboardVariant&gt; getVariants()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreRef com.google.android.gms.games.leaderboard.LeaderboardScore mJ()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreBuffer com.google.android.gms.games.leaderboard.LeaderboardScoreBufferHeader mH()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreEntity java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreBuffer LeaderboardScoreBuffer(com.google.android.gms.common.data.DataHolder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.LoadScoresResult&gt; loadTopScores(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.LoadScoresResult&gt; loadPlayerCenteredScores(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardBuffer java.lang.Object f(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreRef void getDisplayScore(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScore void getDisplayRank(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardBuffer java.lang.String ha()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreEntity java.lang.String getDisplayRank()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardBuffer com.google.android.gms.games.leaderboard.Leaderboard j(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.SubmitScoreResult&gt; submitScoreImmediate(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, long, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreEntity java.lang.String getDisplayScore()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardEntity void getDisplayName(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardRef com.google.android.gms.games.Game getGame()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreEntity void getDisplayScore(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.LoadPlayerScoreResult&gt; loadCurrentPlayerLeaderboardScore(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.LoadScoresResult&gt; loadMoreScores(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.leaderboard.LeaderboardScoreBuffer, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards void submitScore(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, long, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardVariantRef java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.LoadScoresResult&gt; loadTopScores(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, int, int, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards android.content.Intent getAllLeaderboardsIntent(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.LeaderboardMetadataResult&gt; loadLeaderboardMetadata(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardRef java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardRef void getDisplayName(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.Leaderboards.SubmitScoreResult com.google.android.gms.games.leaderboard.ScoreSubmissionData getScoreData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreBuffer com.google.android.gms.games.leaderboard.LeaderboardScore get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardVariantEntity com.google.android.gms.games.leaderboard.LeaderboardVariant mN()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardVariantRef com.google.android.gms.games.leaderboard.LeaderboardVariant mN()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardVariantEntity java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardEntity java.util.ArrayList&lt;com.google.android.gms.games.leaderboard.LeaderboardVariant&gt; getVariants()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardVariantEntity LeaderboardVariantEntity(com.google.android.gms.games.leaderboard.LeaderboardVariant) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScoreBuffer java.lang.Object get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.leaderboard.LeaderboardScore void getScoreHolderDisplayName(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

@@ -1,0 +1,17 @@
+<root>
+    <item name='com.google.ads.mediation.admob.AdMobAdapter void requestInterstitialAd(android.content.Context, com.google.android.gms.ads.mediation.MediationInterstitialListener, android.os.Bundle, com.google.android.gms.ads.mediation.MediationAdRequest, android.os.Bundle) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.mediation.admob.AdMobAdapter void requestBannerAd(android.content.Context, com.google.android.gms.ads.mediation.MediationBannerListener, android.os.Bundle, com.google.android.gms.ads.AdSize, com.google.android.gms.ads.mediation.MediationAdRequest, android.os.Bundle) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.mediation.admob.AdMobAdapter void requestBannerAd(android.content.Context, com.google.android.gms.ads.mediation.MediationBannerListener, android.os.Bundle, com.google.android.gms.ads.AdSize, com.google.android.gms.ads.mediation.MediationAdRequest, android.os.Bundle) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.mediation.admob.AdMobAdapter void requestInterstitialAd(android.content.Context, com.google.android.gms.ads.mediation.MediationInterstitialListener, android.os.Bundle, com.google.android.gms.ads.mediation.MediationAdRequest, android.os.Bundle) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.mediation.admob.AdMobAdapter void requestBannerAd(android.content.Context, com.google.android.gms.ads.mediation.MediationBannerListener, android.os.Bundle, com.google.android.gms.ads.AdSize, com.google.android.gms.ads.mediation.MediationAdRequest, android.os.Bundle) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,119 @@
+<root>
+    <item name='com.google.android.gms.analytics.ecommerce.Promotion java.util.Map&lt;java.lang.String,java.lang.String&gt; aq(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction com.google.android.gms.analytics.ecommerce.ProductAction setTransactionId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction ACTION_REMOVE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Promotion com.google.android.gms.analytics.ecommerce.Promotion setCreative(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Product com.google.android.gms.analytics.ecommerce.Product setVariant(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Promotion ACTION_CLICK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction com.google.android.gms.analytics.ecommerce.ProductAction setTransactionShipping(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Promotion com.google.android.gms.analytics.ecommerce.Promotion setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction com.google.android.gms.analytics.ecommerce.ProductAction setCheckoutStep(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Product com.google.android.gms.analytics.ecommerce.Product setPosition(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction ACTION_DETAIL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction ACTION_PURCHASE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction com.google.android.gms.analytics.ecommerce.ProductAction setTransactionRevenue(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Product com.google.android.gms.analytics.ecommerce.Product setCategory(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction java.util.Map&lt;java.lang.String,java.lang.String&gt; build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction com.google.android.gms.analytics.ecommerce.ProductAction setCheckoutOptions(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction ACTION_ADD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction ACTION_CHECKOUT_OPTIONS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction ACTION_CLICK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Product java.util.Map&lt;java.lang.String,java.lang.String&gt; aq(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction ACTION_CHECKOUT_OPTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction com.google.android.gms.analytics.ecommerce.ProductAction setTransactionTax(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Product com.google.android.gms.analytics.ecommerce.Product setBrand(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction com.google.android.gms.analytics.ecommerce.ProductAction setTransactionAffiliation(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Product com.google.android.gms.analytics.ecommerce.Product setCouponCode(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Promotion ACTION_VIEW'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction com.google.android.gms.analytics.ecommerce.ProductAction setTransactionCouponCode(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction com.google.android.gms.analytics.ecommerce.ProductAction setProductListSource(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Product com.google.android.gms.analytics.ecommerce.Product setQuantity(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Product com.google.android.gms.analytics.ecommerce.Product setCustomDimension(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Product com.google.android.gms.analytics.ecommerce.Product setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Product com.google.android.gms.analytics.ecommerce.Product setId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Product com.google.android.gms.analytics.ecommerce.Product setPrice(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction ACTION_REFUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Promotion com.google.android.gms.analytics.ecommerce.Promotion setPosition(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Promotion com.google.android.gms.analytics.ecommerce.Promotion setId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.Product com.google.android.gms.analytics.ecommerce.Product setCustomMetric(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction ACTION_CHECKOUT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.analytics.ecommerce.ProductAction com.google.android.gms.analytics.ecommerce.ProductAction setProductActionList(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

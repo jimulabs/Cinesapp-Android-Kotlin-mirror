@@ -1,0 +1,47 @@
+<root>
+    <item name='com.google.android.gms.identity.intents.a com.google.android.gms.identity.intents.UserAddressRequest cF(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.identity.intents.a java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.identity.intents.Address API'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.identity.intents.AddressConstants.Extras EXTRA_ERROR_CODE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.identity.intents.a java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.identity.intents.UserAddressRequest.Builder com.google.android.gms.identity.intents.UserAddressRequest.Builder addAllowedCountrySpecification(com.google.android.gms.identity.intents.model.CountrySpecification)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.identity.intents.a com.google.android.gms.identity.intents.UserAddressRequest cF(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.identity.intents.a com.google.android.gms.identity.intents.UserAddressRequest[] es(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.identity.intents.UserAddressRequest CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.identity.intents.Address void requestUserAddress(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.identity.intents.UserAddressRequest, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.identity.intents.AddressConstants.Extras EXTRA_ADDRESS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.identity.intents.UserAddressRequest.Builder com.google.android.gms.identity.intents.UserAddressRequest.Builder addAllowedCountrySpecifications(java.util.Collection&lt;com.google.android.gms.identity.intents.model.CountrySpecification&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.identity.intents.a java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.identity.intents.UserAddressRequest void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.identity.intents.UserAddressRequest com.google.android.gms.identity.intents.UserAddressRequest.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

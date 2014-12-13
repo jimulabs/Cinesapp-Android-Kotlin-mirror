@@ -1,0 +1,542 @@
+<root>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_LOCATION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaTrack.Builder com.google.android.gms.cast.MediaTrack.Builder setContentId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.ApplicationMetadata void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; load(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.cast.MediaInfo, boolean, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a java.lang.String getApplicationStatus(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.CastMediaControlIntent EXTRA_DEBUG_LOGGING_ENABLED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; setStreamVolume(com.google.android.gms.common.api.GoogleApiClient, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; play(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; setActiveMediaTracks(com.google.android.gms.common.api.GoogleApiClient, long[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaTrack.Builder com.google.android.gms.cast.MediaTrack.Builder setContentType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast CastApi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.LaunchOptions CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaTrack.Builder com.google.android.gms.cast.MediaTrack.Builder setLanguage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata java.util.List&lt;com.google.android.gms.common.images.WebImage&gt; getImages()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_LOCATION_LATITUDE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.Cast.ApplicationConnectionResult&gt; joinApplication(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; setTextTrackStyle(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.cast.TextTrackStyle) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi void setMessageReceivedCallbacks(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, com.google.android.gms.cast.Cast.MessageReceivedCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_ALBUM_ARTIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; setStreamMute(com.google.android.gms.common.api.GoogleApiClient, boolean, org.json.JSONObject) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a void setMessageReceivedCallbacks(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, com.google.android.gms.cast.Cast.MessageReceivedCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; setStreamVolume(com.google.android.gms.common.api.GoogleApiClient, double, org.json.JSONObject) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.a com.google.android.gms.cast.ApplicationMetadata u(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.CastMediaControlIntent DEFAULT_MEDIA_RECEIVER_APPLICATION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaStatus MediaStatus(org.json.JSONObject) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; play(com.google.android.gms.common.api.GoogleApiClient, org.json.JSONObject) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; pause(com.google.android.gms.common.api.GoogleApiClient, org.json.JSONObject) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_LOCATION_LONGITUDE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.CastMediaControlIntent java.lang.String categoryForCast(java.util.Collection&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.a java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata org.json.JSONObject toJson()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_BROADCAST_DATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; leaveApplication(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; setActiveMediaTracks(com.google.android.gms.common.api.GoogleApiClient, long[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastOptions.Builder com.google.android.gms.cast.Cast.CastOptions.Builder setVerboseLoggingEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.CastMediaControlIntent EXTRA_CAST_STOP_APPLICATION_WHEN_SESSION_ENDS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; setTextTrackStyle(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.cast.TextTrackStyle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; stopApplication(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi void setMessageReceivedCallbacks(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, com.google.android.gms.cast.Cast.MessageReceivedCallback) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.CastMediaControlIntent CATEGORY_CAST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; sendMessage(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.b com.google.android.gms.cast.CastDevice v(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.c java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.b java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_ARTIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_TRACK_NUMBER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a void removeMessageReceivedCallbacks(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.b java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; pause(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.CastMediaControlIntent EXTRA_CAST_APPLICATION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_DISC_NUMBER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a com.google.android.gms.cast.ApplicationMetadata getApplicationMetadata(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaInfo.Builder com.google.android.gms.cast.MediaInfo.Builder setMediaTracks(java.util.List&lt;com.google.android.gms.cast.MediaTrack&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.CastMediaControlIntent EXTRA_CUSTOM_DATA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; setStreamMute(com.google.android.gms.common.api.GoogleApiClient, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.CastMediaControlIntent java.lang.String languageTagForLocale(java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_SEASON_NUMBER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastOptions.Builder com.google.android.gms.cast.Cast.CastOptions build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; load(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.cast.MediaInfo, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.Cast.ApplicationConnectionResult&gt; launchApplication(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.ApplicationMetadata CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_SUBTITLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.CastMediaControlIntent ACTION_SYNC_STATUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastOptions com.google.android.gms.cast.Cast.CastOptions.Builder builder(com.google.android.gms.cast.CastDevice, com.google.android.gms.cast.Cast.Listener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.c java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaTrack.Builder com.google.android.gms.cast.MediaTrack build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.Cast.ApplicationConnectionResult&gt; joinApplication(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaInfo.Builder com.google.android.gms.cast.MediaInfo.Builder setMetadata(com.google.android.gms.cast.MediaMetadata)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_COMPOSER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.b com.google.android.gms.cast.CastDevice v(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_ALBUM_TITLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a void setVolume(com.google.android.gms.common.api.GoogleApiClient, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.b java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.TextTrackStyle void c(org.json.JSONObject) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_WIDTH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.b com.google.android.gms.cast.CastDevice[] Z(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi com.google.android.gms.cast.ApplicationMetadata getApplicationMetadata(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.MediaTrack.Builder com.google.android.gms.cast.MediaTrack.Builder setCustomData(org.json.JSONObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_CREATION_DATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.LaunchOptions.Builder com.google.android.gms.cast.LaunchOptions.Builder setLocale(java.util.Locale)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; load(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.cast.MediaInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi void setVolume(com.google.android.gms.common.api.GoogleApiClient, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; load(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.cast.MediaInfo, boolean, long, org.json.JSONObject) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; seek(com.google.android.gms.common.api.GoogleApiClient, long, int, org.json.JSONObject) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaTrack.Builder com.google.android.gms.cast.MediaTrack.Builder setSubtype(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; stop(com.google.android.gms.common.api.GoogleApiClient, org.json.JSONObject) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.TextTrackStyle com.google.android.gms.cast.TextTrackStyle fromSystemSettings(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaTrack.Builder com.google.android.gms.cast.MediaTrack.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.Cast.ApplicationConnectionResult&gt; joinApplication(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.CastMediaControlIntent EXTRA_CAST_RELAUNCH_APPLICATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi java.lang.String getApplicationStatus(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_EPISODE_NUMBER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi double getVolume(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.TextTrackStyle org.json.JSONObject toJson()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi void requestStatus(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.Cast.ApplicationConnectionResult&gt; joinApplication(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.c com.google.android.gms.cast.LaunchOptions w(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; seek(com.google.android.gms.common.api.GoogleApiClient, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.c com.google.android.gms.cast.LaunchOptions[] aa(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; stopApplication(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.Cast.ApplicationConnectionResult&gt; launchApplication(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaTrack org.json.JSONObject toJson()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaInfo.Builder com.google.android.gms.cast.MediaInfo.Builder setTextTrackStyle(com.google.android.gms.cast.TextTrackStyle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_TITLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaInfo.Builder com.google.android.gms.cast.MediaInfo.Builder setStreamDuration(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.a a(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_HEIGHT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; stopApplication(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; stop(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaInfo.Builder com.google.android.gms.cast.MediaInfo.Builder setContentType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; leaveApplication(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaInfo org.json.JSONObject toJson()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.LaunchOptions.Builder com.google.android.gms.cast.LaunchOptions.Builder setRelaunchIfRunning(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; stopApplication(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.a java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.CastMediaControlIntent java.lang.String categoryForCast(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastOptions com.google.android.gms.cast.Cast.CastOptions.Builder builder(com.google.android.gms.cast.CastDevice, com.google.android.gms.cast.Cast.Listener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.Cast.ApplicationConnectionResult&gt; launchApplication(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.LaunchOptions.Builder com.google.android.gms.cast.LaunchOptions.Builder setLocale(java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; requestStatus(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.Cast.ApplicationConnectionResult&gt; launchApplication(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast API'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaTrack.Builder com.google.android.gms.cast.MediaTrack.Builder setLanguage(java.util.Locale)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaInfo.Builder com.google.android.gms.cast.MediaInfo.Builder setStreamType(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a void setMessageReceivedCallbacks(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, com.google.android.gms.cast.Cast.MessageReceivedCallback) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; load(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.cast.MediaInfo, boolean, long, long[], org.json.JSONObject) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.a java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_STUDIO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi void setMute(com.google.android.gms.common.api.GoogleApiClient, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a void requestStatus(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; sendMessage(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaInfo.Builder com.google.android.gms.cast.MediaInfo.Builder setCustomData(org.json.JSONObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.Cast.ApplicationConnectionResult&gt; launchApplication(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, com.google.android.gms.cast.LaunchOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.CastMediaControlIntent EXTRA_ERROR_CODE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.CastMediaControlIntent java.lang.String categoryForCast(java.lang.String, java.util.Collection&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.c com.google.android.gms.cast.LaunchOptions w(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_RELEASE_DATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.Cast.ApplicationConnectionResult&gt; joinApplication(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a double getVolume(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.LaunchOptions void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi boolean isMute(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.a com.google.android.gms.cast.ApplicationMetadata[] V(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastOptions com.google.android.gms.cast.Cast.CastOptions.Builder builder(com.google.android.gms.cast.CastDevice, com.google.android.gms.cast.Cast.Listener) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.a com.google.android.gms.cast.ApplicationMetadata u(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaInfo.Builder com.google.android.gms.cast.MediaInfo build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.CastMediaControlIntent EXTRA_CAST_LANGUAGE_CODE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaTrack.Builder com.google.android.gms.cast.MediaTrack.Builder setLanguage(java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.Cast.ApplicationConnectionResult&gt; launchApplication(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, com.google.android.gms.cast.LaunchOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.MediaMetadata KEY_SERIES_TITLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast EXTRA_APP_NO_LONGER_RUNNING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.CastDevice CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a void setMute(com.google.android.gms.common.api.GoogleApiClient, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.MediaStatus int a(org.json.JSONObject, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.CastMediaControlIntent java.lang.String categoryForCast(java.lang.String, java.util.Collection&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.c java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.Cast.ApplicationConnectionResult&gt; joinApplication(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.CastDevice void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.RemoteMediaPlayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.cast.RemoteMediaPlayer.MediaChannelResult&gt; seek(com.google.android.gms.common.api.GoogleApiClient, long, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi void removeMessageReceivedCallbacks(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.cast.Cast.CastApi.a boolean isMute(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

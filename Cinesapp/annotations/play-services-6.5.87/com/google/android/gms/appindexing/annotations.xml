@@ -1,0 +1,239 @@
+<root>
+    <item name='com.google.android.gms.appindexing.Thing.Builder com.google.android.gms.appindexing.Thing.Builder put(java.lang.String, com.google.android.gms.appindexing.Thing)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Thing.Builder setUrl(android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder Builder(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Thing.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Action.Builder setUrl(android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Action.Builder put(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.AppIndexApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; view(com.google.android.gms.common.api.GoogleApiClient, android.app.Activity, android.net.Uri, java.lang.String, android.net.Uri, java.util.List&lt;com.google.android.gms.appindexing.AppIndexApi.AppIndexingLink&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.appindexing.Thing.Builder com.google.android.gms.appindexing.Thing.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action com.google.android.gms.appindexing.Action newAction(java.lang.String, java.lang.String, android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Thing.Builder com.google.android.gms.appindexing.Thing.Builder setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.AppIndexApi com.google.android.gms.appindexing.AppIndexApi.ActionResult action(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.appindexing.Action) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action TYPE_VIEW'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action TYPE_LISTEN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action TYPE_ADD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action com.google.android.gms.appindexing.Action newAction(java.lang.String, java.lang.String, android.net.Uri, android.net.Uri) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action TYPE_LIKE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Thing.Builder setUrl(android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action TYPE_WATCH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Thing.Builder com.google.android.gms.appindexing.Thing build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action TYPE_BOOKMARK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action com.google.android.gms.appindexing.Action newAction(java.lang.String, java.lang.String, android.net.Uri) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.AppIndexApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; viewEnd(com.google.android.gms.common.api.GoogleApiClient, android.app.Activity, android.content.Intent) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Action.Builder setObject(com.google.android.gms.appindexing.Thing)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Thing.Builder put(java.lang.String, com.google.android.gms.appindexing.Thing) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Action.Builder setObject(com.google.android.gms.appindexing.Thing) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.AppIndexApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; view(com.google.android.gms.common.api.GoogleApiClient, android.app.Activity, android.content.Intent, java.lang.String, android.net.Uri, java.util.List&lt;com.google.android.gms.appindexing.AppIndexApi.AppIndexingLink&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.appindexing.AppIndexApi com.google.android.gms.appindexing.AppIndexApi.ActionResult action(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.appindexing.Action) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Action build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.AppIndex API'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Action.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Thing.Builder put(java.lang.String, com.google.android.gms.appindexing.Thing)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Thing.Builder com.google.android.gms.appindexing.Thing.Builder put(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action com.google.android.gms.appindexing.Action newAction(java.lang.String, java.lang.String, android.net.Uri) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action com.google.android.gms.appindexing.Action newAction(java.lang.String, java.lang.String, android.net.Uri, android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.AppIndexApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; view(com.google.android.gms.common.api.GoogleApiClient, android.app.Activity, android.net.Uri, java.lang.String, android.net.Uri, java.util.List&lt;com.google.android.gms.appindexing.AppIndexApi.AppIndexingLink&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Thing.Builder put(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.AppIndexApi.AppIndexingLink AppIndexingLink(android.net.Uri, android.net.Uri, android.view.View) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.AppIndexApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; view(com.google.android.gms.common.api.GoogleApiClient, android.app.Activity, android.content.Intent, java.lang.String, android.net.Uri, java.util.List&lt;com.google.android.gms.appindexing.AppIndexApi.AppIndexingLink&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.appindexing.AppIndexApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; viewEnd(com.google.android.gms.common.api.GoogleApiClient, android.app.Activity, android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Thing.Builder setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.appindexing.AppIndexApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; viewEnd(com.google.android.gms.common.api.GoogleApiClient, android.app.Activity, android.net.Uri) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action com.google.android.gms.appindexing.Action newAction(java.lang.String, java.lang.String, android.net.Uri, android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Thing.Builder com.google.android.gms.appindexing.Thing.Builder setType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Action.Builder put(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action com.google.android.gms.appindexing.Action newAction(java.lang.String, java.lang.String, android.net.Uri, android.net.Uri) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Thing.Builder com.google.android.gms.appindexing.Thing.Builder put(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.AppIndexApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; viewEnd(com.google.android.gms.common.api.GoogleApiClient, android.app.Activity, android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.appindexing.AppIndexApi.AppIndexingLink AppIndexingLink(android.net.Uri, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Thing.Builder com.google.android.gms.appindexing.Thing.Builder setId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Thing.Builder com.google.android.gms.appindexing.Thing.Builder setUrl(android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.AppIndexApi.ActionResult com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; end(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Action.Builder put(java.lang.String, com.google.android.gms.appindexing.Thing)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Thing.Builder put(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Action.Builder put(java.lang.String, com.google.android.gms.appindexing.Thing) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.AppIndexApi com.google.android.gms.appindexing.AppIndexApi.ActionResult action(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.appindexing.Action)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.appindexing.Thing.Builder com.google.android.gms.appindexing.Thing.Builder setDescription(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.AppIndex APP_INDEX_API'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action TYPE_WANT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.AppIndex AppIndexApi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.AndroidAppUri com.google.android.gms.appindexing.AndroidAppUri newAndroidAppUri(android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action.Builder com.google.android.gms.appindexing.Thing build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Action com.google.android.gms.appindexing.Action newAction(java.lang.String, java.lang.String, android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.AndroidAppUri com.google.android.gms.appindexing.AndroidAppUri newAndroidAppUri(java.lang.String, android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Thing.Builder com.google.android.gms.appindexing.Thing.Builder setUrl(android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appindexing.Thing.Builder com.google.android.gms.appindexing.Thing.Builder put(java.lang.String, com.google.android.gms.appindexing.Thing) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

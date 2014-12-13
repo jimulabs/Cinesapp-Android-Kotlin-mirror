@@ -1,0 +1,80 @@
+<root>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder setCallButtonColor(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder setBorderColor(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder setHeaderTextColor(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest boolean isTestDevice(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder setQuery(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder setFontFace(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder setBorderType(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder setCustomChannels(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder setBackgroundGradient(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder addNetworkExtras(com.google.android.gms.ads.mediation.NetworkExtras) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder addNetworkExtrasBundle(java.lang.Class&lt;? extends com.google.android.gms.ads.mediation.MediationAdapter&gt;, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder addCustomEventExtrasBundle(java.lang.Class&lt;? extends com.google.android.gms.ads.mediation.customevent.CustomEvent&gt;, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest android.os.Bundle getNetworkExtrasBundle(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder setDescriptionTextColor(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdView void loadAd(com.google.android.gms.ads.search.SearchAdRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder addTestDevice(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder addNetworkExtras(com.google.android.gms.ads.mediation.NetworkExtras)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder addNetworkExtrasBundle(java.lang.Class&lt;? extends com.google.android.gms.ads.mediation.MediationAdapter&gt;, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder setLocation(android.location.Location)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder setBorderThickness(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder tagForChildDirectedTreatment(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder setHeaderTextSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder setAnchorTextColor(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder addCustomEventExtrasBundle(java.lang.Class&lt;? extends com.google.android.gms.ads.mediation.customevent.CustomEvent&gt;, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.search.SearchAdRequest.Builder com.google.android.gms.ads.search.SearchAdRequest.Builder setBackgroundColor(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

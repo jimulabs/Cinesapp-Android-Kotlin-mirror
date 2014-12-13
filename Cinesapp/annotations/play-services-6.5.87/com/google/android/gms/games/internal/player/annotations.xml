@@ -1,0 +1,47 @@
+<root>
+    <item name='com.google.android.gms.games.internal.player.MostRecentGameInfoEntityCreator com.google.android.gms.games.internal.player.MostRecentGameInfoEntity[] ei(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.player.MostRecentGameInfoEntity MostRecentGameInfoEntity(com.google.android.gms.games.internal.player.MostRecentGameInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.player.MostRecentGameInfoRef com.google.android.gms.games.internal.player.MostRecentGameInfo mC()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.player.MostRecentGameInfoEntity void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.player.MostRecentGameInfoEntityCreator com.google.android.gms.games.internal.player.MostRecentGameInfoEntity cx(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.player.MostRecentGameInfoEntity com.google.android.gms.games.internal.player.MostRecentGameInfo mC()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.player.MostRecentGameInfoRef MostRecentGameInfoRef(com.google.android.gms.common.data.DataHolder, int, com.google.android.gms.games.internal.player.PlayerColumnNames) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.player.MostRecentGameInfoEntityCreator com.google.android.gms.games.internal.player.MostRecentGameInfoEntity cx(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.player.MostRecentGameInfoRef java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.player.MostRecentGameInfoRef void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.player.MostRecentGameInfoEntity CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.player.MostRecentGameInfoEntityCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.player.MostRecentGameInfoEntity java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.player.MostRecentGameInfoEntityCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.player.MostRecentGameInfoEntityCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

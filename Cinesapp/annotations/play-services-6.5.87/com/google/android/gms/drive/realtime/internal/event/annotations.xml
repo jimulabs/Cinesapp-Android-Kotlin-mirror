@@ -1,0 +1,242 @@
+<root>
+    <item name='com.google.android.gms.drive.realtime.internal.event.d java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.j java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.f com.google.android.gms.drive.realtime.internal.event.TextInsertedDetails bl(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.g java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.e java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.f com.google.android.gms.drive.realtime.internal.event.TextInsertedDetails[] cB(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.h java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.h com.google.android.gms.drive.realtime.internal.event.ValuesAddedDetails bn(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.b java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.ValuesRemovedDetails void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.a com.google.android.gms.drive.realtime.internal.event.ObjectChangedDetails bg(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.c java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.j java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.e com.google.android.gms.drive.realtime.internal.event.TextDeletedDetails[] cA(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.i java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.ObjectChangedDetails void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.b com.google.android.gms.drive.realtime.internal.event.ParcelableEvent bh(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.ParcelableEvent CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.ValuesSetDetails void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.j com.google.android.gms.drive.realtime.internal.event.ValuesSetDetails bp(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.b java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.c java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.g com.google.android.gms.drive.realtime.internal.event.ValueChangedDetails[] cC(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.a java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.i java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.g com.google.android.gms.drive.realtime.internal.event.ValueChangedDetails bm(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.ParcelableEventList CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.f java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.a com.google.android.gms.drive.realtime.internal.event.ObjectChangedDetails[] cw(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.c com.google.android.gms.drive.realtime.internal.event.ParcelableEventList bi(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.d com.google.android.gms.drive.realtime.internal.event.ReferenceShiftedDetails bj(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.ValuesAddedDetails CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.a java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.i com.google.android.gms.drive.realtime.internal.event.ValuesRemovedDetails[] cE(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.h com.google.android.gms.drive.realtime.internal.event.ValuesAddedDetails[] cD(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.a com.google.android.gms.drive.realtime.internal.event.ObjectChangedDetails bg(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.ValueChangedDetails void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.TextInsertedDetails void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.c java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.h java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.d com.google.android.gms.drive.realtime.internal.event.ReferenceShiftedDetails bj(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.g java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.f java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.TextDeletedDetails void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.g com.google.android.gms.drive.realtime.internal.event.ValueChangedDetails bm(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.ParcelableEventList void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.TextDeletedDetails CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.d com.google.android.gms.drive.realtime.internal.event.ReferenceShiftedDetails[] cz(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.i com.google.android.gms.drive.realtime.internal.event.ValuesRemovedDetails bo(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.e java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.e com.google.android.gms.drive.realtime.internal.event.TextDeletedDetails bk(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.d java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.ValuesSetDetails CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.b java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.e com.google.android.gms.drive.realtime.internal.event.TextDeletedDetails bk(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.ParcelableEvent void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.c com.google.android.gms.drive.realtime.internal.event.ParcelableEventList[] cy(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.i com.google.android.gms.drive.realtime.internal.event.ValuesRemovedDetails bo(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.ValuesRemovedDetails CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.ReferenceShiftedDetails void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.ReferenceShiftedDetails CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.e java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.j com.google.android.gms.drive.realtime.internal.event.ValuesSetDetails bp(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.b com.google.android.gms.drive.realtime.internal.event.ParcelableEvent bh(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.h com.google.android.gms.drive.realtime.internal.event.ValuesAddedDetails bn(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.a java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.j com.google.android.gms.drive.realtime.internal.event.ValuesSetDetails[] cF(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.j java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.h java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.i java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.f com.google.android.gms.drive.realtime.internal.event.TextInsertedDetails bl(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.ValueChangedDetails CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.f java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.TextInsertedDetails CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.ObjectChangedDetails CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.ValuesAddedDetails void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.c com.google.android.gms.drive.realtime.internal.event.ParcelableEventList bi(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.d java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.g java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.realtime.internal.event.b com.google.android.gms.drive.realtime.internal.event.ParcelableEvent[] cx(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

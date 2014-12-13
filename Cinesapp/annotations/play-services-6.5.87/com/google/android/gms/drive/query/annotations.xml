@@ -1,0 +1,266 @@
+<root>
+    <item name='com.google.android.gms.drive.query.Query.Builder com.google.android.gms.drive.query.Query.Builder setPageToken(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.c java.lang.String jc()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter in(com.google.android.gms.drive.metadata.SearchableCollectionMetadataField&lt;T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.c java.lang.String a(com.google.android.gms.drive.query.internal.Operator, com.google.android.gms.drive.metadata.MetadataField&lt;T&gt;, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Query void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.a com.google.android.gms.drive.query.Query aQ(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter greaterThanEquals(com.google.android.gms.drive.metadata.SearchableOrderedMetadataField&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Query CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SortableField CREATED_DATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter lessThan(com.google.android.gms.drive.metadata.SearchableOrderedMetadataField&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter eq(com.google.android.gms.drive.metadata.SearchableMetadataField&lt;T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SearchableField Sd'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter and(com.google.android.gms.drive.query.Filter, com.google.android.gms.drive.query.Filter...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SearchableField TITLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter sharedWithMe()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter and(com.google.android.gms.drive.query.Filter, com.google.android.gms.drive.query.Filter...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.c java.lang.Object b(com.google.android.gms.drive.query.internal.Operator, java.util.List) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter greaterThan(com.google.android.gms.drive.metadata.SearchableOrderedMetadataField&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SearchableField IS_PINNED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.c java.lang.Object b(com.google.android.gms.drive.metadata.b, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter eq(com.google.android.gms.drive.metadata.SearchableMetadataField&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SortOrder.Builder com.google.android.gms.drive.query.SortOrder.Builder addSortAscending(com.google.android.gms.drive.metadata.SortableMetadataField)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Query.Builder com.google.android.gms.drive.query.Query build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SearchableField Se'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.b java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter or(com.google.android.gms.drive.query.Filter, com.google.android.gms.drive.query.Filter...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SearchableField LAST_VIEWED_BY_ME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter eq(com.google.android.gms.drive.metadata.CustomPropertyKey, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SortableField TITLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter contains(com.google.android.gms.drive.metadata.SearchableMetadataField&lt;java.lang.String&gt;, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter greaterThan(com.google.android.gms.drive.metadata.SearchableOrderedMetadataField&lt;T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SortableField QUOTA_USED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SearchableField TRASHED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SearchableField STARRED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.b java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.c java.lang.Object d(com.google.android.gms.drive.metadata.MetadataField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SearchableField MIME_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Query.Builder Builder(com.google.android.gms.drive.query.Query) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SearchableField MODIFIED_DATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.c java.lang.String c(com.google.android.gms.drive.metadata.MetadataField&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.c java.lang.Object b(com.google.android.gms.drive.query.internal.Operator, com.google.android.gms.drive.metadata.MetadataField, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.a java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter and(java.lang.Iterable&lt;com.google.android.gms.drive.query.Filter&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter and(java.lang.Iterable&lt;com.google.android.gms.drive.query.Filter&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SortOrder.Builder com.google.android.gms.drive.query.SortOrder build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SortableField SHARED_WITH_ME_DATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SortableField MODIFIED_DATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter not(com.google.android.gms.drive.query.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.c java.lang.Object jd()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.c java.lang.Object b(com.google.android.gms.drive.query.internal.Operator, java.util.List) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.c java.lang.String a(com.google.android.gms.drive.metadata.b&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.a com.google.android.gms.drive.query.Query[] cf(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.a java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter contains(com.google.android.gms.drive.metadata.SearchableMetadataField&lt;java.lang.String&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SortOrder.Builder com.google.android.gms.drive.query.SortOrder.Builder addSortAscending(com.google.android.gms.drive.metadata.SortableMetadataField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter lessThanEquals(com.google.android.gms.drive.metadata.SearchableOrderedMetadataField&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.b java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.b com.google.android.gms.drive.query.SortOrder[] cg(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter greaterThanEquals(com.google.android.gms.drive.metadata.SearchableOrderedMetadataField&lt;T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.c java.lang.String c(com.google.android.gms.drive.metadata.MetadataField&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.c java.lang.String a(com.google.android.gms.drive.query.internal.Operator, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.b com.google.android.gms.drive.query.SortOrder aR(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter lessThan(com.google.android.gms.drive.metadata.SearchableOrderedMetadataField&lt;T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Query.Builder com.google.android.gms.drive.query.Query.Builder addFilter(com.google.android.gms.drive.query.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.c java.lang.Object d(com.google.android.gms.drive.metadata.MetadataField, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SortOrder CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Query.Builder com.google.android.gms.drive.query.Query.Builder setSortOrder(com.google.android.gms.drive.query.SortOrder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.c java.lang.Object b(com.google.android.gms.drive.query.internal.Operator, com.google.android.gms.drive.metadata.MetadataField, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.c java.lang.String a(com.google.android.gms.drive.query.internal.Operator, com.google.android.gms.drive.metadata.MetadataField&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter eq(com.google.android.gms.drive.metadata.CustomPropertyKey, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SearchableField PARENTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.a java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter or(java.lang.Iterable&lt;com.google.android.gms.drive.query.Filter&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter or(com.google.android.gms.drive.query.Filter, com.google.android.gms.drive.query.Filter...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter in(com.google.android.gms.drive.metadata.SearchableCollectionMetadataField&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter or(java.lang.Iterable&lt;com.google.android.gms.drive.query.Filter&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SortOrder.Builder com.google.android.gms.drive.query.SortOrder.Builder addSortDescending(com.google.android.gms.drive.metadata.SortableMetadataField)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.a com.google.android.gms.drive.query.Query aQ(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SortableField LAST_VIEWED_BY_ME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SortOrder void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.c java.lang.String a(com.google.android.gms.drive.query.internal.Operator, java.util.List&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.b com.google.android.gms.drive.query.SortOrder aR(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.SortableField MODIFIED_BY_ME_DATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filter T a(com.google.android.gms.drive.query.internal.f&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.drive.query.SortOrder.Builder com.google.android.gms.drive.query.SortOrder.Builder addSortDescending(com.google.android.gms.drive.metadata.SortableMetadataField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter openedByMe()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.query.Filters com.google.android.gms.drive.query.Filter lessThanEquals(com.google.android.gms.drive.metadata.SearchableOrderedMetadataField&lt;T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

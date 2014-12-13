@@ -1,0 +1,131 @@
+<root>
+    <item name='com.google.android.gms.common.SupportErrorDialogFragment com.google.android.gms.common.SupportErrorDialogFragment newInstance(android.app.Dialog, android.content.DialogInterface.OnCancelListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.GooglePlayServicesUtil boolean showErrorDialogFragment(int, android.app.Activity, int, android.content.DialogInterface.OnCancelListener) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.ErrorDialogFragment com.google.android.gms.common.ErrorDialogFragment newInstance(android.app.Dialog, android.content.DialogInterface.OnCancelListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.GooglePlayServicesUtil void showErrorNotification(int, android.content.Context) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.Scopes FITNESS_LOCATION_READ_WRITE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.GooglePlayServicesUtil boolean isGoogleSignedUid(android.content.pm.PackageManager, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.GooglePlayServicesUtil int isGooglePlayServicesAvailable(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.GooglePlayServicesUtil GOOGLE_PLAY_SERVICES_PACKAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.GooglePlayServicesUtil java.lang.String getErrorString(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.ErrorDialogFragment com.google.android.gms.common.ErrorDialogFragment newInstance(android.app.Dialog)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.Scopes PLUS_ME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.GooglePlayServicesUtil void C(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.UserRecoverableException android.content.Intent getIntent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.GooglePlayServicesUtil GMS_ERROR_DIALOG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.SupportErrorDialogFragment com.google.android.gms.common.SupportErrorDialogFragment newInstance(android.app.Dialog)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.GooglePlayServicesUtil boolean showErrorDialogFragment(int, android.app.Activity, android.support.v4.app.Fragment, int, android.content.DialogInterface.OnCancelListener) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.Scopes PROFILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.ErrorDialogFragment com.google.android.gms.common.ErrorDialogFragment newInstance(android.app.Dialog) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.GooglePlayServicesUtil java.lang.String c(android.content.Context, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.SupportErrorDialogFragment com.google.android.gms.common.SupportErrorDialogFragment newInstance(android.app.Dialog, android.content.DialogInterface.OnCancelListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.SupportErrorDialogFragment com.google.android.gms.common.SupportErrorDialogFragment newInstance(android.app.Dialog) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.Scopes GAMES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.GooglePlayServicesUtil java.lang.String d(android.content.Context, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.Scopes FITNESS_ACTIVITY_READ_WRITE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.GooglePlayServicesUtil GOOGLE_PLAY_STORE_PACKAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.Scopes FITNESS_ACTIVITY_READ'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.AccountPicker android.content.Intent a(android.accounts.Account, java.util.ArrayList&lt;android.accounts.Account&gt;, java.lang.String[], boolean, java.lang.String, java.lang.String, java.lang.String[], android.os.Bundle, boolean, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.Scopes FITNESS_BODY_READ_WRITE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.ErrorDialogFragment com.google.android.gms.common.ErrorDialogFragment newInstance(android.app.Dialog, android.content.DialogInterface.OnCancelListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.Scopes CLOUD_SAVE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.GooglePlayServicesUtil android.app.Dialog getErrorDialog(int, android.app.Activity, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.Scopes PLUS_LOGIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.ConnectionResult Iu'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.Scopes FITNESS_BODY_READ'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.GooglePlayServicesUtil java.lang.String b(android.content.Context, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.GooglePlayServicesUtil android.app.Dialog getErrorDialog(int, android.app.Activity, int, android.content.DialogInterface.OnCancelListener) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.Scopes DRIVE_FILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.Scopes DRIVE_APPFOLDER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.GooglePlayServicesUtil boolean showErrorDialogFragment(int, android.app.Activity, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.Scopes APP_STATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.Scopes FITNESS_LOCATION_READ'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.AccountPicker android.content.Intent newChooseAccountIntent(android.accounts.Account, java.util.ArrayList&lt;android.accounts.Account&gt;, java.lang.String[], boolean, java.lang.String, java.lang.String, java.lang.String[], android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.AccountPicker android.content.Intent a(android.accounts.Account, java.util.ArrayList&lt;android.accounts.Account&gt;, java.lang.String[], boolean, java.lang.String, java.lang.String, java.lang.String[], android.os.Bundle, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

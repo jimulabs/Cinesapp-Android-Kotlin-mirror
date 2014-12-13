@@ -1,0 +1,32 @@
+<root>
+    <item name='com.melnykov.fab.FloatingActionButton void attachToListView(android.widget.AbsListView, com.melnykov.fab.ScrollDirectionListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.melnykov.fab.BuildConfig FLAVOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.melnykov.fab.FloatingActionButton void attachToRecyclerView(android.support.v7.widget.RecyclerView, com.melnykov.fab.ScrollDirectionListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.melnykov.fab.FloatingActionButton void attachToScrollView(com.melnykov.fab.ObservableScrollView, com.melnykov.fab.ScrollDirectionListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.melnykov.fab.FloatingActionButton void attachToScrollView(com.melnykov.fab.ObservableScrollView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.melnykov.fab.BuildConfig VERSION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.melnykov.fab.FloatingActionButton void attachToListView(android.widget.AbsListView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.melnykov.fab.FloatingActionButton void attachToRecyclerView(android.support.v7.widget.RecyclerView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.melnykov.fab.BuildConfig PACKAGE_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.melnykov.fab.BuildConfig BUILD_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

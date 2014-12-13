@@ -1,0 +1,107 @@
+<root>
+    <item name='rx.android.functions.ViewActions rx.functions.Action1&lt;? super java.lang.Boolean&gt; setVisibility(android.view.View, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetActivated void call(android.view.View, java.lang.Boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActions rx.functions.Action1&lt;? super java.lang.Boolean&gt; setClickable(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetVisibility void call(android.view.View, java.lang.Boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetFocusable void call(android.view.View, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetSelected void call(android.view.View, java.lang.Boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetVisibility void call(android.view.View, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetEnabled void call(android.view.View, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewAction1 void call(V, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='rx.android.functions.ViewActionSetEnabled void call(android.view.View, java.lang.Boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetClickable void call(android.view.View, java.lang.Boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActions rx.functions.Action1&lt;? super java.lang.Boolean&gt; setActivated(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetActivated void call(android.view.View, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActions rx.functions.Action1&lt;? super java.lang.Boolean&gt; setFocusable(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActions rx.functions.Action1&lt;? super java.lang.Boolean&gt; setSelected(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActions rx.functions.Action1&lt;? super java.lang.Boolean&gt; setVisibility(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetSelected void call(android.view.View, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActions rx.functions.Action1&lt;? super java.lang.Boolean&gt; setEnabled(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetActivated void call(android.view.View, java.lang.Boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetVisibility void call(android.view.View, java.lang.Boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetClickable void call(android.view.View, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetFocusable void call(android.view.View, java.lang.Boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetClickable void call(android.view.View, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetFocusable void call(android.view.View, java.lang.Boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetFocusable void call(android.view.View, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetSelected void call(android.view.View, java.lang.Boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetEnabled void call(android.view.View, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewAction1 void call(V, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='rx.android.functions.ViewActionSetActivated void call(android.view.View, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetVisibility void call(android.view.View, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetClickable void call(android.view.View, java.lang.Boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetEnabled void call(android.view.View, java.lang.Boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.functions.ViewActionSetSelected void call(android.view.View, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

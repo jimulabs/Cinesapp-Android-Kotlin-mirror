@@ -1,0 +1,1091 @@
+<root>
+    <item name='org.bitbucket.dollar.LazyFilterWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Byte&gt; $(byte, byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RandomWrapper&lt;java.lang.Float&gt; $(java.util.Random, int, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ConcatWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Long&gt; $(long, long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.SortedMapWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;K&gt; sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigInteger&gt; $(java.math.BigInteger, java.math.BigInteger, java.math.BigInteger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper T find(org.bitbucket.dollar.functions.Predicate&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; slice(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Integer&gt; range(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.DoubleArrayWrapper $(java.lang.Double[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.RepeatCharSequenceWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Character&gt; shuffle(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigInteger&gt; upto(java.math.BigInteger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.SetWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigInteger&gt; rangeWithStep(java.math.BigInteger, java.math.BigInteger, java.math.BigInteger) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; fill(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.ListWrapper&lt;E&gt; $(java.util.Enumeration&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigDecimal&gt; $(java.math.BigDecimal, java.math.BigDecimal) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.ListWrapper&lt;T&gt; addAll(java.lang.Iterable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.CharArrayWrapper $(char[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Long&gt; upto(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.SetWrapper org.bitbucket.dollar.Dollar.SetWrapper&lt;T&gt; immutable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.SetWrapper org.bitbucket.dollar.Dollar.SetWrapper add(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Byte&gt; rangeWithStep(byte, byte, byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.SetWrapper org.bitbucket.dollar.SetWrapper&lt;T&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges.DateRangeBuilder2 org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Integer&gt; $(int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges.DateRangeBuilder1 org.bitbucket.dollar.Ranges.DateRangeBuilder2 step(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.FillWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.SetWrapper org.bitbucket.dollar.SetWrapper&lt;T&gt; add(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.functions.Predicate&lt;T&gt; alwaysFalse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; concat(java.util.Collection&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigInteger&gt; $(java.math.BigInteger, java.math.BigInteger)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.functions.Predicate&lt;T&gt; isNull()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.RepeatCharSequenceWrapper java.util.Iterator&lt;java.lang.Character&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; rangeWithStepAndField(java.util.Date, java.util.Date, int, org.bitbucket.dollar.DateField) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.LazyFilterWrapper java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; rangeWithStepAndField(java.util.Date, java.util.Date, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Byte&gt; range(byte, byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.NullWrapper java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ConcatWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.CharSequenceWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Character&gt; reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; fill(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigDecimal&gt; $(java.math.BigDecimal, java.math.BigDecimal) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.ByteArrayWrapper char[] toCharArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.ComparableArrayWrapper&lt;? extends java.lang.Comparable&lt;T&gt;&gt; toComparableArrayWrapper()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigDecimal&gt; range(java.math.BigDecimal, java.math.BigDecimal) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Preconditions T requireNotNull(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; sort(java.util.Comparator&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ConcatWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; shuffle(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractDelegatingWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; concat(java.util.Collection&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Long&gt; $(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.ArrayWrapper&lt;T&gt; toArrayWrapper()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigInteger&gt; $(java.math.BigInteger, java.math.BigInteger, java.math.BigInteger) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ConcatWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; concat(org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Ranges.DateRangeBuilder1 builder(java.util.Date, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.ListWrapper org.bitbucket.dollar.Dollar.ListWrapper&lt;T&gt; addAll(java.lang.Iterable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; $(java.util.Date, java.util.Date, int, org.bitbucket.dollar.DateField)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; concat(java.util.Collection&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.Dollar.ListWrapper add(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Short&gt; $(short, short, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.functions.Predicate&lt;T&gt; alwaysTrue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.ListWrapper&lt;T&gt; add(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.FillWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; repeat(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Short&gt; upto(short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractDelegatingWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; sort(java.util.Comparator&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.Dollar.ListWrapper&lt;T&gt; checked(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; rangeWithStepAndField(java.util.Date, java.util.Date, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.MapWrapper org.bitbucket.dollar.MapWrapper&lt;K,V&gt; immutable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RandomWrapper&lt;java.lang.Float&gt; $(java.util.Random, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; rangeWithStep(java.util.Date, java.util.Date, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper T find(org.bitbucket.dollar.functions.Predicate&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges.DateRangeBuilder3 org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.SetWrapper org.bitbucket.dollar.Dollar.SetWrapper immutable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.MapWrapper org.bitbucket.dollar.Dollar.MapWrapper&lt;K,V&gt; add(K, V)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigInteger&gt; $(java.math.BigInteger, java.math.BigInteger, java.math.BigInteger) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.MapWrapper&lt;K,V&gt; $(java.util.Map&lt;K,V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.ListWrapper&lt;T&gt; toListWrapper()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.ByteArrayWrapper $(java.lang.Byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; shuffle()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigInteger&gt; rangeWithStep(java.math.BigInteger, java.math.BigInteger, java.math.BigInteger)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.BooleanArrayWrapper $(boolean[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.FloatArrayWrapper $(float[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.SetWrapper org.bitbucket.dollar.SetWrapper&lt;T&gt; addAll(java.lang.Iterable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigDecimal&gt; range(java.math.BigDecimal, java.math.BigDecimal)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.ListWrapper org.bitbucket.dollar.Dollar.ListWrapper&lt;T&gt; checked(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; each(org.bitbucket.dollar.functions.Block&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.LazyMappedWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;R&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; rangeWithStep(java.util.Date, java.util.Date, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Character&gt; $(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.MapWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;K&gt; shuffle(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.CharArrayWrapper byte[] toByteArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; slice(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.SetWrapper org.bitbucket.dollar.Dollar.SetWrapper addAll(java.lang.Iterable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Long&gt; range(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ArrayWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; repeat(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.SetWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigDecimal&gt; upto(java.math.BigDecimal)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper java.util.Set&lt;T&gt; toSet(java.lang.Class&lt;? extends java.util.Set&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.MapWrapper org.bitbucket.dollar.Dollar.Wrapper copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; repeat(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;R&gt; map(org.bitbucket.dollar.functions.Function&lt;T,R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.SetWrapper org.bitbucket.dollar.Dollar.SetWrapper&lt;T&gt; checked(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; shuffle(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; sort(java.util.Comparator&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.DateField SECOND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; filter(org.bitbucket.dollar.functions.Predicate&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractDelegatingWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; fill(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.ListWrapper&lt;T&gt; toListWrapper()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Short&gt; rangeWithStep(short, short, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; $(java.util.Date, java.util.Date, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractDelegatingWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; shuffle(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.ListWrapper&lt;T&gt; toListWrapper()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ConcatWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; concat(T...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RandomWrapper&lt;java.lang.Double&gt; $(java.util.Random, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigInteger&gt; rangeWithStep(java.math.BigInteger, java.math.BigInteger, java.math.BigInteger) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.SetWrapper org.bitbucket.dollar.Dollar.SetWrapper threadSafe()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RandomWrapper&lt;java.lang.Boolean&gt; $(java.util.Random, int, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.MapWrapper org.bitbucket.dollar.MapWrapper&lt;K,V&gt; add(K, V)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Short&gt; range(short, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.ByteArrayWrapper $(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; $(java.util.Date, java.util.Date, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Integer&gt; $(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.LongArrayWrapper $(java.lang.Long[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.functions.Predicate&lt;T&gt; notNull()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; range(java.util.Date, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ArrayWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; shuffle(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Character&gt; range(char, char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; shuffle()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigDecimal&gt; upto(java.math.BigDecimal) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.FillWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; slice(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigInteger&gt; rangeWithStep(java.math.BigInteger, java.math.BigInteger, java.math.BigInteger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Preconditions T requireNotNull(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.MapWrapper org.bitbucket.dollar.MapWrapper&lt;K,V&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; slice(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ArrayWrapper java.lang.Object toUnboxedArray(java.lang.Class&lt;?&gt;, T[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.ListWrapper&lt;T&gt; threadSafe()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.SetWrapper org.bitbucket.dollar.Dollar.SetWrapper&lt;T&gt; threadSafe()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractDelegatingWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; concat(org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.SetWrapper org.bitbucket.dollar.Dollar.SetWrapper&lt;T&gt; checked(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.SetWrapper org.bitbucket.dollar.Dollar.SetWrapper copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.RepeatWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.CharSequenceWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Character&gt; repeat(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.RangeWrapper boolean contains(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; range(java.util.Date, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Integer&gt; $(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.CharArrayWrapper $(java.lang.Character[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.SetWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; shuffle(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Byte&gt; upto(byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigDecimal&gt; $(java.math.BigDecimal, java.math.BigDecimal, java.math.BigDecimal) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.MapWrapper org.bitbucket.dollar.MapWrapper&lt;K,V&gt; threadSafe()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.ArrayWrapper&lt;T&gt; toArrayWrapper()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.LazyMappedWrapper java.util.Iterator&lt;R&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; each(org.bitbucket.dollar.functions.Block&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.RepeatCharSequenceWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Character&gt; reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.MapWrapper org.bitbucket.dollar.Dollar.MapWrapper add(java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.ListWrapper&lt;T&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Box org.bitbucket.dollar.Box&lt;T&gt; put(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigInteger&gt; $(java.math.BigInteger, java.math.BigInteger, java.math.BigInteger)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.DoubleArrayWrapper $(double[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges.DateRangeBuilder2 org.bitbucket.dollar.Ranges.DateRangeBuilder3 field(org.bitbucket.dollar.DateField)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; filter(org.bitbucket.dollar.functions.Predicate&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.Wrapper&lt;R&gt; map(org.bitbucket.dollar.functions.Function&lt;T,R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ArrayWrapper.CharArrayWrapper byte[] toByteArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.Dollar.ListWrapper copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.SortedSetWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; rangeWithStep(java.util.Date, java.util.Date, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.ShortArrayWrapper $(java.lang.Short[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.Dollar.ListWrapper toListWrapper()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.DateField MINUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; $(java.util.Date, java.util.Date, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.ListWrapper&lt;T&gt; $(java.util.List&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigDecimal&gt; $(java.math.BigDecimal, java.math.BigDecimal, java.math.BigDecimal) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigDecimal&gt; rangeWithStep(java.math.BigDecimal, java.math.BigDecimal, java.math.BigDecimal)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; range(java.util.Date, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; fill(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar java.lang.Iterable&lt;T&gt; $(java.util.Iterator&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; shuffle(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.IntegerArrayWrapper $(int[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.BooleanArrayWrapper $(java.lang.Boolean[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.IntegerArrayWrapper $(java.lang.Integer[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Character&gt; $(char, char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.FillWrapper java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; slice(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.FillWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; shuffle(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.ShortArrayWrapper $(short[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.FillWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges.DateRangeBuilder1 org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper java.util.Set&lt;T&gt; toSet(java.lang.Class&lt;? extends java.util.Set&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.SetWrapper org.bitbucket.dollar.Dollar.Wrapper copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.functions.Predicate&lt;T&gt; or(org.bitbucket.dollar.functions.Predicate&lt;T&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; rangeWithStepAndField(java.util.Date, java.util.Date, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Short&gt; $(short, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; $(java.util.Date, java.util.Date, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.SetWrapper org.bitbucket.dollar.Dollar.SetWrapper&lt;T&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper java.util.List&lt;T&gt; toList(java.lang.Class&lt;? extends java.util.List&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.SetWrapper&lt;T&gt; $(java.util.Set&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; $()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; rangeWithStepAndField(java.util.Date, java.util.Date, int, org.bitbucket.dollar.DateField)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.MapWrapper org.bitbucket.dollar.Dollar.MapWrapper&lt;K,V&gt; checked(java.lang.Class&lt;K&gt;, java.lang.Class&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.ComparableListWrapper&lt;T&gt; $(java.lang.Iterable&lt;T&gt;, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; concat(org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.SetWrapper org.bitbucket.dollar.Dollar.SetWrapper&lt;T&gt; add(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; $(java.util.Date, java.util.Date, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ArrayWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.ComparableListWrapper&lt;T&gt; $(java.lang.Iterable&lt;T&gt;, java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.CharSequenceWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Character&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.RandomWrapper org.bitbucket.dollar.Dollar.RandomWrapper&lt;T&gt; samples(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; concat(T...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.CharSequenceWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Character&gt; shuffle(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigDecimal&gt; $(java.math.BigDecimal, java.math.BigDecimal, java.math.BigDecimal) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.NullWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; shuffle(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.NullWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.ListWrapper org.bitbucket.dollar.Dollar.ListWrapper&lt;T&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RandomWrapper&lt;java.lang.Double&gt; $(java.util.Random, int, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.ListWrapper&lt;T&gt; immutable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ArrayWrapper.ByteArrayWrapper char[] toCharArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RandomWrapper&lt;java.lang.Long&gt; $(java.util.Random, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.ListWrapper&lt;E&gt; $(java.util.Enumeration&lt;E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RandomWrapper&lt;java.lang.Integer&gt; $(java.util.Random, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; reject(org.bitbucket.dollar.functions.Predicate&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigInteger&gt; upto(java.math.BigInteger)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigDecimal&gt; $(java.math.BigDecimal, java.math.BigDecimal)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; repeat(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigInteger&gt; range(java.math.BigInteger, java.math.BigInteger)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.Dollar.Wrapper copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.ComparableArrayWrapper&lt;? extends java.lang.Comparable&lt;T&gt;&gt; toComparableArrayWrapper()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.DateField MONTH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ArrayWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; fill(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Box org.bitbucket.dollar.Box&lt;T&gt; of(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; $(java.util.Date, java.util.Date, int, org.bitbucket.dollar.DateField) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.LongArrayWrapper $(long[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; $(java.util.Date, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.Dollar.ListWrapper addAll(java.lang.Iterable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Box org.bitbucket.dollar.Box&lt;T&gt; empty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.NullWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; slice(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.RandomWrapper org.bitbucket.dollar.Dollar.RandomWrapper&lt;T&gt; generator(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Integer&gt; rangeWithStep(int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.ListWrapper org.bitbucket.dollar.Dollar.ListWrapper&lt;T&gt; add(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; slice(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.ComparableArrayWrapper&lt;T&gt; $(T[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.NullWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.MapWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;K&gt; reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigDecimal&gt; $(java.math.BigDecimal, java.math.BigDecimal, java.math.BigDecimal)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigDecimal&gt; rangeWithStep(java.math.BigDecimal, java.math.BigDecimal, java.math.BigDecimal) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; concat(T...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ConcatWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; concat(java.util.Collection&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; $(java.util.Date, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; $(java.util.Date, java.util.Date, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.CharSequenceWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Character&gt; slice(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.DateField YEAR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; shuffle(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.Dollar.ListWrapper immutable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; $(java.util.Date, java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.MapWrapper org.bitbucket.dollar.Dollar.MapWrapper threadSafe()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigDecimal&gt; range(java.math.BigDecimal, java.math.BigDecimal) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; $(java.util.Date, java.util.Date, int, org.bitbucket.dollar.DateField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigDecimal&gt; rangeWithStep(java.math.BigDecimal, java.math.BigDecimal, java.math.BigDecimal) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RandomWrapper&lt;java.lang.Boolean&gt; $(java.util.Random, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; $(java.util.Date, java.util.Date, int, org.bitbucket.dollar.DateField) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.MapWrapper org.bitbucket.dollar.Dollar.MapWrapper immutable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.Dollar.ListWrapper threadSafe()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.FloatArrayWrapper $(java.lang.Float[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.EnumerationWrapper EnumerationWrapper(java.util.Enumeration&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.ArrayWrapper&lt;T&gt; $(T[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.RepeatWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; shuffle(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.ListWrapper org.bitbucket.dollar.Dollar.ListWrapper&lt;T&gt; immutable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ArrayWrapper java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.MapWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;K&gt; sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.functions.Predicate&lt;T&gt; not(org.bitbucket.dollar.functions.Predicate&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RandomWrapper&lt;java.lang.Integer&gt; $(java.util.Random, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigInteger&gt; range(java.math.BigInteger, java.math.BigInteger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigInteger&gt; $(java.math.BigInteger, java.math.BigInteger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.SetWrapper org.bitbucket.dollar.SetWrapper&lt;T&gt; immutable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.SetWrapper org.bitbucket.dollar.SetWrapper&lt;T&gt; threadSafe()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigDecimal&gt; rangeWithStep(java.math.BigDecimal, java.math.BigDecimal, java.math.BigDecimal) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; rangeWithStepAndField(java.util.Date, java.util.Date, int, org.bitbucket.dollar.DateField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.ListWrapper org.bitbucket.dollar.Dollar.ListWrapper&lt;T&gt; threadSafe()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper java.util.List&lt;T&gt; toList(java.lang.Class&lt;? extends java.util.List&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.functions.Predicate&lt;T&gt; and(org.bitbucket.dollar.functions.Predicate&lt;T&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.MapWrapper org.bitbucket.dollar.Dollar.MapWrapper&lt;K,V&gt; checked(java.lang.Class&lt;K&gt;, java.lang.Class&lt;V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Integer&gt; upto(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; concat(org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ArrayWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; slice(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Byte&gt; $(byte, byte, byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.RepeatCharSequenceWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Character&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.FillWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.NullWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.SetWrapper org.bitbucket.dollar.Dollar.SetWrapper&lt;T&gt; addAll(java.lang.Iterable&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigInteger&gt; range(java.math.BigInteger, java.math.BigInteger) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.DateField DAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; reject(org.bitbucket.dollar.functions.Predicate&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.DateField HOUR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ListWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; sort(java.util.Comparator&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RandomWrapper&lt;java.lang.Long&gt; $(java.util.Random, int, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractDelegatingWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.AbstractDelegatingWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; concat(T...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.math.BigInteger&gt; $(java.math.BigInteger, java.math.BigInteger) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.util.Date&gt; rangeWithStepAndField(java.util.Date, java.util.Date, int, org.bitbucket.dollar.DateField) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ArrayWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.CharSequenceWrapper java.util.Iterator&lt;java.lang.Character&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.MapWrapper org.bitbucket.dollar.Dollar.MapWrapper&lt;K,V&gt; immutable()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ArrayWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.Wrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.Ranges org.bitbucket.dollar.Dollar.RangeWrapper&lt;java.lang.Long&gt; rangeWithStep(long, long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.Dollar.MapWrapper org.bitbucket.dollar.Dollar.MapWrapper&lt;K,V&gt; threadSafe()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

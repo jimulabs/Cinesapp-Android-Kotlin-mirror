@@ -1,0 +1,71 @@
+<root>
+    <item name='com.balysv.materialripple.BuildConfig FLAVOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout MaterialRippleLayout(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout.RippleBuilder com.balysv.materialripple.MaterialRippleLayout.RippleBuilder rippleHover(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.BuildConfig BUILD_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout com.balysv.materialripple.MaterialRippleLayout.RippleBuilder on(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout void setRippleAlpha(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout.RippleBuilder com.balysv.materialripple.MaterialRippleLayout.RippleBuilder rippleOverlay(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.BuildConfig VERSION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout.RippleBuilder com.balysv.materialripple.MaterialRippleLayout create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout.RippleBuilder com.balysv.materialripple.MaterialRippleLayout.RippleBuilder rippleDuration(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout MaterialRippleLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout.RippleBuilder com.balysv.materialripple.MaterialRippleLayout.RippleBuilder rippleAlpha(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout.RippleBuilder com.balysv.materialripple.MaterialRippleLayout.RippleBuilder rippleDelayClick(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.BuildConfig PACKAGE_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout.RippleBuilder com.balysv.materialripple.MaterialRippleLayout.RippleBuilder rippleBackground(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout.RippleBuilder com.balysv.materialripple.MaterialRippleLayout.RippleBuilder rippleInAdapter(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout.RippleBuilder RippleBuilder(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout MaterialRippleLayout(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout.RippleBuilder com.balysv.materialripple.MaterialRippleLayout.RippleBuilder rippleFadeDuration(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout.RippleBuilder com.balysv.materialripple.MaterialRippleLayout.RippleBuilder rippleDiameterDp(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout com.balysv.materialripple.MaterialRippleLayout.RippleBuilder on(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout.RippleBuilder com.balysv.materialripple.MaterialRippleLayout.RippleBuilder rippleColor(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.balysv.materialripple.MaterialRippleLayout.RippleBuilder com.balysv.materialripple.MaterialRippleLayout.RippleBuilder ripplePersistent(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

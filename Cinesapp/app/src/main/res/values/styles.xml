@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ The MIT License (MIT)
+  ~
+  ~ Copyright (c) 2014 Izan Rodrigo
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in
+  ~ all copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+  ~ THE SOFTWARE.
+  -->
+
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/windowBackground</item>
+        <item name="colorPrimary">@color/lightBlue</item>
+        <item name="colorPrimaryDark">@color/darkBlue</item>
+        <item name="android:navigationBarColor">@color/darkBlue</item>
+        <item name="actionModeBackground">@color/darkBlue</item>
+        <item name="colorAccent">@color/yellow</item>
+        <item name="colorControlHighlight">@android:color/darker_gray</item>
+    </style>
+
+    <style name="MovieDetailActivity" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/windowBackground</item>
+        <item name="colorPrimary">@color/lightBlue</item>
+        <item name="colorPrimaryDark">@color/darkBlue</item>
+        <item name="android:navigationBarColor">@color/darkBlue</item>
+        <item name="actionModeBackground">@color/darkBlue</item>
+        <item name="colorAccent">@color/yellow</item>
+        <item name="colorControlHighlight">@android:color/darker_gray</item>
+    </style>
+
+    <style name="VideoPlayerActivity" parent="@style/Theme.AppCompat.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="ToolbarTitle" parent="TextAppearance.AppCompat.Title">
+        <item name="android:padding">10dp</item>
+        <item name="android:singleLine">false</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">26sp</item>
+    </style>
+
+    <style name="MovieDetailText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="MovieDetailText.Title" parent="MovieDetailText">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/contentTitle</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+    </style>
+
+    <style name="MovieDetailText.Body" parent="MovieDetailText">
+        <item name="android:textColor">@color/contentBody</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+    </style>
+
+    <style name="Card">
+        <item name="android:layout_marginLeft">@dimen/cardLeftRightMargin</item>
+        <item name="android:layout_marginTop">@dimen/cardTopBottomMargin</item>
+        <item name="android:layout_marginRight">@dimen/cardLeftRightMargin</item>
+        <item name="android:layout_marginBottom">@dimen/cardTopBottomMargin</item>
+        <item name="cardCornerRadius">@dimen/cardCornerRadius</item>
+        <item name="cardBackgroundColor">@android:color/white</item>
+    </style>
+
+</resources>

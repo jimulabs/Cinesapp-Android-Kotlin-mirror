@@ -1,0 +1,38 @@
+<root>
+    <item name='dagger.internal.codegen.GraphVizWriter void edgeDefaults(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.codegen.GraphVizWriter void edge(java.lang.String, java.lang.String, java.lang.String...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.codegen.GraphVizWriter void nodeDefaults(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.codegen.GraphVisualizer void write(java.util.Map&lt;java.lang.String,dagger.internal.Binding&lt;?&gt;&gt;, dagger.internal.codegen.GraphVizWriter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.codegen.GraphAnalysisLoader dagger.internal.Binding&lt;?&gt; getAtInjectBinding(java.lang.String, java.lang.String, java.lang.ClassLoader, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.codegen.GraphVisualizer void write(java.util.Map&lt;java.lang.String,dagger.internal.Binding&lt;?&gt;&gt;, dagger.internal.codegen.GraphVizWriter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.codegen.InjectAdapterProcessor boolean process(java.util.Set&lt;? extends javax.lang.model.element.TypeElement&gt;, javax.annotation.processing.RoundEnvironment) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.codegen.GraphVizWriter void node(java.lang.String, java.lang.String...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.codegen.GraphVizWriter void beginGraph(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.codegen.ValidationProcessor boolean process(java.util.Set&lt;? extends javax.lang.model.element.TypeElement&gt;, javax.annotation.processing.RoundEnvironment) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.codegen.GraphAnalysisProcessor boolean process(java.util.Set&lt;? extends javax.lang.model.element.TypeElement&gt;, javax.annotation.processing.RoundEnvironment) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.codegen.ModuleAdapterProcessor boolean process(java.util.Set&lt;? extends javax.lang.model.element.TypeElement&gt;, javax.annotation.processing.RoundEnvironment) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

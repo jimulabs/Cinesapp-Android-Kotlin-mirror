@@ -1,0 +1,29 @@
+<root>
+    <item name='com.google.android.gms.drive.widget.DataBufferAdapter DataBufferAdapter(android.content.Context, int, com.google.android.gms.common.data.DataBuffer&lt;T&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.widget.DataBufferAdapter DataBufferAdapter(android.content.Context, int, int, java.util.List&lt;com.google.android.gms.common.data.DataBuffer&lt;T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.widget.DataBufferAdapter DataBufferAdapter(android.content.Context, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.widget.DataBufferAdapter android.view.View getDropDownView(int, android.view.View, android.view.ViewGroup)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.widget.DataBufferAdapter DataBufferAdapter(android.content.Context, int, int, com.google.android.gms.common.data.DataBuffer&lt;T&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.widget.DataBufferAdapter DataBufferAdapter(android.content.Context, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.widget.DataBufferAdapter DataBufferAdapter(android.content.Context, int, java.util.List&lt;com.google.android.gms.common.data.DataBuffer&lt;T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.widget.DataBufferAdapter android.view.View getView(int, android.view.View, android.view.ViewGroup)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.drive.widget.DataBufferAdapter android.content.Context getContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

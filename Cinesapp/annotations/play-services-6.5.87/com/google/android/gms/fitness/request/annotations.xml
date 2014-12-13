@@ -1,0 +1,848 @@
+<root>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder bucketByActivityType(int, java.util.concurrent.TimeUnit, com.google.android.gms.fitness.data.DataSource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.o void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ae com.google.android.gms.fitness.request.ad[] du(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionReadRequest.Builder com.google.android.gms.fitness.request.SessionReadRequest.Builder enableServerQueries()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionReadRequest long getStartTime(java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.j CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionReadRequest CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ab java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionReadRequest.Builder com.google.android.gms.fitness.request.SessionReadRequest.Builder readSessionsFromAllApps()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ae com.google.android.gms.fitness.request.ad bZ(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionReadRequest.Builder com.google.android.gms.fitness.request.SessionReadRequest.Builder setTimeInterval(long, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder bucketBySession(int, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionInsertRequest.Builder com.google.android.gms.fitness.request.SessionInsertRequest.Builder addDataSet(com.google.android.gms.fitness.data.DataSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.f com.google.android.gms.fitness.request.e bK(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataDeleteRequest.Builder com.google.android.gms.fitness.request.DataDeleteRequest build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.v com.google.android.gms.fitness.request.u bU(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.k java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.c java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataSourcesRequest.Builder com.google.android.gms.fitness.request.DataSourcesRequest build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest.Builder com.google.android.gms.fitness.request.SensorRequest.Builder setTimeout(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.g java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ag java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ag com.google.android.gms.fitness.request.af ca(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.k com.google.android.gms.fitness.request.j bO(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.StartBleScanRequest.Builder com.google.android.gms.fitness.request.StartBleScanRequest build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.a.a com.google.android.gms.fitness.request.a a(com.google.android.gms.fitness.request.BleScanCallback)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionInsertRequest.Builder com.google.android.gms.fitness.request.SessionInsertRequest.Builder addDataSet(com.google.android.gms.fitness.data.DataSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataDeleteRequest long getStartTime(java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.aj.a com.google.android.gms.fitness.request.aj kq()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.k com.google.android.gms.fitness.request.j bO(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.aj void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.c com.google.android.gms.fitness.request.b[] dc(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ah void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.h com.google.android.gms.fitness.request.DataSourcesRequest bM(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataSourcesRequest.Builder com.google.android.gms.fitness.request.DataSourcesRequest.Builder setDataSourceTypes(int...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.n com.google.android.gms.fitness.request.m[] dj(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.i java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ah CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.h java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ak com.google.android.gms.fitness.request.aj cc(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder read(com.google.android.gms.fitness.data.DataType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ae java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest.Builder com.google.android.gms.fitness.request.SensorRequest.Builder setFastestRate(int, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.m void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ad void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataDeleteRequest CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.r com.google.android.gms.fitness.request.q bR(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.w.a com.google.android.gms.fitness.request.w kk()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.z java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataDeleteRequest.Builder com.google.android.gms.fitness.request.DataDeleteRequest.Builder addDataType(com.google.android.gms.fitness.data.DataType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ak com.google.android.gms.fitness.request.aj[] dx(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder aggregate(com.google.android.gms.fitness.data.DataSource, com.google.android.gms.fitness.data.DataType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.c com.google.android.gms.fitness.request.b bI(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ag com.google.android.gms.fitness.request.af[] dv(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.p java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.e CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataTypeCreateRequest.Builder com.google.android.gms.fitness.request.DataTypeCreateRequest.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.m CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder bucketByActivityType(int, java.util.concurrent.TimeUnit, com.google.android.gms.fitness.data.DataSource) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.f java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.s java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.z com.google.android.gms.fitness.request.y bW(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest.Builder com.google.android.gms.fitness.request.SensorRequest build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ac com.google.android.gms.fitness.request.StartBleScanRequest bY(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.f com.google.android.gms.fitness.request.e bK(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.af void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.k com.google.android.gms.fitness.request.j[] di(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest long getFastestRate(java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionReadRequest.Builder com.google.android.gms.fitness.request.SessionReadRequest.Builder setTimeInterval(long, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.d com.google.android.gms.fitness.request.DataDeleteRequest bJ(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest.Builder com.google.android.gms.fitness.request.SensorRequest.Builder setFastestRate(int, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.m.a com.google.android.gms.fitness.request.m.a c(com.google.android.gms.fitness.data.DataType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.h java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.StartBleScanRequest CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.q CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.a.a com.google.android.gms.fitness.request.a.a jP()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataDeleteRequest.Builder com.google.android.gms.fitness.request.DataDeleteRequest.Builder deleteAllSessions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ad CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder bucketByTime(int, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.s com.google.android.gms.fitness.request.SessionInsertRequest bS(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder bucketByActivityType(int, java.util.concurrent.TimeUnit, com.google.android.gms.fitness.data.DataSource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.t com.google.android.gms.fitness.request.SessionReadRequest[] do(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest.Builder com.google.android.gms.fitness.request.SensorRequest.Builder setDataSource(com.google.android.gms.fitness.data.DataSource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.m.a com.google.android.gms.fitness.request.m ka()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionReadRequest.Builder com.google.android.gms.fitness.request.SessionReadRequest.Builder setSessionId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ac com.google.android.gms.fitness.request.StartBleScanRequest[] dt(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.s java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.c java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.k java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest.Builder com.google.android.gms.fitness.request.SensorRequest.Builder setTimeout(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder bucketByTime(int, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ab com.google.android.gms.fitness.request.aa bX(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest long getStartTime(java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataSourcesRequest void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.n com.google.android.gms.fitness.request.m bP(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataTypeCreateRequest.Builder com.google.android.gms.fitness.request.DataTypeCreateRequest build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.b void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.r java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.f java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.g com.google.android.gms.fitness.request.DataReadRequest[] df(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.t com.google.android.gms.fitness.request.SessionReadRequest bT(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionReadRequest.Builder com.google.android.gms.fitness.request.SessionReadRequest.Builder excludePackage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.s java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ag java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ak com.google.android.gms.fitness.request.aj cc(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.p java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionReadRequest.Builder com.google.android.gms.fitness.request.SessionReadRequest build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataDeleteRequest.Builder com.google.android.gms.fitness.request.DataDeleteRequest.Builder addSession(com.google.android.gms.fitness.data.Session)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataSourcesRequest CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.aj.a com.google.android.gms.fitness.request.aj.a d(com.google.android.gms.fitness.data.DataSource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.w.a com.google.android.gms.fitness.request.w.a b(com.google.android.gms.fitness.data.Session) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.aj.a com.google.android.gms.fitness.request.aj.a d(com.google.android.gms.fitness.data.DataType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.n java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ak java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.t java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder bucketByActivitySegment(int, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ai java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ab java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.e.a com.google.android.gms.fitness.request.e jU()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataTypeCreateRequest.Builder com.google.android.gms.fitness.request.DataTypeCreateRequest.Builder addField(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.g java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.d java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.r java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionInsertRequest.Builder com.google.android.gms.fitness.request.SessionInsertRequest.Builder setSession(com.google.android.gms.fitness.data.Session)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.p com.google.android.gms.fitness.request.o bQ(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.StartBleScanRequest.Builder com.google.android.gms.fitness.request.StartBleScanRequest.Builder setDataTypes(com.google.android.gms.fitness.data.DataType...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.g com.google.android.gms.fitness.request.DataReadRequest bL(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder bucketByActivitySegment(int, java.util.concurrent.TimeUnit, com.google.android.gms.fitness.data.DataSource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest.Builder com.google.android.gms.fitness.request.SensorRequest.Builder setMaxDeliveryLatency(int, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder setTimeRange(long, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ak java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ai com.google.android.gms.fitness.request.ah cb(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionInsertRequest CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.f java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.x java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionReadRequest void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataDeleteRequest.Builder com.google.android.gms.fitness.request.DataDeleteRequest.Builder deleteAllData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataDeleteRequest.Builder com.google.android.gms.fitness.request.DataDeleteRequest.Builder setTimeInterval(long, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataDeleteRequest long getEndTime(java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ac com.google.android.gms.fitness.request.StartBleScanRequest bY(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataTypeCreateRequest.Builder com.google.android.gms.fitness.request.DataTypeCreateRequest.Builder addField(com.google.android.gms.fitness.data.Field)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ai java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.x com.google.android.gms.fitness.request.w[] dq(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataSourcesRequest.Builder com.google.android.gms.fitness.request.DataSourcesRequest.Builder setDataTypes(com.google.android.gms.fitness.data.DataType...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.w CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.o o(com.google.android.gms.fitness.request.SensorRequest, com.google.android.gms.fitness.data.k, android.app.PendingIntent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataDeleteRequest void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder aggregate(com.google.android.gms.fitness.data.DataType, com.google.android.gms.fitness.data.DataType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ae java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.p java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionReadRequest long getEndTime(java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest.Builder com.google.android.gms.fitness.request.SensorRequest.Builder setSamplingRate(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.b CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.t com.google.android.gms.fitness.request.SessionReadRequest bT(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.u CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder bucketByActivitySegment(int, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.h com.google.android.gms.fitness.request.DataSourcesRequest[] dg(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.a.a com.google.android.gms.fitness.request.a b(com.google.android.gms.fitness.request.BleScanCallback)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.s com.google.android.gms.fitness.request.SessionInsertRequest bS(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionReadRequest.Builder com.google.android.gms.fitness.request.SessionReadRequest.Builder read(com.google.android.gms.fitness.data.DataType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.d com.google.android.gms.fitness.request.DataDeleteRequest bJ(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.n java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder read(com.google.android.gms.fitness.data.DataSource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest long getSamplingRate(java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder read(com.google.android.gms.fitness.data.DataSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataTypeCreateRequest void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.c java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.i java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.d java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest com.google.android.gms.fitness.request.SensorRequest fromLocationRequest(com.google.android.gms.fitness.data.DataSource, com.google.android.gms.location.LocationRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.n com.google.android.gms.fitness.request.m bP(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataDeleteRequest.Builder com.google.android.gms.fitness.request.DataDeleteRequest.Builder addDataSource(com.google.android.gms.fitness.data.DataSource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.aj CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest.Builder com.google.android.gms.fitness.request.SensorRequest.Builder setMaxDeliveryLatency(int, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder bucketByActivitySegment(int, java.util.concurrent.TimeUnit, com.google.android.gms.fitness.data.DataSource) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.i java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.x java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.i com.google.android.gms.fitness.request.DataTypeCreateRequest[] dh(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ai java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest long getBucketDuration(java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionReadRequest.Builder com.google.android.gms.fitness.request.SessionReadRequest.Builder read(com.google.android.gms.fitness.data.DataSource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.v com.google.android.gms.fitness.request.u bU(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.y CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.v java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest.Builder com.google.android.gms.fitness.request.SensorRequest.Builder setSamplingRate(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder enableServerQueries()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder setLimit(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.af.a com.google.android.gms.fitness.request.af kp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ag java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.s com.google.android.gms.fitness.request.SessionInsertRequest[] dn(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.x com.google.android.gms.fitness.request.w bV(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder bucketByActivitySegment(int, java.util.concurrent.TimeUnit, com.google.android.gms.fitness.data.DataSource) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest com.google.android.gms.fitness.request.SensorRequest fromLocationRequest(com.google.android.gms.fitness.data.DataSource, com.google.android.gms.location.LocationRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ai com.google.android.gms.fitness.request.ah cb(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataTypeCreateRequest.Builder com.google.android.gms.fitness.request.DataTypeCreateRequest.Builder addField(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.p com.google.android.gms.fitness.request.o[] dk(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionInsertRequest.Builder com.google.android.gms.fitness.request.SessionInsertRequest.Builder addAggregateDataPoint(com.google.android.gms.fitness.data.DataPoint)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.z java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder bucketByActivityType(int, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.y void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder aggregate(com.google.android.gms.fitness.data.DataType, com.google.android.gms.fitness.data.DataType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.af CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataDeleteRequest.Builder com.google.android.gms.fitness.request.DataDeleteRequest.Builder addSession(com.google.android.gms.fitness.data.Session) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.StartBleScanRequest.Builder com.google.android.gms.fitness.request.StartBleScanRequest.Builder a(com.google.android.gms.fitness.request.l)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.d com.google.android.gms.fitness.request.DataDeleteRequest[] dd(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.l.a android.os.IBinder asBinder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest com.google.android.gms.fitness.request.SensorRequest fromLocationRequest(com.google.android.gms.fitness.data.DataSource, com.google.android.gms.location.LocationRequest) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.StartBleScanRequest void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.af.a com.google.android.gms.fitness.request.af.a b(com.google.android.gms.fitness.data.Subscription)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionInsertRequest void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ab com.google.android.gms.fitness.request.aa bX(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.j void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.z com.google.android.gms.fitness.request.y[] dr(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.v java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ae com.google.android.gms.fitness.request.ad bZ(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.c com.google.android.gms.fitness.request.b bI(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ab java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.t java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ae java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ag com.google.android.gms.fitness.request.af ca(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ac java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.g com.google.android.gms.fitness.request.DataReadRequest bL(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.b b(com.google.android.gms.fitness.data.BleDevice) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.x java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionReadRequest.Builder com.google.android.gms.fitness.request.SessionReadRequest.Builder excludePackage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.y.a com.google.android.gms.fitness.request.y.a by(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest.Builder com.google.android.gms.fitness.request.SensorRequest.Builder setAccuracyMode(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionInsertRequest.Builder com.google.android.gms.fitness.request.SessionInsertRequest.Builder addAggregateDataPoint(com.google.android.gms.fitness.data.DataPoint) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.k java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder read(com.google.android.gms.fitness.data.DataType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ac java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.i com.google.android.gms.fitness.request.DataTypeCreateRequest bN(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.d java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.y.a com.google.android.gms.fitness.request.y.a bx(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.f com.google.android.gms.fitness.request.e[] de(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.z java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataDeleteRequest.Builder com.google.android.gms.fitness.request.DataDeleteRequest.Builder setTimeInterval(long, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.q void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.w void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.StartBleScanRequest.Builder com.google.android.gms.fitness.request.StartBleScanRequest.Builder setBleScanCallback(com.google.android.gms.fitness.request.BleScanCallback)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest.Builder com.google.android.gms.fitness.request.SensorRequest.Builder setDataType(com.google.android.gms.fitness.data.DataType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataTypeCreateRequest CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionReadRequest.Builder com.google.android.gms.fitness.request.SessionReadRequest.Builder setSessionName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.h java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder bucketBySession(int, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionReadRequest.Builder com.google.android.gms.fitness.request.SessionReadRequest.Builder read(com.google.android.gms.fitness.data.DataSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.t java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ak java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.o CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.v java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionReadRequest.Builder com.google.android.gms.fitness.request.SessionReadRequest.Builder read(com.google.android.gms.fitness.data.DataType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ac java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.aa CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.i com.google.android.gms.fitness.request.DataTypeCreateRequest bN(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SessionInsertRequest.Builder com.google.android.gms.fitness.request.SessionInsertRequest build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ai com.google.android.gms.fitness.request.ah[] dw(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.v com.google.android.gms.fitness.request.u[] dp(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.r com.google.android.gms.fitness.request.q bR(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.aa void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.e.a com.google.android.gms.fitness.request.e.a b(com.google.android.gms.fitness.data.DataSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.w.a com.google.android.gms.fitness.request.w.a b(com.google.android.gms.fitness.data.Session)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder setTimeRange(long, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.r java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.x com.google.android.gms.fitness.request.w bV(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder aggregate(com.google.android.gms.fitness.data.DataSource, com.google.android.gms.fitness.data.DataType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.StartBleScanRequest.Builder com.google.android.gms.fitness.request.StartBleScanRequest.Builder setTimeoutSecs(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.h com.google.android.gms.fitness.request.DataSourcesRequest bM(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.SensorRequest long getMaxDeliveryLatency(java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.u void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.y.a com.google.android.gms.fitness.request.y kl()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.n java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.z com.google.android.gms.fitness.request.y bW(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.g java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest.Builder com.google.android.gms.fitness.request.DataReadRequest.Builder bucketByActivityType(int, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.p com.google.android.gms.fitness.request.o bQ(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.ab com.google.android.gms.fitness.request.aa[] ds(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.e void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.r com.google.android.gms.fitness.request.q[] dm(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.request.DataReadRequest long getEndTime(java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

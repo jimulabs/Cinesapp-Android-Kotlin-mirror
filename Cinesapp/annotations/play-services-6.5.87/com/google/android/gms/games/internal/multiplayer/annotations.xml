@@ -1,0 +1,35 @@
+<root>
+    <item name='com.google.android.gms.games.internal.multiplayer.ZInvitationCluster com.google.android.gms.games.multiplayer.Invitation freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.multiplayer.ZInvitationCluster java.util.ArrayList&lt;com.google.android.gms.games.multiplayer.Invitation&gt; mq()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.multiplayer.ZInvitationCluster java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.multiplayer.InvitationClusterCreator com.google.android.gms.games.internal.multiplayer.ZInvitationCluster cw(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.multiplayer.InvitationClusterCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.multiplayer.InvitationClusterCreator com.google.android.gms.games.internal.multiplayer.ZInvitationCluster cw(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.multiplayer.InvitationClusterCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.multiplayer.ZInvitationCluster void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.multiplayer.ZInvitationCluster CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.multiplayer.InvitationClusterCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.multiplayer.InvitationClusterCreator com.google.android.gms.games.internal.multiplayer.ZInvitationCluster[] eg(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

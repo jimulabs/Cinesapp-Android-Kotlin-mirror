@@ -1,0 +1,50 @@
+<root>
+    <item name='rx.android.operators.OperatorViewClick void call(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.operators.OperatorConditionalBinding java.lang.Object call(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.operators.OperatorSharedPreferenceChange void call(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.operators.OperatorSharedPreferenceChange void call(rx.Subscriber&lt;? super java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.operators.OperatorConditionalBinding rx.Subscriber&lt;? super T&gt; call(rx.Subscriber&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.operators.OperatorBroadcastRegister void call(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.operators.OperatorBroadcastRegister void call(rx.Subscriber&lt;? super android.content.Intent&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.operators.OperatorAdapterViewOnItemClick void call(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.operators.OperatorLocalBroadcastRegister void call(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.operators.OperatorLocalBroadcastRegister void call(rx.Subscriber&lt;? super android.content.Intent&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.operators.OperatorViewClick void call(rx.Subscriber&lt;? super rx.android.events.OnClickEvent&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.operators.OperatorCompoundButtonInput void call(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.operators.OperatorCompoundButtonInput void call(rx.Subscriber&lt;? super rx.android.events.OnCheckedChangeEvent&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.operators.OperatorTextViewInput void call(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.operators.OperatorAdapterViewOnItemClick void call(rx.Subscriber&lt;? super rx.android.events.OnItemClickEvent&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.operators.OperatorTextViewInput void call(rx.Subscriber&lt;? super rx.android.events.OnTextChangeEvent&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

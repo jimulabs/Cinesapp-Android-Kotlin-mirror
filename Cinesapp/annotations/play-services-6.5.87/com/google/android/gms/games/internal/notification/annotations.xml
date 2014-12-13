@@ -1,0 +1,8 @@
+<root>
+    <item name='com.google.android.gms.games.internal.notification.GameNotificationBuffer com.google.android.gms.games.internal.notification.GameNotification eh(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.notification.GameNotificationBuffer java.lang.Object get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

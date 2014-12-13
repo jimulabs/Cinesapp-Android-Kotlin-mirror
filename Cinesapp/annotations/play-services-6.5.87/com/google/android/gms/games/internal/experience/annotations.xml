@@ -1,0 +1,11 @@
+<root>
+    <item name='com.google.android.gms.games.internal.experience.ExperienceEventBuffer com.google.android.gms.games.internal.experience.ExperienceEvent ea(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.experience.ExperienceEventBuffer java.lang.Object get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.experience.ExperienceEventRef ExperienceEventRef(com.google.android.gms.common.data.DataHolder, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

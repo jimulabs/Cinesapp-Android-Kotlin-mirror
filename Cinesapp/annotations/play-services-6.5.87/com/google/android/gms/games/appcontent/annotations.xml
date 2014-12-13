@@ -1,0 +1,422 @@
+<root>
+    <item name='com.google.android.gms.games.appcontent.AppContentAnnotationEntity AppContentAnnotationEntity(com.google.android.gms.games.appcontent.AppContentAnnotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionBuffer com.google.android.gms.games.appcontent.AppContentSection h(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardRef java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentTupleEntity CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCard java.util.List&lt;com.google.android.gms.games.appcontent.AppContentAnnotation&gt; kN()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardEntity java.util.List&lt;com.google.android.gms.games.appcontent.AppContentAction&gt; getActions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionEntity java.util.List&lt;com.google.android.gms.games.appcontent.AppContentCard&gt; kZ()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentAction java.util.List&lt;com.google.android.gms.games.appcontent.AppContentCondition&gt; kH()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentUtils java.util.ArrayList&lt;com.google.android.gms.games.appcontent.AppContentCondition&gt; c(com.google.android.gms.common.data.DataHolder, java.util.ArrayList&lt;com.google.android.gms.common.data.DataHolder&gt;, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentUtils android.os.Bundle d(com.google.android.gms.common.data.DataHolder, java.util.ArrayList&lt;com.google.android.gms.common.data.DataHolder&gt;, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardEntity CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentAnnotationEntity void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentTupleEntityCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardEntity java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentActionEntity java.util.List&lt;com.google.android.gms.games.appcontent.AppContentCondition&gt; kH()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentActionEntityCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentActionRef void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentConditionEntity AppContentConditionEntity(com.google.android.gms.games.appcontent.AppContentCondition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardEntity void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardEntity java.util.List&lt;com.google.android.gms.games.appcontent.AppContentCondition&gt; kH()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentTupleRef java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionRef java.util.ArrayList&lt;com.google.android.gms.games.appcontent.AppContentAction&gt; lb()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentAnnotationRef void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardEntityCreator com.google.android.gms.games.appcontent.AppContentCardEntity cp(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentConditionEntityCreator com.google.android.gms.games.appcontent.AppContentConditionEntity cq(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentUtils java.util.ArrayList&lt;com.google.android.gms.games.appcontent.AppContentCondition&gt; c(com.google.android.gms.common.data.DataHolder, java.util.ArrayList&lt;com.google.android.gms.common.data.DataHolder&gt;, java.lang.String, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentConditionEntity void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentUtils java.util.ArrayList&lt;com.google.android.gms.games.appcontent.AppContentAction&gt; a(com.google.android.gms.common.data.DataHolder, java.util.ArrayList&lt;com.google.android.gms.common.data.DataHolder&gt;, java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionBuffer java.lang.String hc()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentUtils android.os.Bundle d(com.google.android.gms.common.data.DataHolder, java.util.ArrayList&lt;com.google.android.gms.common.data.DataHolder&gt;, java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCard android.os.Bundle kP()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentTupleEntity java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardEntityCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentAnnotationEntity com.google.android.gms.games.appcontent.AppContentAnnotation kM()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionEntityCreator com.google.android.gms.games.appcontent.AppContentSectionEntity cr(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSection android.os.Bundle kP()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionEntity java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionRef void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentAnnotationEntityCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardEntityCreator com.google.android.gms.games.appcontent.AppContentCardEntity[] dK(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentConditionEntity java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentActionEntity AppContentActionEntity(com.google.android.gms.games.appcontent.AppContentAction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentAnnotationEntity java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentActionRef java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentActionEntity void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSection java.util.List&lt;com.google.android.gms.games.appcontent.AppContentCard&gt; kZ()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionEntityCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSection java.util.List&lt;com.google.android.gms.games.appcontent.AppContentAction&gt; getActions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentUtils java.util.ArrayList&lt;com.google.android.gms.games.appcontent.AppContentCondition&gt; c(com.google.android.gms.common.data.DataHolder, java.util.ArrayList&lt;com.google.android.gms.common.data.DataHolder&gt;, java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionEntityCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionEntityCreator com.google.android.gms.games.appcontent.AppContentSectionEntity[] dM(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.MultiDataBufferRef MultiDataBufferRef(java.util.ArrayList&lt;com.google.android.gms.common.data.DataHolder&gt;, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionEntity AppContentSectionEntity(com.google.android.gms.games.appcontent.AppContentSection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentAnnotationEntity CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentTupleEntityCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentAnnotationEntityCreator com.google.android.gms.games.appcontent.AppContentAnnotationEntity[] dJ(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentAnnotationEntityCreator com.google.android.gms.games.appcontent.AppContentAnnotationEntity co(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionEntity CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentConditionEntityCreator com.google.android.gms.games.appcontent.AppContentConditionEntity cq(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardEntityCreator com.google.android.gms.games.appcontent.AppContentCardEntity cp(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardEntity com.google.android.gms.games.appcontent.AppContentCard kS()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardEntityCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentActionEntityCreator com.google.android.gms.games.appcontent.AppContentActionEntity cn(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentTupleEntity com.google.android.gms.games.appcontent.AppContentTuple ld()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentAnnotationRef com.google.android.gms.games.appcontent.AppContentAnnotation kM()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionEntity java.util.List&lt;com.google.android.gms.games.appcontent.AppContentAction&gt; getActions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentUtils java.util.ArrayList&lt;com.google.android.gms.games.appcontent.AppContentAnnotation&gt; b(com.google.android.gms.common.data.DataHolder, java.util.ArrayList&lt;com.google.android.gms.common.data.DataHolder&gt;, java.lang.String, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentUtils java.util.ArrayList&lt;com.google.android.gms.games.appcontent.AppContentAnnotation&gt; b(com.google.android.gms.common.data.DataHolder, java.util.ArrayList&lt;com.google.android.gms.common.data.DataHolder&gt;, java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionBuffer java.lang.Object f(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentUtils java.util.ArrayList&lt;com.google.android.gms.games.appcontent.AppContentAction&gt; a(com.google.android.gms.common.data.DataHolder, java.util.ArrayList&lt;com.google.android.gms.common.data.DataHolder&gt;, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentConditionEntityCreator com.google.android.gms.games.appcontent.AppContentConditionEntity[] dL(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentConditionEntityCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentConditionRef void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCard java.util.List&lt;com.google.android.gms.games.appcontent.AppContentAction&gt; getActions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionRef com.google.android.gms.games.appcontent.AppContentSection la()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionEntityCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardRef android.os.Bundle kP()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentAnnotationEntityCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentActionEntityCreator com.google.android.gms.games.appcontent.AppContentActionEntity[] dI(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentUtils java.util.ArrayList&lt;com.google.android.gms.games.appcontent.AppContentAnnotation&gt; b(com.google.android.gms.common.data.DataHolder, java.util.ArrayList&lt;com.google.android.gms.common.data.DataHolder&gt;, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentAnnotationEntityCreator com.google.android.gms.games.appcontent.AppContentAnnotationEntity co(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionRef java.util.List getActions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentTupleEntityCreator com.google.android.gms.games.appcontent.AppContentTupleEntity cs(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardRef com.google.android.gms.games.appcontent.AppContentCard kS()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentConditionEntityCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentActionRef android.os.Bundle getExtras()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardEntity AppContentCardEntity(com.google.android.gms.games.appcontent.AppContentCard) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardRef java.util.List&lt;com.google.android.gms.games.appcontent.AppContentAnnotation&gt; kN()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionEntity com.google.android.gms.games.appcontent.AppContentSection la()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentAnnotationRef java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentConditionEntityCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentConditionRef java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentTupleRef void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionRef java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentTupleEntityCreator com.google.android.gms.games.appcontent.AppContentTupleEntity[] dN(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardEntityCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCard java.util.List&lt;com.google.android.gms.games.appcontent.AppContentCondition&gt; kH()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardRef java.util.List&lt;com.google.android.gms.games.appcontent.AppContentAction&gt; getActions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionBuffer java.lang.String ha()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentTupleEntity void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardRef void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionEntityCreator com.google.android.gms.games.appcontent.AppContentSectionEntity cr(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentTupleEntityCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentUtils android.os.Bundle d(com.google.android.gms.common.data.DataHolder, java.util.ArrayList&lt;com.google.android.gms.common.data.DataHolder&gt;, java.lang.String, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentAnnotationEntityCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentActionEntity com.google.android.gms.games.appcontent.AppContentAction kK()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionRef java.util.List kZ()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardRef java.util.List&lt;com.google.android.gms.games.appcontent.AppContentCondition&gt; kH()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentActionEntityCreator com.google.android.gms.games.appcontent.AppContentActionEntity cn(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionEntity void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentTupleEntityCreator com.google.android.gms.games.appcontent.AppContentTupleEntity cs(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentTupleRef com.google.android.gms.games.appcontent.AppContentTuple ld()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentConditionRef android.os.Bundle kW()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentConditionEntity CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentConditionEntity com.google.android.gms.games.appcontent.AppContentCondition kX()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCardEntity java.util.List&lt;com.google.android.gms.games.appcontent.AppContentAnnotation&gt; kN()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentAction android.os.Bundle getExtras()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentActionRef java.util.List&lt;com.google.android.gms.games.appcontent.AppContentCondition&gt; kH()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentActionRef com.google.android.gms.games.appcontent.AppContentAction kK()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentActionEntityCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentTupleEntity AppContentTupleEntity(com.google.android.gms.games.appcontent.AppContentTuple) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentCondition android.os.Bundle kW()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentActionEntity java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionRef android.os.Bundle kP()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentUtils java.util.ArrayList&lt;com.google.android.gms.games.appcontent.AppContentAction&gt; a(com.google.android.gms.common.data.DataHolder, java.util.ArrayList&lt;com.google.android.gms.common.data.DataHolder&gt;, java.lang.String, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentActionEntity CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.MultiDataBufferRef XX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentConditionRef com.google.android.gms.games.appcontent.AppContentCondition kX()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentSectionRef java.util.ArrayList&lt;com.google.android.gms.games.appcontent.AppContentCard&gt; lc()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.appcontent.AppContentActionEntityCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,179 @@
+<root>
+    <item name='com.google.android.gms.tagmanager.TagManager com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.tagmanager.ContainerHolder&gt; loadContainerDefaultOnly(java.lang.String, int, android.os.Handler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.DataLayer java.util.Map&lt;java.lang.String,java.lang.Object&gt; mapOf(java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.DataLayer java.util.List&lt;java.lang.Object&gt; listOf(java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.f com.google.android.gms.tagmanager.cr.f c(com.google.android.gms.tagmanager.cr.a)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.d com.google.android.gms.tagmanager.cr.d a(com.google.android.gms.tagmanager.cr.a)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.f com.google.android.gms.tagmanager.cr.f b(com.google.android.gms.tagmanager.cr.a)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.db.a void c(com.google.android.gms.tagmanager.ap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.tagmanager.TagManager com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.tagmanager.ContainerHolder&gt; loadContainerDefaultOnly(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.DataLayer void push(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.f com.google.android.gms.tagmanager.cr.f cR(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.l.a int sizeOf(K, V) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.tagmanager.TagManager com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.tagmanager.ContainerHolder&gt; loadContainerDefaultOnly(java.lang.String, int, android.os.Handler) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.b com.google.android.gms.tagmanager.cr.b b(java.lang.String, com.google.android.gms.internal.d.a)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.e com.google.android.gms.tagmanager.cr.f qs()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.DataLayer java.lang.Object get(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.b com.google.android.gms.tagmanager.cr.b i(com.google.android.gms.internal.d.a)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.DataLayer OBJECT_NOT_PRESENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.TagManager com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.tagmanager.ContainerHolder&gt; loadContainerPreferNonDefault(java.lang.String, int, android.os.Handler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.d com.google.android.gms.tagmanager.cr.d a(com.google.android.gms.tagmanager.cr.a) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.f com.google.android.gms.tagmanager.cr.f cS(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.b com.google.android.gms.tagmanager.cr.a qn()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.TagManager com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.tagmanager.ContainerHolder&gt; loadContainerPreferNonDefault(java.lang.String, int, android.os.Handler) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.InstallReferrerService void onHandleIntent(android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.f com.google.android.gms.tagmanager.cr.f cP(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.DataLayer.c.a void h(java.util.List&lt;com.google.android.gms.tagmanager.DataLayer.a&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.f com.google.android.gms.tagmanager.cr.f cQ(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.db.a void b(com.google.android.gms.tagmanager.ap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.tagmanager.TagManager com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.tagmanager.ContainerHolder&gt; loadContainerPreferFresh(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.d com.google.android.gms.tagmanager.cr.c qr()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.bg.a arX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.bg.a arV'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.TagManager com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.tagmanager.ContainerHolder&gt; loadContainerPreferFresh(java.lang.String, int, android.os.Handler) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.Container void registerFunctionCallTagCallback(java.lang.String, com.google.android.gms.tagmanager.Container.FunctionCallTagCallback) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.TagManager com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.tagmanager.ContainerHolder&gt; loadContainerPreferNonDefault(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.DataLayer java.util.Map&lt;java.lang.String,java.lang.Object&gt; mapOf(java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.d com.google.android.gms.tagmanager.cr.d fO(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.d com.google.android.gms.tagmanager.cr.d a(com.google.android.gms.tagmanager.cr.e)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.f com.google.android.gms.tagmanager.cr.e qD()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.a com.google.android.gms.tagmanager.cr.b qk()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.db.a void a(com.google.android.gms.tagmanager.ap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.tagmanager.Container void registerFunctionCallMacroCallback(java.lang.String, com.google.android.gms.tagmanager.Container.FunctionCallMacroCallback) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.f com.google.android.gms.tagmanager.cr.f d(com.google.android.gms.tagmanager.cr.a)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.bg.a arW'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.f com.google.android.gms.tagmanager.cr.f g(com.google.android.gms.tagmanager.cr.a)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.InstallReferrerReceiver void onReceive(android.content.Context, android.content.Intent) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.DataLayer EVENT_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.l.a int sizeOf(K, V) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.tagmanager.TagManager com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.tagmanager.ContainerHolder&gt; loadContainerPreferFresh(java.lang.String, int, android.os.Handler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.f com.google.android.gms.tagmanager.cr.f f(com.google.android.gms.tagmanager.cr.a)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.f com.google.android.gms.tagmanager.cr.f e(com.google.android.gms.tagmanager.cr.a)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.DataLayer java.util.List&lt;java.lang.Object&gt; listOf(java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.c com.google.android.gms.tagmanager.cr.d qo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.tagmanager.cr.d com.google.android.gms.tagmanager.cr.d cO(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

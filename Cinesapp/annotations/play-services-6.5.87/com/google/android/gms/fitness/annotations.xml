@@ -1,0 +1,692 @@
+<root>
+    <item name='com.google.android.gms.fitness.SessionsApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; startSession(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.data.Session) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities WALKING_TREADMILL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.HistoryApi.ViewIntentBuilder com.google.android.gms.fitness.HistoryApi.ViewIntentBuilder setDataSource(com.google.android.gms.fitness.data.DataSource)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.BleApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; claimBleDevice(com.google.android.gms.common.api.GoogleApiClient, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness HistoryApi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.BleApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; stopBleScan(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.request.BleScanCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SWIMMING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.BleApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; claimBleDevice(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.data.BleDevice) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.HistoryApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; insertData(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.data.DataSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SWIMMING_OPEN_WATER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.SessionsApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; insertSession(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.request.SessionInsertRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SNOWSHOEING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities CURLING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.SensorsApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; remove(com.google.android.gms.common.api.GoogleApiClient, android.app.PendingIntent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.SensorsApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; add(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.request.SensorRequest, com.google.android.gms.fitness.request.OnDataPointListener) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities MIXED_MARTIAL_ARTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SCUBA_DIVING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities KICK_SCOOTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.BleApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; unclaimBleDevice(com.google.android.gms.common.api.GoogleApiClient, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities WHEELCHAIR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.ConfigApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.fitness.result.DataTypeResult&gt; createCustomDataType(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.request.DataTypeCreateRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities BIKING_UTILITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SKIING_DOWNHILL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SLEEP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness SessionsApi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities OTHER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.SessionsApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; registerForSessions(com.google.android.gms.common.api.GoogleApiClient, android.app.PendingIntent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.SensorsApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; add(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.request.SensorRequest, com.google.android.gms.fitness.request.OnDataPointListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities AEROBICS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.BleApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.fitness.result.BleDevicesResult&gt; listClaimedBleDevices(com.google.android.gms.common.api.GoogleApiClient)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities GOLF'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.BleApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; unclaimBleDevice(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.data.BleDevice) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.HistoryApi.ViewIntentBuilder com.google.android.gms.fitness.HistoryApi.ViewIntentBuilder setPreferredApplication(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.SensorsApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; add(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.request.SensorRequest, android.app.PendingIntent) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities WALKING_NORDIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SKATING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities RUNNING_JOGGING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness SCOPE_ACTIVITY_READ_WRITE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities HANDBALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities TREADMILL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities WALKING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities JUMP_ROPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.ConfigApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.fitness.result.DataTypeResult&gt; readDataType(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.HistoryApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.fitness.result.DataReadResult&gt; readData(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.request.DataReadRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities WEIGHTLIFTING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities CRICKET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness SensorsApi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SKATING_CROSS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness SCOPE_ACTIVITY_READ'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.RecordingApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; unsubscribe(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.data.DataType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities BIKING_SPINNING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities ICE_SKATING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.RecordingApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.fitness.result.ListSubscriptionsResult&gt; listSubscriptions(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities java.lang.String getName(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SKIING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities KICKBOXING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SQUASH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.HistoryApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; deleteData(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.request.DataDeleteRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities VOLLEYBALL_INDOOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.SessionsApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.fitness.result.SessionReadResult&gt; readSession(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.request.SessionReadRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness SCOPE_BODY_READ'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities ON_FOOT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.BleApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; unclaimBleDevice(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.data.BleDevice) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities ZUMBA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities MEDITATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities WINDSURFING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities TENNIS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness TK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.BleApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.fitness.result.BleDevicesResult&gt; listClaimedBleDevices(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness ACTION_TRACK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.SessionsApi.ViewIntentBuilder com.google.android.gms.fitness.SessionsApi.ViewIntentBuilder setSession(com.google.android.gms.fitness.data.Session)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.a java.lang.String bt(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SKATING_INLINE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities CIRCUIT_TRAINING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.RecordingApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; unsubscribe(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.data.DataSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities BADMINTON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SKIING_CROSS_COUNTRY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness DQ'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities DIVING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities HORSEBACK_RIDING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities BIKING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness RecordingApi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities TABLE_TENNIS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities STRENGTH_TRAINING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.RecordingApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.fitness.result.ListSubscriptionsResult&gt; listSubscriptions(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.data.DataType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.HistoryApi.ViewIntentBuilder com.google.android.gms.fitness.HistoryApi.ViewIntentBuilder setTimeInterval(long, long, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities RUGBY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness ConfigApi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.a java.lang.String bt(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SLEDDING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities BIATHLON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities PILATES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.RecordingApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; subscribe(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.data.DataSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.BleApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; unclaimBleDevice(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities WAKEBOARDING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SURFING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities BIKING_ROAD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities GYMNASTICS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities KITESURFING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities YOGA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities HOUSEWORK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities TILTING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness BleApi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.RecordingApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; unsubscribe(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.data.Subscription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities BIKING_MOUNTAIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities WALKING_FITNESS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities TEAM_SPORTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SKIING_KITE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities ROCK_CLIMBING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SNOWBOARDING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities STAIR_CLIMBING_MACHINE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness long getEndTime(android.content.Intent, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities BASEBALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities RACQUETBALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SWIMMING_POOL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities HIKING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.BleApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; unclaimBleDevice(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.data.BleDevice)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities EXTRA_STATUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities FENCING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities RUNNING_SAND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.ConfigApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; disableFit(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness ACTION_VIEW'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities IN_VEHICLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SAILING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness ACTION_VIEW_GOAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities DANCING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.RecordingApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; unsubscribe(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.data.Subscription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SKATING_INDOOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness SCOPE_LOCATION_READ_WRITE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities ROWING_MACHINE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SKATEBOARDING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities UNKNOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities STANDUP_PADDLEBOARDING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SKIING_ROLLER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness SCOPE_LOCATION_READ'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities RUNNING_TREADMILL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities FOOTBALL_AUSTRALIAN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities POLO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.SessionsApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.fitness.result.SessionStopResult&gt; stopSession(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.RecordingApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; subscribe(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.data.DataType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.HistoryApi.ViewIntentBuilder com.google.android.gms.fitness.HistoryApi.ViewIntentBuilder setDataSource(com.google.android.gms.fitness.data.DataSource) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities java.lang.String getValue(com.google.android.gms.fitness.data.DataPoint) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities FOOTBALL_AMERICAN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities STATUS_COMPLETED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities BOXING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities MIME_TYPE_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities VOLLEYBALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities STATUS_ACTIVE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness long getStartTime(android.content.Intent, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities WATER_POLO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities P90X'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities VOLLEYBALL_BEACH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness API'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.BleApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; claimBleDevice(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.data.BleDevice)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.a java.lang.String[] e(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities void setValue(com.google.android.gms.fitness.data.DataPoint, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities GARDENING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.SensorsApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; add(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.request.SensorRequest, android.app.PendingIntent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness EXTRA_END_TIME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.SensorsApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.fitness.result.DataSourcesResult&gt; findDataSources(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.request.DataSourcesRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities ELLIPTICAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.BleApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; startBleScan(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.request.StartBleScanRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities RUNNING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities ROWING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.SessionsApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; unregisterForSessions(com.google.android.gms.common.api.GoogleApiClient, android.app.PendingIntent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities STILL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SKIING_BACK_COUNTRY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.SessionsApi.ViewIntentBuilder com.google.android.gms.fitness.SessionsApi.ViewIntentBuilder setPreferredApplication(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities CALISTHENICS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities FRISBEE_DISC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities BIKING_HAND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities BIKING_STATIONARY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities SNOWMOBILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.BleApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; stopBleScan(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.request.BleScanCallback)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.BleApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; claimBleDevice(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities FOOTBALL_SOCCER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities KAYAKING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities MARTIAL_ARTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities BASKETBALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities PARAGLIDING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities KETTLEBELL_TRAINING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities STAIR_CLIMBING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.BleApi com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; startBleScan(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.fitness.request.StartBleScanRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness EXTRA_START_TIME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities HOCKEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities java.lang.String getValue(com.google.android.gms.fitness.data.DataPoint)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.Fitness SCOPE_BODY_READ_WRITE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.HistoryApi.ViewIntentBuilder com.google.android.gms.fitness.HistoryApi.ViewIntentBuilder setTimeInterval(long, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.fitness.FitnessActivities ERGOMETER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

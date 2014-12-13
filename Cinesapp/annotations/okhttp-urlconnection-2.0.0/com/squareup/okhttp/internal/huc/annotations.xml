@@ -1,0 +1,38 @@
+<root>
+    <item name='com.squareup.okhttp.internal.huc.HttpURLConnectionImpl java.io.InputStream getInputStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.huc.CacheAdapter com.squareup.okhttp.Response get(com.squareup.okhttp.Request) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.huc.HttpURLConnectionImpl void addRequestProperty(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.huc.CacheAdapter java.net.CacheRequest put(com.squareup.okhttp.Response) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.huc.JavaApiConverter java.net.CacheResponse createJavaCacheResponse(com.squareup.okhttp.Response)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.huc.JavaApiConverter com.squareup.okhttp.Request createOkRequest(java.net.URI, java.lang.String, java.util.Map&lt;java.lang.String,java.util.List&lt;java.lang.String&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.huc.HttpURLConnectionImpl java.security.Permission getPermission()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.huc.JavaApiConverter com.squareup.okhttp.Response createOkResponse(java.net.URI, java.net.URLConnection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.huc.JavaApiConverter com.squareup.okhttp.Response createOkResponse(java.net.URI, java.net.URLConnection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.huc.HttpURLConnectionImpl void setRequestProperty(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.huc.JavaApiConverter java.net.CacheResponse createJavaCacheResponse(com.squareup.okhttp.Response) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.huc.HttpsURLConnectionImpl HttpsURLConnectionImpl(com.squareup.okhttp.internal.huc.HttpURLConnectionImpl) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

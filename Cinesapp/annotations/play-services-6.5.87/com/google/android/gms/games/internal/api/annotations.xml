@@ -1,0 +1,389 @@
+<root>
+    <item name='com.google.android.gms.games.internal.api.RealTimeMultiplayerImpl android.content.Intent getWaitingRoomIntent(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.realtime.Room, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.PlayersImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.Players.LoadPlayersResult&gt; loadPlayer(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RequestsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.request.Requests.LoadRequestsResult&gt; loadRequests(com.google.android.gms.common.api.GoogleApiClient, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RealTimeMultiplayerImpl void leave(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.realtime.RoomUpdateListener, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RequestsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.request.Requests.UpdateRequestsResult&gt; acceptRequests(com.google.android.gms.common.api.GoogleApiClient, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.SnapshotsImpl void discardAndClose(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.snapshot.Snapshot) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RequestsImpl android.content.Intent getSendIntent(com.google.android.gms.common.api.GoogleApiClient, int, byte[], int, android.graphics.Bitmap, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.AchievementsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.achievement.Achievements.UpdateAchievementResult&gt; revealImmediate(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.PlayersImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.Players.LoadPlayersResult&gt; loadMoreInvitablePlayers(com.google.android.gms.common.api.GoogleApiClient, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.AchievementsImpl void setSteps(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.InvitationsImpl android.content.Intent getInvitationInboxIntent(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.QuestsImpl void unregisterQuestUpdateListener(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.EventsImpl void increment(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.GamesMetadataImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.GamesMetadata.LoadGamesResult&gt; loadGame(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.QuestsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.quest.Quests.LoadQuestsResult&gt; load(com.google.android.gms.common.api.GoogleApiClient, int[], int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.AchievementsImpl void reveal(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RequestsImpl int getMaxLifetimeDays(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.PlayersImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.Players.LoadPlayersResult&gt; loadMoreRecentlyPlayedWithPlayers(com.google.android.gms.common.api.GoogleApiClient, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.SnapshotsImpl void discardAndClose(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.snapshot.Snapshot) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RealTimeMultiplayerImpl com.google.android.gms.games.multiplayer.realtime.RealTimeSocket getSocketForParticipant(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RequestsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.request.Requests.UpdateRequestsResult&gt; acceptRequest(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.EventsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.event.Events.LoadEventsResult&gt; load(com.google.android.gms.common.api.GoogleApiClient, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.LeaderboardMetadataResult&gt; loadLeaderboardMetadata(com.google.android.gms.common.api.GoogleApiClient, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RealTimeMultiplayerImpl void declineInvitation(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.SnapshotsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.DeleteSnapshotResult&gt; delete(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.snapshot.SnapshotMetadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RealTimeMultiplayerImpl void dismissInvitation(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.LeaveMatchResult&gt; leaveMatchDuringTurn(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RealTimeMultiplayerImpl int sendUnreliableMessage(com.google.android.gms.common.api.GoogleApiClient, byte[], java.lang.String, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.CancelMatchResult&gt; cancelMatch(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.UpdateMatchResult&gt; takeTurn(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, byte[], java.lang.String, com.google.android.gms.games.multiplayer.ParticipantResult...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.InitiateMatchResult&gt; rematch(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.InitiateMatchResult&gt; createMatch(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RequestsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.request.Requests.UpdateRequestsResult&gt; dismissRequest(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.QuestsImpl android.content.Intent getQuestIntent(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.LoadScoresResult&gt; loadPlayerCenteredScores(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, int, int, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.LoadScoresResult&gt; loadPlayerCenteredScores(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.PlayersImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.Players.LoadPlayersResult&gt; loadPlayer(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.SnapshotsImpl int getMaxDataSize(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RequestsImpl void unregisterRequestListener(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl android.content.Intent getSelectOpponentsIntent(com.google.android.gms.common.api.GoogleApiClient, int, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.LeaderboardMetadataResult&gt; loadLeaderboardMetadata(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RealTimeMultiplayerImpl void join(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.realtime.RoomConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.NotificationsImpl void clearAll(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RealTimeMultiplayerImpl void join(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.realtime.RoomConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.LoadScoresResult&gt; loadTopScores(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, int, int, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.SnapshotsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.OpenSnapshotResult&gt; open(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.snapshot.SnapshotMetadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.LoadScoresResult&gt; loadMoreScores(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.leaderboard.LeaderboardScoreBuffer, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl void registerMatchUpdateListener(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.turnbased.OnTurnBasedMatchUpdateReceivedListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RealTimeMultiplayerImpl int sendReliableMessage(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer.ReliableMessageSentCallback, byte[], java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.QuestsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.quest.Quests.ClaimMilestoneResult&gt; claim(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RealTimeMultiplayerImpl int sendUnreliableMessage(com.google.android.gms.common.api.GoogleApiClient, byte[], java.lang.String, java.util.List&lt;java.lang.String&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.LoadScoresResult&gt; loadTopScores(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.QuestsImpl void registerQuestUpdateListener(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.quest.QuestUpdateListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.QuestsImpl android.content.Intent getQuestsIntent(com.google.android.gms.common.api.GoogleApiClient, int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl void dismissMatch(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RequestsImpl int getMaxPayloadSize(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.InvitationsImpl void unregisterInvitationListener(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl android.content.Intent getSelectOpponentsIntent(com.google.android.gms.common.api.GoogleApiClient, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.SnapshotsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.LoadSnapshotsResult&gt; load(com.google.android.gms.common.api.GoogleApiClient, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.AchievementsImpl void increment(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl android.content.Intent getAllLeaderboardsIntent(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl void submitScore(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.SnapshotsImpl int getMaxCoverImageSize(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.SnapshotsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.OpenSnapshotResult&gt; open(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.snapshot.SnapshotMetadata) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RequestsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.request.Requests.UpdateRequestsResult&gt; dismissRequests(com.google.android.gms.common.api.GoogleApiClient, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.PlayersImpl android.content.Intent getPlayerSearchIntent(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl void unregisterMatchUpdateListener(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.UpdateMatchResult&gt; finishMatch(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, byte[], com.google.android.gms.games.multiplayer.ParticipantResult...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.InvitationsImpl void registerInvitationListener(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.OnInvitationReceivedListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.AchievementsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.achievement.Achievements.UpdateAchievementResult&gt; incrementImmediate(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.PlayersImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.Players.LoadPlayersResult&gt; loadConnectedPlayers(com.google.android.gms.common.api.GoogleApiClient, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl.SubmitScoreImpl com.google.android.gms.games.leaderboard.Leaderboards.SubmitScoreResult X(com.google.android.gms.common.api.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RealTimeMultiplayerImpl int sendUnreliableMessageToOthers(com.google.android.gms.common.api.GoogleApiClient, byte[], java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.SnapshotsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.CommitSnapshotResult&gt; commitAndClose(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.snapshot.Snapshot, com.google.android.gms.games.snapshot.SnapshotMetadataChange) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.LoadMatchesResult&gt; loadMatchesByStatus(com.google.android.gms.common.api.GoogleApiClient, int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RealTimeMultiplayerImpl void create(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.realtime.RoomConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RealTimeMultiplayerImpl int sendUnreliableMessage(com.google.android.gms.common.api.GoogleApiClient, byte[], java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.SnapshotsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.OpenSnapshotResult&gt; open(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.AchievementsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.achievement.Achievements.UpdateAchievementResult&gt; unlockImmediate(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.InvitationsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.Invitations.LoadInvitationsResult&gt; loadInvitations(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.SnapshotsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.OpenSnapshotResult&gt; resolveConflict(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, com.google.android.gms.games.snapshot.Snapshot) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl android.content.Intent getInboxIntent(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl.SubmitScoreImpl com.google.android.gms.common.api.Result c(com.google.android.gms.common.api.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.LoadPlayerScoreResult&gt; loadCurrentPlayerLeaderboardScore(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.InitiateMatchResult&gt; acceptInvitation(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl void declineInvitation(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RealTimeMultiplayerImpl android.content.Intent getSelectOpponentsIntent(com.google.android.gms.common.api.GoogleApiClient, int, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RequestsImpl java.util.ArrayList&lt;com.google.android.gms.games.request.GameRequest&gt; getGameRequestsFromInboxResponse(android.content.Intent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.GamesMetadataImpl com.google.android.gms.games.Game getCurrentGame(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RealTimeMultiplayerImpl void create(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.realtime.RoomConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.PlayersImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.Players.LoadPlayersResult&gt; loadRecentlyPlayedWithPlayers(com.google.android.gms.common.api.GoogleApiClient, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl void submitScore(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, long, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RequestsImpl void registerRequestListener(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.request.OnRequestReceivedListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl android.content.Intent getLeaderboardIntent(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl.SubmitScoreImpl com.google.android.gms.common.api.Result c(com.google.android.gms.common.api.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.EventsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.event.Events.LoadEventsResult&gt; loadByIds(com.google.android.gms.common.api.GoogleApiClient, boolean, java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.LoadMatchResult&gt; loadMatch(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.UpdateMatchResult&gt; takeTurn(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, byte[], java.lang.String, java.util.List&lt;com.google.android.gms.games.multiplayer.ParticipantResult&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.SnapshotsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.OpenSnapshotResult&gt; resolveConflict(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, java.lang.String, com.google.android.gms.games.snapshot.SnapshotMetadataChange, com.google.android.gms.games.snapshot.SnapshotContents) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.AchievementsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.achievement.Achievements.UpdateAchievementResult&gt; setStepsImmediate(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.QuestsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.quest.Quests.LoadQuestsResult&gt; loadByIds(com.google.android.gms.common.api.GoogleApiClient, boolean, java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.SubmitScoreResult&gt; submitScoreImmediate(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.InvitationsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.Invitations.LoadInvitationsResult&gt; loadInvitations(com.google.android.gms.common.api.GoogleApiClient, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.AchievementsImpl void unlock(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.PlayersImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.Players.LoadPlayersResult&gt; loadInvitablePlayers(com.google.android.gms.common.api.GoogleApiClient, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.SnapshotsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.snapshot.Snapshots.OpenSnapshotResult&gt; resolveConflict(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, com.google.android.gms.games.snapshot.Snapshot) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.PlayersImpl java.lang.String getCurrentPlayerId(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl int getMaxMatchDataSize(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RealTimeMultiplayerImpl android.content.Intent getSelectOpponentsIntent(com.google.android.gms.common.api.GoogleApiClient, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.LoadMatchesResult&gt; loadMatchesByStatus(com.google.android.gms.common.api.GoogleApiClient, int, int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.AchievementsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.achievement.Achievements.LoadAchievementsResult&gt; load(com.google.android.gms.common.api.GoogleApiClient, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RealTimeMultiplayerImpl com.google.android.gms.games.multiplayer.realtime.RealTimeSocket getSocketForParticipant(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl android.content.Intent getLeaderboardIntent(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.NotificationsImpl void clear(com.google.android.gms.common.api.GoogleApiClient, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.SnapshotsImpl android.content.Intent getSelectSnapshotIntent(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, boolean, boolean, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.UpdateMatchResult&gt; finishMatch(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl.SubmitScoreImpl SubmitScoreImpl(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.UpdateMatchResult&gt; takeTurn(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, byte[], java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.LeaderboardsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.leaderboard.Leaderboards.SubmitScoreResult&gt; submitScoreImmediate(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, long, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.QuestsImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.quest.Quests.AcceptQuestResult&gt; accept(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.UpdateMatchResult&gt; finishMatch(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, byte[], java.util.List&lt;com.google.android.gms.games.multiplayer.ParticipantResult&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.QuestsImpl void showStateChangedPopup(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl void dismissInvitation(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RequestsImpl android.content.Intent getInboxIntent(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.PlayersImpl com.google.android.gms.games.Player getCurrentPlayer(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.TurnBasedMultiplayerImpl com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.LeaveMatchResult&gt; leaveMatch(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.AchievementsImpl android.content.Intent getAchievementsIntent(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.api.RequestsImpl java.util.ArrayList&lt;com.google.android.gms.games.request.GameRequest&gt; getGameRequestsFromBundle(android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

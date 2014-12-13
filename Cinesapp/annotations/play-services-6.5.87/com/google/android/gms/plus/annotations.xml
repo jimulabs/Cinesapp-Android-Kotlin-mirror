@@ -1,0 +1,212 @@
+<root>
+    <item name='com.google.android.gms.plus.People com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.plus.People.LoadPeopleResult&gt; load(com.google.android.gms.common.api.GoogleApiClient, java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare.Builder Builder(android.app.Activity, com.google.android.gms.plus.PlusClient) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare.Builder com.google.android.gms.plus.PlusShare.Builder setRecipients(java.util.List&lt;com.google.android.gms.plus.model.people.Person&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Plus anp'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Plus.PlusOptions.Builder com.google.android.gms.plus.Plus.PlusOptions.Builder addActivityTypes(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Plus.PlusOptions com.google.android.gms.plus.Plus.PlusOptions.Builder builder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare PARAM_CONTENT_DEEP_LINK_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare EXTRA_CONTENT_DEEP_LINK_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Account void clearDefaultAccount(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare com.google.android.gms.plus.model.people.Person createPerson(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare KEY_CONTENT_DEEP_LINK_METADATA_DESCRIPTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Plus.PlusOptions.Builder com.google.android.gms.plus.Plus.PlusOptions.Builder setServerClientId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare EXTRA_CALL_TO_ACTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Plus anq'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Plus DQ'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Moments com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.plus.Moments.LoadMomentsResult&gt; load(com.google.android.gms.common.api.GoogleApiClient, int, java.lang.String, android.net.Uri, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare.Builder com.google.android.gms.plus.PlusShare.Builder setType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Plus API'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.People com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.plus.People.LoadPeopleResult&gt; loadVisible(com.google.android.gms.common.api.GoogleApiClient, int, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.plus.Moments com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; write(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.plus.model.moments.Moment) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare.Builder com.google.android.gms.plus.PlusShare.Builder setStream(android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare.Builder com.google.android.gms.plus.PlusShare.Builder addCallToAction(java.lang.String, android.net.Uri, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Plus.PlusOptions.Builder com.google.android.gms.plus.Plus.PlusOptions.Builder addActivityTypes(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusOneDummyView TAG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare EXTRA_CONTENT_URL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare KEY_CALL_TO_ACTION_URL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare KEY_CONTENT_DEEP_LINK_METADATA_TITLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Plus.PlusOptions.Builder com.google.android.gms.plus.Plus.PlusOptions build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare KEY_CONTENT_DEEP_LINK_METADATA_THUMBNAIL_URL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.People com.google.android.gms.plus.model.people.Person getCurrentPerson(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.plus.Plus SCOPE_PLUS_LOGIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare.Builder com.google.android.gms.plus.PlusShare.Builder setContentDeepLinkId(java.lang.String, java.lang.String, java.lang.String, android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare.Builder com.google.android.gms.plus.PlusShare.Builder addStream(android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Moments com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; remove(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.plus.Plus PeopleApi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare.Builder com.google.android.gms.plus.PlusShare.Builder addCallToAction(java.lang.String, android.net.Uri, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Account com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; revokeAccessAndDisconnect(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.plus.People com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.plus.People.LoadPeopleResult&gt; loadConnected(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare.Builder com.google.android.gms.plus.PlusShare.Builder setContentDeepLinkId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare.Builder com.google.android.gms.plus.PlusShare.Builder setContentUrl(android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare android.os.Bundle a(java.lang.String, java.lang.String, android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare KEY_CALL_TO_ACTION_LABEL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Plus SCOPE_PLUS_PROFILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare EXTRA_IS_INTERACTIVE_POST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Plus.a a(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Account java.lang.String getAccountName(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare EXTRA_CONTENT_DEEP_LINK_METADATA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare EXTRA_SENDER_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.People com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.plus.People.LoadPeopleResult&gt; load(com.google.android.gms.common.api.GoogleApiClient, java.util.Collection&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.plus.Moments com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.plus.Moments.LoadMomentsResult&gt; load(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare.Builder com.google.android.gms.plus.PlusShare.Builder setRecipients(com.google.android.gms.plus.model.people.Person, java.util.List&lt;com.google.android.gms.plus.model.people.Person&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Plus com.google.android.gms.plus.internal.e a(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.common.api.Api.c&lt;com.google.android.gms.plus.internal.e&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare.Builder com.google.android.gms.plus.PlusShare.Builder setText(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.People com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.plus.People.LoadPeopleResult&gt; loadVisible(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.plus.PlusShare KEY_CALL_TO_ACTION_DEEP_LINK_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Plus MomentsApi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.Plus AccountApi'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,50 @@
+<root>
+    <item name='com.google.android.gms.games.internal.request.GameRequestClusterCreator com.google.android.gms.games.internal.request.GameRequestCluster cy(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.request.GameRequestClusterCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.request.GameRequestClusterCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.request.RequestUpdateOutcomes.Builder com.google.android.gms.games.internal.request.RequestUpdateOutcomes.Builder ek(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.request.GameRequestCluster CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.request.GameRequestClusterCreator com.google.android.gms.games.internal.request.GameRequestCluster cy(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.request.GameRequestCluster java.util.ArrayList&lt;com.google.android.gms.games.request.GameRequest&gt; mD()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.request.RequestUpdateOutcomes com.google.android.gms.games.internal.request.RequestUpdateOutcomes W(com.google.android.gms.common.data.DataHolder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.request.RequestUpdateOutcomes.Builder com.google.android.gms.games.internal.request.RequestUpdateOutcomes mF()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.request.GameRequestCluster void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.request.RequestUpdateOutcomes com.google.android.gms.games.internal.request.RequestUpdateOutcomes W(com.google.android.gms.common.data.DataHolder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.request.RequestUpdateOutcomes.Builder com.google.android.gms.games.internal.request.RequestUpdateOutcomes.Builder z(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.request.GameRequestClusterCreator com.google.android.gms.games.internal.request.GameRequestCluster[] ej(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.request.GameRequestClusterCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.request.GameRequestCluster java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.request.GameRequestCluster com.google.android.gms.games.request.GameRequest freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

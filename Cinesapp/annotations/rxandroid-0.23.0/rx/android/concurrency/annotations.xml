@@ -1,0 +1,8 @@
+<root>
+    <item name='rx.android.concurrency.AndroidSchedulers rx.Scheduler mainThread()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='rx.android.concurrency.AndroidSchedulers rx.Scheduler handlerThread(android.os.Handler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

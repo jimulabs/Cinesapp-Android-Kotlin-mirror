@@ -1,0 +1,11 @@
+<root>
+    <item name='com.google.android.gms.deviceconnection.features.DeviceFeatureBuffer java.lang.Object get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.deviceconnection.features.DeviceFeatureBuffer com.google.android.gms.deviceconnection.features.DeviceFeature get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.deviceconnection.features.a a(com.google.android.gms.common.data.DataHolder, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,32 @@
+<root>
+    <item name='com.google.android.gms.gcm.GoogleCloudMessaging java.lang.String register(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.GoogleCloudMessaging ERROR_MAIN_THREAD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.GoogleCloudMessaging java.lang.String register(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.GoogleCloudMessaging void send(java.lang.String, java.lang.String, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.GoogleCloudMessaging MESSAGE_TYPE_SEND_ERROR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.GoogleCloudMessaging ERROR_SERVICE_NOT_AVAILABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.GoogleCloudMessaging java.lang.String getMessageType(android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.GoogleCloudMessaging void send(java.lang.String, java.lang.String, long, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.GoogleCloudMessaging MESSAGE_TYPE_MESSAGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.gcm.GoogleCloudMessaging MESSAGE_TYPE_DELETED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

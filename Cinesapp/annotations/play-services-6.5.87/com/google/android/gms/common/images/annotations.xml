@@ -1,0 +1,68 @@
+<root>
+    <item name='com.google.android.gms.common.images.a android.graphics.drawable.Drawable a(android.content.res.Resources, android.graphics.drawable.Drawable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.WebImage org.json.JSONObject toJson()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.b com.google.android.gms.common.images.WebImage C(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.WebImage WebImage(android.net.Uri, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.WebImage void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.b com.google.android.gms.common.images.WebImage[] aA(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.ImageManager void loadImage(android.widget.ImageView, android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.ImageManager void loadImage(android.widget.ImageView, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.b com.google.android.gms.common.images.WebImage C(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.b java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.a.b b(android.widget.ImageView, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.ImageManager void loadImage(android.widget.ImageView, android.net.Uri, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.b java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.b java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.a com.google.android.gms.internal.iz a(android.graphics.drawable.Drawable, android.graphics.drawable.Drawable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.WebImage WebImage(org.json.JSONObject) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.a.c c(com.google.android.gms.common.images.ImageManager.OnImageLoadedListener, android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.ImageManager void loadImage(com.google.android.gms.common.images.ImageManager.OnImageLoadedListener, android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.ImageManager void loadImage(com.google.android.gms.common.images.ImageManager.OnImageLoadedListener, android.net.Uri, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.WebImage WebImage(android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.WebImage CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.images.a.b b(android.widget.ImageView, android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

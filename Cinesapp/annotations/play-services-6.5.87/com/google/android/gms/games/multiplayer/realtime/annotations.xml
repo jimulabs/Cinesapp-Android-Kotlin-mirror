@@ -1,0 +1,281 @@
+<root>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomRef com.google.android.gms.games.multiplayer.realtime.Room freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMessage CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomEntity java.util.ArrayList&lt;com.google.android.gms.games.multiplayer.Participant&gt; getParticipants()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder setAutoMatchCriteria(android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomEntityCreator com.google.android.gms.games.multiplayer.realtime.RoomEntity cC(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomRef java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer android.content.Intent getWaitingRoomIntent(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.realtime.Room, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder addPlayersToInvite(java.util.ArrayList&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomEntity CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomEntityCreator com.google.android.gms.games.multiplayer.realtime.RoomEntity[] eo(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeSocket java.io.OutputStream getOutputStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomRef void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomEntityCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer int sendUnreliableMessage(com.google.android.gms.common.api.GoogleApiClient, byte[], java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMessage RealTimeMessage(java.lang.String, byte[], int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomEntity java.util.ArrayList&lt;java.lang.String&gt; getParticipantIds()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMessage RealTimeMessage(java.lang.String, byte[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer android.content.Intent getSelectOpponentsIntent(com.google.android.gms.common.api.GoogleApiClient, int, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomConfigImpl com.google.android.gms.games.multiplayer.realtime.RoomUpdateListener getRoomUpdateListener()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder addPlayersToInvite(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomRef void getDescription(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomEntity RoomEntity(com.google.android.gms.games.multiplayer.realtime.Room) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer com.google.android.gms.games.multiplayer.realtime.RealTimeSocket getSocketForParticipant(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.Room void getDescription(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder setSocketCommunicationEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.Room com.google.android.gms.games.multiplayer.Participant getParticipant(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer int sendUnreliableMessage(com.google.android.gms.common.api.GoogleApiClient, byte[], java.lang.String, java.util.List&lt;java.lang.String&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomRef java.util.ArrayList&lt;com.google.android.gms.games.multiplayer.Participant&gt; getParticipants()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomEntityCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomBuffer com.google.android.gms.games.multiplayer.realtime.Room l(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder setVariant(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer int sendReliableMessage(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer.ReliableMessageSentCallback, byte[], java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMessage java.lang.String getSenderParticipantId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.Room java.util.ArrayList&lt;java.lang.String&gt; getParticipantIds()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomBuffer java.lang.Object f(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder setMessageReceivedListener(com.google.android.gms.games.multiplayer.realtime.RealTimeMessageReceivedListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeSocket java.io.InputStream getInputStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer void join(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.realtime.RoomConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder setInvitationIdToAccept(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomEntityCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomEntity void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer void dismissInvitation(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomEntity com.google.android.gms.games.multiplayer.realtime.Room freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomEntity com.google.android.gms.games.multiplayer.Participant getParticipant(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer com.google.android.gms.games.multiplayer.realtime.RealTimeSocket getSocketForParticipant(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer int sendUnreliableMessage(com.google.android.gms.common.api.GoogleApiClient, byte[], java.lang.String, java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomRef java.util.ArrayList&lt;java.lang.String&gt; getParticipantIds()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomRef com.google.android.gms.games.multiplayer.Participant getParticipant(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMessage void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer void create(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.realtime.RoomConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomEntity void getDescription(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomEntity java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomConfig com.google.android.gms.games.multiplayer.realtime.RoomUpdateListener getRoomUpdateListener()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder addPlayersToInvite(java.util.ArrayList&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomConfig com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder builder(com.google.android.gms.games.multiplayer.realtime.RoomUpdateListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer void leave(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.realtime.RoomUpdateListener, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer void join(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.realtime.RoomConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer void declineInvitation(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomConfig com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder builder(com.google.android.gms.games.multiplayer.realtime.RoomUpdateListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder com.google.android.gms.games.multiplayer.realtime.RoomConfig build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer android.content.Intent getSelectOpponentsIntent(com.google.android.gms.common.api.GoogleApiClient, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomEntityCreator com.google.android.gms.games.multiplayer.realtime.RoomEntity cC(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer int sendUnreliableMessageToOthers(com.google.android.gms.common.api.GoogleApiClient, byte[], java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RealTimeMultiplayer void create(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.realtime.RoomConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomConfig android.os.Bundle createAutoMatchCriteria(int, int, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder setRoomStatusUpdateListener(com.google.android.gms.games.multiplayer.realtime.RoomStatusUpdateListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomBuffer java.lang.String ha()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder addPlayersToInvite(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder com.google.android.gms.games.multiplayer.realtime.RoomConfig.Builder setInvitationIdToAccept(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,191 @@
+<root>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setAudio(com.google.android.gms.plus.model.moments.ItemScope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setUrl(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setAssociated_media(java.util.List&lt;com.google.android.gms.plus.model.moments.ItemScope&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setRatingValue(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setPostalCode(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.Moment.Builder com.google.android.gms.plus.model.moments.Moment.Builder setTarget(com.google.android.gms.plus.model.moments.ItemScope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setLongitude(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setCaption(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setDateModified(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setInAlbum(com.google.android.gms.plus.model.moments.ItemScope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.Moment.Builder com.google.android.gms.plus.model.moments.Moment.Builder setId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setHeight(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setGeo(com.google.android.gms.plus.model.moments.ItemScope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setStreetAddress(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setEndDate(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setContributor(java.util.List&lt;com.google.android.gms.plus.model.moments.ItemScope&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setStartDate(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setImage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setAddressCountry(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setLocation(com.google.android.gms.plus.model.moments.ItemScope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setReviewRating(com.google.android.gms.plus.model.moments.ItemScope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.Moment.Builder com.google.android.gms.plus.model.moments.Moment.Builder setType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setGivenName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setPerformers(java.util.List&lt;com.google.android.gms.plus.model.moments.ItemScope&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.MomentBuffer java.lang.Object get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setAbout(com.google.android.gms.plus.model.moments.ItemScope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setPostOfficeBoxNumber(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setAddressLocality(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setAttendeeCount(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setBestRating(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setDatePublished(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setPartOfTVSeries(com.google.android.gms.plus.model.moments.ItemScope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setAttendees(java.util.List&lt;com.google.android.gms.plus.model.moments.ItemScope&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.Moment.Builder com.google.android.gms.plus.model.moments.Moment.Builder setStartDate(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setWorstRating(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setDescription(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setByArtist(com.google.android.gms.plus.model.moments.ItemScope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setAddressRegion(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setPlayerType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setAddress(com.google.android.gms.plus.model.moments.ItemScope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setFamilyName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setEmbedUrl(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setThumbnail(com.google.android.gms.plus.model.moments.ItemScope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setDuration(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setGender(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setBirthDate(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setContentUrl(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setDateCreated(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.MomentBuffer com.google.android.gms.plus.model.moments.Moment get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setTickerSymbol(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setAdditionalName(java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setWidth(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setLatitude(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setAuthor(java.util.List&lt;com.google.android.gms.plus.model.moments.ItemScope&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setText(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.Moment.Builder com.google.android.gms.plus.model.moments.Moment build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.Moment.Builder com.google.android.gms.plus.model.moments.Moment.Builder setResult(com.google.android.gms.plus.model.moments.ItemScope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setContentSize(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.plus.model.moments.ItemScope.Builder com.google.android.gms.plus.model.moments.ItemScope.Builder setThumbnailUrl(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,728 @@
+<root>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper boolean gt(java.math.BigDecimal, java.math.BigDecimal) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;T&gt; create(T, T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper java.lang.Number multiply(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Number floorDivide(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper java.lang.Number abs(java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Byte multiply(java.lang.Byte, java.lang.Byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Number floorDivide(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.CharRangeWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Character&gt; reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.CharRangeWrapper boolean test(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Number floorDivide(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper T floorDivide(T, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Long multiply(java.lang.Long, java.lang.Long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Byte multiply(java.lang.Byte, java.lang.Byte) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Short mod(java.lang.Short, java.lang.Short) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper boolean gt(java.math.BigInteger, java.math.BigInteger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper java.math.BigDecimal multiply(java.math.BigDecimal, java.math.BigDecimal) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.CharRangeWrapper java.util.Iterator&lt;java.lang.Character&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Byte add(java.lang.Byte, java.lang.Byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper ByteRangeWrapper(java.lang.Byte, java.lang.Byte, java.lang.Byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Short mod(java.lang.Short, java.lang.Short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper T mod(T, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper ShortRangeWrapper(java.lang.Short, java.lang.Short, java.lang.Short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.math.BigDecimal&gt; create(java.math.BigDecimal, java.math.BigDecimal, java.math.BigDecimal) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper T add(T, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Number abs(java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Long abs(java.lang.Long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper java.lang.Number multiply(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper ByteRangeWrapper(java.lang.Byte, java.lang.Byte, java.lang.Byte) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Byte add(java.lang.Byte, java.lang.Byte) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;T&gt; create(T, T, T) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;T&gt; create(T, T, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper T mod(T, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper T abs(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Number floorDivide(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper IntRangeWrapper(java.lang.Integer, java.lang.Integer, java.lang.Integer) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper ByteRangeWrapper(java.lang.Byte, java.lang.Byte, java.lang.Byte) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper BigDecimalRangeWrapper(java.math.BigDecimal) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper BigDecimalRangeWrapper(java.math.BigDecimal, java.math.BigDecimal) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper java.math.BigInteger add(java.math.BigInteger, java.math.BigInteger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.DateRangeWrapper java.util.Iterator&lt;java.util.Date&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.math.BigDecimal&gt; create(java.math.BigDecimal, java.math.BigDecimal, java.math.BigDecimal) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Short floorDivide(java.lang.Short, java.lang.Short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper ShortRangeWrapper(java.lang.Short, java.lang.Short, java.lang.Short) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper stepBy'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Number multiply(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Number add(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.lang.Byte&gt; create(java.lang.Byte, java.lang.Byte, java.lang.Byte) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper T mod(T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Number multiply(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.math.BigInteger&gt; create(java.math.BigInteger, java.math.BigInteger, java.math.BigInteger)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper BigDecimalRangeWrapper(java.math.BigDecimal, java.math.BigDecimal) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.lang.Long&gt; create(java.lang.Long, java.lang.Long, java.lang.Long) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper T add(T, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.lang.Long&gt; create(java.lang.Long, java.lang.Long, java.lang.Long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.math.BigDecimal&gt; create(java.math.BigDecimal, java.math.BigDecimal, java.math.BigDecimal) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper ShortRangeWrapper(java.lang.Short, java.lang.Short, java.lang.Short) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Number multiply(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Number multiply(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper T floorDivide(T, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Long mod(java.lang.Long, java.lang.Long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.lang.Short&gt; create(java.lang.Short, java.lang.Short, java.lang.Short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.CharRangeWrapper boolean contains(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; shuffle(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper stopAt'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Number mod(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.CharRangeWrapper boolean test(java.lang.Character) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.lang.Byte&gt; create(java.lang.Byte, java.lang.Byte, java.lang.Byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper LongRangeWrapper(java.lang.Long, java.lang.Long, java.lang.Long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Number floorDivide(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.lang.Long&gt; create(java.lang.Long, java.lang.Long, java.lang.Long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper boolean greaterThan(T, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Long multiply(java.lang.Long, java.lang.Long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.DateRangeWrapper boolean contains(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper java.math.BigInteger multiply(java.math.BigInteger, java.math.BigInteger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper AbstractNumberRangeWrapper(T, T, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Long mod(java.lang.Long, java.lang.Long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.DateRangeWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.util.Date&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper LongRangeWrapper(java.lang.Long, java.lang.Long, java.lang.Long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.lang.Byte&gt; create(java.lang.Byte, java.lang.Byte, java.lang.Byte) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Number add(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Number floorDivide(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Integer abs(java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Integer multiply(java.lang.Integer, java.lang.Integer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper java.lang.Number add(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Number abs(java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Number abs(java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Number mod(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.DateRangeWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.util.Date&gt; slice(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Byte floorDivide(java.lang.Byte, java.lang.Byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.lang.Short&gt; create(java.lang.Short, java.lang.Short, java.lang.Short) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper T multiply(T, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper BigIntegerRangeWrapper(java.math.BigInteger, java.math.BigInteger, java.math.BigInteger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper BigIntegerRangeWrapper(java.math.BigInteger, java.math.BigInteger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Number mod(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Short abs(java.lang.Short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Number abs(java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper AbstractNumberRangeWrapper(T, T, T) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper java.lang.Number add(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Integer multiply(java.lang.Integer, java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper LongRangeWrapper(java.lang.Long, java.lang.Long, java.lang.Long) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.lang.Short&gt; create(java.lang.Short, java.lang.Short, java.lang.Short) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Byte floorDivide(java.lang.Byte, java.lang.Byte) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper boolean contains(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Long add(java.lang.Long, java.lang.Long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper BigIntegerRangeWrapper(java.math.BigInteger, java.math.BigInteger) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Number mod(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper AbstractNumberRangeWrapper(T, T, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.lang.Long&gt; create(java.lang.Long, java.lang.Long, java.lang.Long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Number add(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper startFrom'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.lang.Short&gt; create(java.lang.Short, java.lang.Short, java.lang.Short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Number multiply(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Number floorDivide(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper java.lang.Number multiply(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper java.lang.Number floorDivide(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.CharRangeWrapper boolean contains(java.lang.Character) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper boolean isZero(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper BigIntegerRangeWrapper(java.math.BigInteger, java.math.BigInteger, java.math.BigInteger) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper java.math.BigDecimal add(java.math.BigDecimal, java.math.BigDecimal) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Long floorDivide(java.lang.Long, java.lang.Long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Integer mod(java.lang.Integer, java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Byte abs(java.lang.Byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper boolean test(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Number mod(java.lang.Number, java.lang.Number)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.lang.Integer&gt; create(java.lang.Integer, java.lang.Integer, java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Short add(java.lang.Short, java.lang.Short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.DateRangeWrapper DateRangeWrapper(java.util.Date, java.util.Date, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper java.lang.Number multiply(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Number add(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.math.BigDecimal&gt; create(java.math.BigDecimal, java.math.BigDecimal, java.math.BigDecimal)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.CharRangeWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Character&gt; sort()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.DateRangeWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.util.Date&gt; reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Short floorDivide(java.lang.Short, java.lang.Short) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper java.lang.Number floorDivide(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Number multiply(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Number floorDivide(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper java.lang.Number abs(java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper BigIntegerRangeWrapper(java.math.BigInteger, java.math.BigInteger, java.math.BigInteger) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper BigIntegerRangeWrapper(java.math.BigInteger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper java.math.BigDecimal floorDivide(java.math.BigDecimal, java.math.BigDecimal) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.lang.Integer&gt; create(java.lang.Integer, java.lang.Integer, java.lang.Integer) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Short add(java.lang.Short, java.lang.Short) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.DateRangeWrapper DateRangeWrapper(java.util.Date, java.util.Date, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper IntRangeWrapper(java.lang.Integer, java.lang.Integer, java.lang.Integer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper java.lang.Number add(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper java.math.BigInteger abs(java.math.BigInteger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.DateRangeWrapper DateRangeWrapper(java.util.Date, java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;T&gt; create(T, T, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.DateRangeWrapper DateRangeWrapper(java.util.Date, java.util.Date, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper java.lang.Number floorDivide(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Number add(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.lang.Integer&gt; create(java.lang.Integer, java.lang.Integer, java.lang.Integer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Integer add(java.lang.Integer, java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.lang.Byte&gt; create(java.lang.Byte, java.lang.Byte, java.lang.Byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.math.BigInteger&gt; create(java.math.BigInteger, java.math.BigInteger, java.math.BigInteger) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper java.math.BigDecimal abs(java.math.BigDecimal) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Number mod(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Short multiply(java.lang.Short, java.lang.Short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper IntRangeWrapper(java.lang.Integer, java.lang.Integer, java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.DateRangeWrapper boolean test(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Number multiply(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.DateRangeWrapper DateRangeWrapper(java.util.Date, java.util.Date, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Byte mod(java.lang.Byte, java.lang.Byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Number add(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.CharRangeWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Character&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Long floorDivide(java.lang.Long, java.lang.Long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.lang.Integer&gt; create(java.lang.Integer, java.lang.Integer, java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Integer mod(java.lang.Integer, java.lang.Integer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ShortRangeWrapper java.lang.Short multiply(java.lang.Short, java.lang.Short) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.math.BigInteger&gt; create(java.math.BigInteger, java.math.BigInteger, java.math.BigInteger) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Number mod(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.CharRangeWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Character&gt; shuffle(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Integer add(java.lang.Integer, java.lang.Integer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Byte mod(java.lang.Byte, java.lang.Byte) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Number multiply(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper java.math.BigInteger floorDivide(java.math.BigInteger, java.math.BigInteger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Integer floorDivide(java.lang.Integer, java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Number add(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Long add(java.lang.Long, java.lang.Long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper&lt;java.math.BigInteger&gt; create(java.math.BigInteger, java.math.BigInteger, java.math.BigInteger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper BigDecimalRangeWrapper(java.math.BigDecimal, java.math.BigDecimal, java.math.BigDecimal) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Number mod(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper BigDecimalRangeWrapper(java.math.BigDecimal, java.math.BigDecimal, java.math.BigDecimal) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.DateRangeWrapper DateRangeWrapper(java.util.Date, java.util.Date) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper T multiply(T, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper java.lang.Number add(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigIntegerRangeWrapper java.lang.Number floorDivide(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.IntRangeWrapper java.lang.Integer floorDivide(java.lang.Integer, java.lang.Integer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Number add(java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.DateRangeWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.util.Date&gt; repeat(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.LongRangeWrapper java.lang.Number mod(java.lang.Number, java.lang.Number) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper org.bitbucket.dollar.ranges.AbstractNumberRangeWrapper create(java.lang.Number, java.lang.Number, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.BigDecimalRangeWrapper BigDecimalRangeWrapper(java.math.BigDecimal, java.math.BigDecimal, java.math.BigDecimal) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.ranges.ByteRangeWrapper java.lang.Byte mod(java.lang.Byte, java.lang.Byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

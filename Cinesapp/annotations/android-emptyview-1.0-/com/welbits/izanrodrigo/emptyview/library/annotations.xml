@@ -1,0 +1,62 @@
+<root>
+    <item name='com.welbits.izanrodrigo.emptyview.library.EmptyView com.welbits.izanrodrigo.emptyview.library.EmptyView textConfig(java.lang.Integer, java.lang.Integer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.EmptyView com.welbits.izanrodrigo.emptyview.library.EmptyView retry(java.lang.String, android.view.View.OnClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.EmptyView com.welbits.izanrodrigo.emptyview.library.EmptyView textConfig(java.lang.Integer, java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.BuildConfig APPLICATION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.EmptyView com.welbits.izanrodrigo.emptyview.library.EmptyView fadeAnimation(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.EmptyView com.welbits.izanrodrigo.emptyview.library.EmptyView retry(int, android.view.View.OnClickListener) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.EmptyView com.welbits.izanrodrigo.emptyview.library.EmptyView empty(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.EmptyView com.welbits.izanrodrigo.emptyview.library.EmptyView empty(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.EmptyView com.welbits.izanrodrigo.emptyview.library.EmptyView textConfigResources(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.BuildConfig FLAVOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.EmptyView com.welbits.izanrodrigo.emptyview.library.EmptyView retry(java.lang.String, android.view.View.OnClickListener) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.BuildConfig VERSION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.EmptyView com.welbits.izanrodrigo.emptyview.library.EmptyView retry(int, java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.EmptyView com.welbits.izanrodrigo.emptyview.library.EmptyView retry(java.lang.String, java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.BuildConfig BUILD_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.EmptyView com.welbits.izanrodrigo.emptyview.library.EmptyView error(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.EmptyView com.welbits.izanrodrigo.emptyview.library.EmptyView retry(int, android.view.View.OnClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.BuildConfig PACKAGE_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.EmptyView com.welbits.izanrodrigo.emptyview.library.EmptyView textConfig(java.lang.Integer, java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.welbits.izanrodrigo.emptyview.library.EmptyView com.welbits.izanrodrigo.emptyview.library.EmptyView error(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,20 @@
+<root>
+    <item name='com.google.android.gms.games.internal.constants.RequestType java.lang.String dZ(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.constants.LeaderboardCollection java.lang.String dZ(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.constants.Capability acg'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.constants.PlatformType java.lang.String dZ(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.constants.TurnBasedMatchTurnStatus java.lang.String dZ(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.internal.constants.TimeSpan java.lang.String dZ(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

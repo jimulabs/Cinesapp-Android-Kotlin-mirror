@@ -1,0 +1,68 @@
+<root>
+    <item name='com.google.android.gms.appstate.AppStateManager com.google.android.gms.internal.ib a(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.b java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.a java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.AppStateManager int getMaxNumKeys(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.AppStateManager com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.appstate.AppStateManager.StateResult&gt; load(com.google.android.gms.common.api.GoogleApiClient, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.AppStateManager com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.appstate.AppStateManager.StateResult&gt; updateImmediate(com.google.android.gms.common.api.GoogleApiClient, int, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.AppStateBuffer com.google.android.gms.appstate.AppState get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.a com.google.android.gms.appstate.AppState fJ()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.a a(com.google.android.gms.appstate.AppState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.AppStateManager com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.common.api.Status&gt; signOut(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.AppStateManager void update(com.google.android.gms.common.api.GoogleApiClient, int, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.AppStateManager.StateListResult com.google.android.gms.appstate.AppStateBuffer getStateBuffer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.appstate.AppStateManager.a a(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.AppStateManager int getMaxStateSize(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.AppStateManager com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.appstate.AppStateManager.StateListResult&gt; list(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.AppStateBuffer java.lang.Object get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.AppStateManager API'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.AppStateManager SCOPE_APP_STATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.b com.google.android.gms.appstate.AppState fJ()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.AppStateManager com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.appstate.AppStateManager.StateDeletedResult&gt; delete(com.google.android.gms.common.api.GoogleApiClient, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.appstate.AppStateManager com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.appstate.AppStateManager.StateResult&gt; resolve(com.google.android.gms.common.api.GoogleApiClient, int, java.lang.String, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,8 @@
+<root>
+    <item name='com.google.android.gms.ads.purchase.InAppPurchaseActivity SIMPLE_CLASS_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.purchase.InAppPurchaseActivity CLASS_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

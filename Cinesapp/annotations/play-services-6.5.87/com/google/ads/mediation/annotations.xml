@@ -1,0 +1,29 @@
+<root>
+    <item name='com.google.ads.mediation.MediationAdapter java.lang.Class&lt;SERVER_PARAMETERS&gt; getServerParametersType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.ads.mediation.MediationInterstitialAdapter void requestInterstitialAd(com.google.ads.mediation.MediationInterstitialListener, android.app.Activity, SERVER_PARAMETERS, com.google.ads.mediation.MediationAdRequest, ADDITIONAL_PARAMETERS) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.ads.mediation.MediationBannerAdapter void requestBannerAd(com.google.ads.mediation.MediationBannerListener, android.app.Activity, SERVER_PARAMETERS, com.google.ads.AdSize, com.google.ads.mediation.MediationAdRequest, ADDITIONAL_PARAMETERS) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.ads.mediation.MediationServerParameters void load(java.util.Map&lt;java.lang.String,java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.mediation.MediationAdapter java.lang.Class&lt;ADDITIONAL_PARAMETERS&gt; getAdditionalParametersType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

@@ -1,0 +1,53 @@
+<root>
+    <item name='com.google.ads.AdRequest LOGTAG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.AdSize IAB_LEADERBOARD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.AdSize BANNER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.AdSize IAB_BANNER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.AdRequest VERSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.AdSize SMART_BANNER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.AdRequest.Gender UNKNOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.AdRequest.Gender MALE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.AdSize int getHeightInPixels(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.AdSize IAB_MRECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.AdRequest.Gender FEMALE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.AdRequest.ErrorCode INTERNAL_ERROR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.AdRequest.ErrorCode NO_FILL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.AdSize int getWidthInPixels(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.AdRequest.ErrorCode NETWORK_ERROR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.AdSize IAB_WIDE_SKYSCRAPER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.AdRequest.ErrorCode INVALID_REQUEST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

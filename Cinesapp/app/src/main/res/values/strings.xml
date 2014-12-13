@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ The MIT License (MIT)
+  ~
+  ~ Copyright (c) 2014 Izan Rodrigo
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in
+  ~ all copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+  ~ THE SOFTWARE.
+  -->
+
+<resources>
+
+    <!-- Common -->
+    <string name="app_name">Cinesapp</string>
+    <string name="networkError">No tienes conexión a internet</string>
+    <string name="notFound">No hay contenidos para el cine seleccionado</string>
+    <string name="genericError">Ha ocurrido un error al cargar los datos</string>
+    <string name="actionMoreInfo">Más información</string>
+    <string name="actionShare">Compartir</string>
+    <string name="retry">Reintentar</string>
+
+    <!-- SelectCinemaActivity -->
+    <string name="labelSelectCinemaActivity">Elige el cine</string>
+
+    <!-- CinemaActivity -->
+    <string name="labelCinemaActivity">Cinesa %1$s</string>
+    <string name="actionChangeCinema">Cambiar de cine</string>
+
+    <!-- Movies -->
+    <string name="movieLength">%1$s minutos</string>
+    <string name="movieAssessment">%1$.1f / 5 &#10025;</string>
+    <string name="movieReleaseDate">Fecha de salida: %1$s</string>
+    <string name="lengthNotAvailable">Duración no disponible</string>
+    <string name="assessmentNotAvailable">Valoración no disponible</string>
+
+    <!-- PromosFragment -->
+    <string name="promoWithoutLink">Esta promoción no tiene página web. Para más información pregunta en el punto de venta</string>
+    <string name="shareMessage">Oferta Cinesa %1$s: %2$s. Enviado desde Cinesapp.</string>
+
+    <!-- MovieDetailActivity -->
+    <string name="title">Título</string>
+    <string name="director">Director</string>
+    <string name="cast">Reparto</string>
+    <string name="genre">Género</string>
+    <string name="length">Duración</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="playTrailer">Reproducir trailer</string>
+
+    <!--OpenSourceLicensesFragment-->
+    <string name="actionOpenSourceLicenses">Licencias de Código Abierto</string>
+
+</resources>

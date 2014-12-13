@@ -1,0 +1,20 @@
+<root>
+    <item name='com.google.ads.mediation.customevent.CustomEventAdapter void requestInterstitialAd(com.google.ads.mediation.MediationInterstitialListener, android.app.Activity, com.google.ads.mediation.MediationServerParameters, com.google.ads.mediation.MediationAdRequest, com.google.ads.mediation.NetworkExtras) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.mediation.customevent.CustomEventAdapter java.lang.Class&lt;com.google.ads.mediation.customevent.CustomEventServerParameters&gt; getServerParametersType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.mediation.customevent.CustomEventAdapter void requestBannerAd(com.google.ads.mediation.MediationBannerListener, android.app.Activity, com.google.ads.mediation.MediationServerParameters, com.google.ads.AdSize, com.google.ads.mediation.MediationAdRequest, com.google.ads.mediation.NetworkExtras) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.mediation.customevent.CustomEventAdapter void requestBannerAd(com.google.ads.mediation.MediationBannerListener, android.app.Activity, com.google.ads.mediation.customevent.CustomEventServerParameters, com.google.ads.AdSize, com.google.ads.mediation.MediationAdRequest, com.google.android.gms.ads.mediation.customevent.CustomEventExtras) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.mediation.customevent.CustomEventAdapter java.lang.Class&lt;com.google.android.gms.ads.mediation.customevent.CustomEventExtras&gt; getAdditionalParametersType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.ads.mediation.customevent.CustomEventAdapter void requestInterstitialAd(com.google.ads.mediation.MediationInterstitialListener, android.app.Activity, com.google.ads.mediation.customevent.CustomEventServerParameters, com.google.ads.mediation.MediationAdRequest, com.google.android.gms.ads.mediation.customevent.CustomEventExtras) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

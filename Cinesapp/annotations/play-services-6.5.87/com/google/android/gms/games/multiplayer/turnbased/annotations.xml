@@ -1,0 +1,290 @@
+<root>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.LoadMatchesResponse LoadMatchesResponse(android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer void registerMatchUpdateListener(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.turnbased.OnTurnBasedMatchUpdateReceivedListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.LoadMatchResult&gt; loadMatch(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.UpdateMatchResult&gt; finishMatch(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, byte[], com.google.android.gms.games.multiplayer.ParticipantResult...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchRef void getDescription(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer int getMaxMatchDataSize(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer void dismissMatch(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntity com.google.android.gms.games.multiplayer.Participant getParticipant(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntity com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatch freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntity void getDescription(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig.Builder com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig.Builder setVariant(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatch java.util.ArrayList&lt;java.lang.String&gt; getParticipantIds()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.CancelMatchResult&gt; cancelMatch(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntity java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatch com.google.android.gms.games.multiplayer.Participant getParticipant(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.InitiateMatchResult&gt; acceptInvitation(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig.Builder com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig.Builder setAutoMatchCriteria(android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig.Builder com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig.Builder addInvitedPlayers(java.util.ArrayList&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer void unregisterMatchUpdateListener(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.InitiateMatchResult&gt; rematch(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatch void getDescription(android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchRef com.google.android.gms.games.Game getGame()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer void dismissInvitation(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchRef void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchBuffer java.lang.String ha()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer android.content.Intent getInboxIntent(com.google.android.gms.common.api.GoogleApiClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.LoadMatchesResult com.google.android.gms.games.multiplayer.turnbased.LoadMatchesResponse getMatches()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig android.os.Bundle createAutoMatchCriteria(int, int, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.UpdateMatchResult&gt; finishMatch(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntity CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchRef com.google.android.gms.games.multiplayer.Participant getParticipant(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntityCreator java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.LeaveMatchResult&gt; leaveMatch(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.LoadMatchesResult&gt; loadMatchesByStatus(com.google.android.gms.common.api.GoogleApiClient, int, int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig.Builder com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig.Builder addInvitedPlayer(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntityCreator com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntity createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig.Builder builder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchBuffer com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatch m(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.LeaveMatchResult&gt; leaveMatchDuringTurn(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig.Builder com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig.Builder addInvitedPlayer(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntity java.util.ArrayList&lt;com.google.android.gms.games.multiplayer.Participant&gt; getParticipants()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchRef java.util.ArrayList&lt;com.google.android.gms.games.multiplayer.Participant&gt; getParticipants()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchRef java.util.ArrayList&lt;java.lang.String&gt; getParticipantIds()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.InitiateMatchResult&gt; createMatch(com.google.android.gms.common.api.GoogleApiClient, com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer android.content.Intent getSelectOpponentsIntent(com.google.android.gms.common.api.GoogleApiClient, int, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchRef java.lang.Object freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatch MATCH_TURN_STATUS_ALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.LoadMatchesResult&gt; loadMatchesByStatus(com.google.android.gms.common.api.GoogleApiClient, int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.UpdateMatchResult&gt; finishMatch(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, byte[], java.util.List&lt;com.google.android.gms.games.multiplayer.ParticipantResult&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer android.content.Intent getSelectOpponentsIntent(com.google.android.gms.common.api.GoogleApiClient, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer void declineInvitation(com.google.android.gms.common.api.GoogleApiClient, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.UpdateMatchResult&gt; takeTurn(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, byte[], java.lang.String, com.google.android.gms.games.multiplayer.ParticipantResult...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.UpdateMatchResult&gt; takeTurn(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, byte[], java.lang.String, java.util.List&lt;com.google.android.gms.games.multiplayer.ParticipantResult&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntityCreator com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntity[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntity TurnBasedMatchEntity(com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatch) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntityCreator java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig.Builder com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntityCreator com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntity createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer com.google.android.gms.common.api.PendingResult&lt;com.google.android.gms.games.multiplayer.turnbased.TurnBasedMultiplayer.UpdateMatchResult&gt; takeTurn(com.google.android.gms.common.api.GoogleApiClient, java.lang.String, byte[], java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntity java.util.ArrayList&lt;java.lang.String&gt; getParticipantIds()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntity void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatch com.google.android.gms.games.Game getGame()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchRef com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatch freeze()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig.Builder com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchConfig.Builder addInvitedPlayers(java.util.ArrayList&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchBuffer java.lang.Object f(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.games.multiplayer.turnbased.TurnBasedMatchEntityCreator java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

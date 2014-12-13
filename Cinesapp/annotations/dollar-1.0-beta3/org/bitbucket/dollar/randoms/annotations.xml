@@ -1,0 +1,50 @@
+<root>
+    <item name='org.bitbucket.dollar.randoms.RandomFloatWrapper java.util.Iterator&lt;java.lang.Float&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.randoms.RandomWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; slice(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.randoms.RandomBooleanWrapper java.util.Iterator&lt;java.lang.Boolean&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.randoms.RandomDoubleWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Double&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.randoms.RandomFloatWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Float&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.randoms.RandomLongWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Long&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.randoms.RandomDoubleWrapper java.util.Iterator&lt;java.lang.Double&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.randoms.RandomWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; reverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.randoms.RandomBooleanWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Boolean&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.randoms.RandomIntegerWrapper java.util.Iterator&lt;java.lang.Integer&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.randoms.RandomWrapper org.bitbucket.dollar.Dollar.RandomWrapper samples(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.randoms.RandomWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;T&gt; shuffle(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.randoms.RandomLongWrapper java.util.Iterator&lt;java.lang.Long&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.randoms.RandomWrapper org.bitbucket.dollar.randoms.RandomWrapper&lt;T&gt; samples(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.randoms.RandomIntegerWrapper org.bitbucket.dollar.Dollar.Wrapper&lt;java.lang.Integer&gt; copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.bitbucket.dollar.randoms.RandomWrapper org.bitbucket.dollar.Dollar.RandomWrapper&lt;T&gt; generator(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

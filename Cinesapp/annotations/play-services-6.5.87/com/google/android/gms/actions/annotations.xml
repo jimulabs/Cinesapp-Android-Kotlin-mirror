@@ -1,0 +1,8 @@
+<root>
+    <item name='com.google.android.gms.actions.SearchIntents ACTION_SEARCH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.actions.ReserveIntents ACTION_RESERVE_TAXI_RESERVATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

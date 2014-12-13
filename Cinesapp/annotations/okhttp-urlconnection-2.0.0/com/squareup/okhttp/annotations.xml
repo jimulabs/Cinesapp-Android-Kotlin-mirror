@@ -1,0 +1,17 @@
+<root>
+    <item name='com.squareup.okhttp.OkUrlFactory java.net.HttpURLConnection open(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.OkUrlFactory java.net.URLStreamHandler createURLStreamHandler(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.OkUrlFactory java.net.HttpURLConnection open(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.OkUrlFactory java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.OkUrlFactory com.squareup.okhttp.OkUrlFactory clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

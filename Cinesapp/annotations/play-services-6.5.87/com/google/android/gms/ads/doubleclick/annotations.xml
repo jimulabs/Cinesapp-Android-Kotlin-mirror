@@ -1,0 +1,71 @@
+<root>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherInterstitialAd void loadAd(com.google.android.gms.ads.doubleclick.PublisherAdRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder setBirthday(java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder addNetworkExtrasBundle(java.lang.Class&lt;? extends com.google.android.gms.ads.mediation.MediationAdapter&gt;, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder com.google.android.gms.ads.doubleclick.PublisherAdRequest build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder setGender(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder addCustomEventExtrasBundle(java.lang.Class&lt;? extends com.google.android.gms.ads.mediation.customevent.CustomEvent&gt;, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest com.google.android.gms.internal.bg Y()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder addKeyword(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder addCustomEventExtrasBundle(java.lang.Class&lt;? extends com.google.android.gms.ads.mediation.customevent.CustomEvent&gt;, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest boolean isTestDevice(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder setLocation(android.location.Location)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder addNetworkExtras(com.google.android.gms.ads.mediation.NetworkExtras) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder addTestDevice(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdView void loadAd(com.google.android.gms.ads.doubleclick.PublisherAdRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder setContentUrl(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder addNetworkExtras(com.google.android.gms.ads.mediation.NetworkExtras)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest android.os.Bundle getNetworkExtrasBundle(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder addNetworkExtrasBundle(java.lang.Class&lt;? extends com.google.android.gms.ads.mediation.MediationAdapter&gt;, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder setManualImpressionsEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder tagForChildDirectedTreatment(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder setPublisherProvidedId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder com.google.android.gms.ads.doubleclick.PublisherAdRequest.Builder setContentUrl(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.ads.doubleclick.PublisherAdView void setAdSizes(com.google.android.gms.ads.AdSize...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

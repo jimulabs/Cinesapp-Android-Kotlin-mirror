@@ -1,0 +1,191 @@
+<root>
+    <item name='dagger.internal.Keys java.lang.String get(java.lang.reflect.Type, java.lang.annotation.Annotation[], java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Binding T get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='dagger.internal.ArrayQueue ArrayQueue(java.util.Collection&lt;? extends E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.ArrayQueue T[] toArray(T[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.FailoverLoader dagger.internal.ModuleAdapter&lt;T&gt; getModuleAdapter(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Linker dagger.internal.Binding&lt;?&gt; requestBinding(java.lang.String, java.lang.Object, java.lang.ClassLoader, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.ArrayQueue boolean offer(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Keys boolean isPlatformType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.ThrowingErrorHandler void handleErrors(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Modules java.util.Map&lt;dagger.internal.ModuleAdapter&lt;?&gt;,java.lang.Object&gt; loadModules(dagger.internal.Loader, java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Keys java.lang.String getClassName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.FailoverLoader dagger.internal.StaticInjection getStaticInjection(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.StaticInjection void attach(dagger.internal.Linker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='dagger.internal.Linker.ErrorHandler void handleErrors(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='dagger.internal.ArrayQueue E element()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.SetBinding SetBinding(dagger.internal.SetBinding&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.SetBinding void add(dagger.internal.BindingsGroup, java.lang.String, dagger.internal.Binding&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.ProblemDetector void detectProblems(java.util.Collection&lt;dagger.internal.Binding&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.ArrayQueue java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Linker.ErrorHandler NULL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.ArrayQueue boolean add(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Loader java.lang.Class&lt;?&gt; loadClass(java.lang.ClassLoader, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Loader dagger.internal.ModuleAdapter&lt;T&gt; getModuleAdapter(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='dagger.internal.ProblemDetector void detectCircularDependencies(java.util.Collection&lt;dagger.internal.Binding&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.ArrayQueue T[] toArray(T[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.ArrayQueue java.util.Iterator&lt;E&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Keys boolean isAnnotated(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Keys java.lang.String getMembersKey(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Loader dagger.internal.ModuleAdapter&lt;T&gt; getModuleAdapter(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='dagger.internal.ArrayQueue java.lang.Object[] toArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.FailoverLoader dagger.internal.StaticInjection getStaticInjection(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Loader dagger.internal.StaticInjection getStaticInjection(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='dagger.internal.ArrayQueue E remove()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Binding void attach(dagger.internal.Linker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='dagger.internal.SetBinding void attach(dagger.internal.Linker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='dagger.internal.Linker Linker(dagger.internal.Linker, dagger.internal.Loader, dagger.internal.Linker.ErrorHandler) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Linker void installBindings(dagger.internal.BindingsGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.FailoverLoader dagger.internal.Binding&lt;?&gt; getAtInjectBinding(java.lang.String, java.lang.String, java.lang.ClassLoader, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Loader T instantiate(java.lang.String, java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Linker dagger.internal.Binding&lt;?&gt; requestBinding(java.lang.String, java.lang.Object, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Loader java.lang.Class&lt;?&gt; loadClass(java.lang.ClassLoader, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Linker dagger.internal.Binding&lt;?&gt; requestBinding(java.lang.String, java.lang.Object, java.lang.ClassLoader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.SetBinding void add(dagger.internal.BindingsGroup, java.lang.String, dagger.internal.Binding&lt;?&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.ProblemDetector void detectUnusedBinding(java.util.Collection&lt;dagger.internal.Binding&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.FailoverLoader dagger.internal.ModuleAdapter&lt;T&gt; getModuleAdapter(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Linker Linker(dagger.internal.Linker, dagger.internal.Loader, dagger.internal.Linker.ErrorHandler) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Modules java.util.Map&lt;dagger.internal.ModuleAdapter&lt;?&gt;,java.lang.Object&gt; loadModules(dagger.internal.Loader, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Linker dagger.internal.Binding&lt;?&gt; requestBinding(java.lang.String, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.ArrayQueue dagger.internal.ArrayQueue&lt;E&gt; clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Binding UNRESOLVED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='dagger.internal.Loader dagger.internal.StaticInjection getStaticInjection(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='dagger.internal.Loader dagger.internal.Binding&lt;?&gt; getAtInjectBinding(java.lang.String, java.lang.String, java.lang.ClassLoader, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='dagger.internal.Keys java.lang.String getSetKey(java.lang.reflect.Type, java.lang.annotation.Annotation[], java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
