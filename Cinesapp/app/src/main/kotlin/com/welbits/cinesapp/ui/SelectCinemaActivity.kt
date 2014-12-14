@@ -101,7 +101,7 @@ public class SelectCinemaFragment : BaseRestFragment<KimonoResponse<Cinema.Respo
 
         // Save selected cinema on shared preferences and start CinemaActivity
         listView.setOnItemClickListener {(parent, view, position, id) ->
-            val cinema = adapter[position];
+            val cinema = adapter[position]
             Prefs.getDefaults(getActivity())
                     .edit()
                     .putString(Cinema.KEY, Cinema.SERIALIZER.toJson(cinema))

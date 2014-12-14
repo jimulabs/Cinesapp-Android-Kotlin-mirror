@@ -51,16 +51,19 @@ public class App : Application() {
     }
 
     public fun internetIsAvailable(): Boolean {
-        val connectivityManager = getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
-        val activeNetworkInfo = connectivityManager.getActiveNetworkInfo()
+        val connectivityManager = getSystemService(Context.CONNECTIVITY_SERVICE) as? ConnectivityManager
+        val activeNetworkInfo = connectivityManager?.getActiveNetworkInfo()
         return activeNetworkInfo?.isConnected() ?: false
     }
 
     public fun picasso(): Picasso {
         if (picasso == null) {
-            picasso = Picasso.Builder(this).indicatorsEnabled(BuildConfig.DEBUG).loggingEnabled(BuildConfig.DEBUG).build()
+            picasso = Picasso.Builder(this)
+                    .indicatorsEnabled(BuildConfig.DEBUG)
+                    .loggingEnabled(BuildConfig.DEBUG)
+                    .build()
         }
-        return picasso as Picasso
+        return picasso!!
     }
 
     public fun restClient(): RestClient {
@@ -68,13 +71,13 @@ public class App : Application() {
             restClient = RestAdapter.Builder()
                     .setEndpoint(RestClient.ENDPOINT_URL)
                     .setClient(OkClient())
-                    .setRequestInterceptor { r ->
-                        r.addQueryParam(RestClient.PARAM_API_KEY, RestClient.API_KEY)
+                    .setRequestInterceptor { request ->
+                        request.addQueryParam(RestClient.PARAM_API_KEY, RestClient.API_KEY)
                     }
                     .build()
                     .create(javaClass<RestClient>())
         }
-        return restClient as RestClient
+        return restClient!!
     }
 }
 
