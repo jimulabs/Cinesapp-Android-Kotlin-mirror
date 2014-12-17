@@ -36,6 +36,7 @@ import com.welbits.cinesapp.app.RestClient
 import kotlin.properties.Delegates
 import rx.Subscription
 import com.welbits.cinesapp.app.BaseFragment
+import rx.android.observables.AndroidObservable
 
 /**
  * Created by Izan Rodrigo on 13/12/14.
@@ -47,6 +48,7 @@ public abstract class BaseRestFragment<T> : BaseFragment() {
     protected var restClient: RestClient by Delegates.notNull()
     protected var app: App by Delegates.notNull()
     private var subscription: Subscription? = null
+    private var cache: Observable<T>? = null
 
     override fun onDestroy() {
         super.onDestroy()
@@ -60,21 +62,31 @@ public abstract class BaseRestFragment<T> : BaseFragment() {
     }
 
     protected fun startLoading() {
-        emptyView.retry(R.string.retry, Runnable { loadData() })
-        emptyView.startLoading()
-        if (app.internetIsAvailable()) {
-            subscription = loadData().subscribe({ response ->
-                handleData(response)
-                emptyView.successLoading()
-            }, { error -> handleError(error) })
+        if (cache != null) {
+            subscribe()
         } else {
-            emptyView.error(R.string.networkError)
-            emptyView.errorLoading()
+            emptyView.retry(R.string.retry, Runnable { loadData() })
+            emptyView.startLoading()
+            if (app.internetIsAvailable()) {
+                cache = AndroidObservable.bindFragment(this, loadData()).cache()
+                subscribe()
+            } else {
+                emptyView.error(R.string.networkError)
+                emptyView.errorLoading()
+            }
         }
+    }
+
+    private fun subscribe() {
+        subscription = cache?.subscribe({ response ->
+            handleData(response)
+            emptyView.successLoading()
+        }, { error -> handleError(error) })
     }
 
     // Abstract functions
     protected abstract fun loadData(): Observable<T>
+
     protected abstract fun handleData(response: T)
 
     // Error handling
@@ -90,5 +102,4 @@ public abstract class BaseRestFragment<T> : BaseFragment() {
         }
         emptyView.errorLoading()
     }
-
 }

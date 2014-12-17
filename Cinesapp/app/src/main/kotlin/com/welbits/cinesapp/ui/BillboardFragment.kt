@@ -26,8 +26,6 @@ package com.welbits.cinesapp.ui
 
 import com.welbits.cinesapp.model.Cinema
 import android.os.Bundle
-import rx.schedulers.Schedulers
-import rx.android.schedulers.AndroidSchedulers
 import com.welbits.cinesapp.model.KimonoResponse
 import com.welbits.cinesapp.model.Movie
 import rx.Observable
@@ -51,9 +49,7 @@ public class BillboardFragment : BaseMoviesFragment() {
     override fun loadData(): Observable<KimonoResponse<Movie.Response>?> {
         val cinemaJson = getArguments().getString(Cinema.KEY)
         val cinema = Cinema.SERIALIZER.fromJson(cinemaJson)
-        return restClient.getBillboard(cinema.url)
-                .subscribeOn(Schedulers.io())
-                .observeOn(AndroidSchedulers.mainThread())
+        return restClient.getBillboard(cinema.url).asObservable()
 
     }
 

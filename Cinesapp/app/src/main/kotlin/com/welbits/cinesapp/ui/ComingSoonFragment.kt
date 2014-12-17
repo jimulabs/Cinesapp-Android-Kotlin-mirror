@@ -24,8 +24,6 @@
 
 package com.welbits.cinesapp.ui
 
-import rx.schedulers.Schedulers
-import rx.android.schedulers.AndroidSchedulers
 import com.welbits.cinesapp.model.KimonoResponse
 import com.welbits.cinesapp.model.Movie
 import rx.Observable
@@ -37,9 +35,7 @@ import rx.Observable
 public class ComingSoonFragment : BaseMoviesFragment() {
 
     override fun loadData(): Observable<KimonoResponse<Movie.Response>?> {
-        return restClient.getComingSoonPremiere()
-                .subscribeOn(Schedulers.io())
-                .observeOn(AndroidSchedulers.mainThread())
+        return restClient.getComingSoonPremiere().asObservable()
     }
 
     override fun handleData(response: KimonoResponse<Movie.Response>?) {

@@ -26,8 +26,6 @@ package com.welbits.cinesapp.ui
 
 import com.welbits.cinesapp.model.Cinema
 import android.os.Bundle
-import rx.schedulers.Schedulers
-import rx.android.schedulers.AndroidSchedulers
 import com.welbits.cinesapp.model.KimonoResponse
 import com.welbits.cinesapp.model.Movie
 import rx.Observable
@@ -51,9 +49,7 @@ public class PremiereFragment : BaseMoviesFragment() {
     override fun loadData(): Observable<KimonoResponse<Movie.Response>?> {
         val cinemaJson = getArguments().getString(Cinema.KEY)
         val cinema = Cinema.SERIALIZER.fromJson(cinemaJson)
-        return restClient.getPremiere(cinema.url)
-                .subscribeOn(Schedulers.io())
-                .observeOn(AndroidSchedulers.mainThread())
+        return restClient.getPremiere(cinema.url).asObservable()
     }
 
     override fun handleData(response: KimonoResponse<Movie.Response>?) {

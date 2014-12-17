@@ -130,9 +130,7 @@ public class MovieDetailFragment : BaseRestFragment<KimonoResponse<MovieDetail.R
     }
 
     override fun loadData(): Observable<KimonoResponse<MovieDetail.Response>?> {
-        return restClient.getMovieDetail(movie.url)
-                .subscribeOn(Schedulers.io())
-                .observeOn(AndroidSchedulers.mainThread())
+        return restClient.getMovieDetail(movie.url).asObservable()
     }
 
     override fun handleData(response: KimonoResponse<MovieDetail.Response>?) {

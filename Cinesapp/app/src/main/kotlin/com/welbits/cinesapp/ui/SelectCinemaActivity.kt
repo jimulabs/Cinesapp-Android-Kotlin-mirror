@@ -112,9 +112,7 @@ public class SelectCinemaFragment : BaseRestFragment<KimonoResponse<Cinema.Respo
     }
 
     override fun loadData(): Observable<KimonoResponse<Cinema.Response>?> {
-        return restClient.getListOfCinemas()
-                .subscribeOn(Schedulers.io())
-                .observeOn(AndroidSchedulers.mainThread())
+        return restClient.getListOfCinemas().asObservable()
     }
 
     override fun handleData(response: KimonoResponse<Cinema.Response>?) {

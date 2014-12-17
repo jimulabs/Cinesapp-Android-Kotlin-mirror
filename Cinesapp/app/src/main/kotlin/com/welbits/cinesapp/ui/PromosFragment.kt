@@ -43,8 +43,6 @@ import java.io.IOException
 import android.net.Uri
 import android.view.ViewGroup
 import android.view.LayoutInflater
-import rx.schedulers.Schedulers
-import rx.android.schedulers.AndroidSchedulers
 import com.welbits.cinesapp.model.KimonoResponse
 import android.widget.ListView
 import butterknife.bindView
@@ -96,9 +94,7 @@ public class PromosFragment : BaseRestFragment<KimonoResponse<Promo.Response>?>(
     override fun loadData(): Observable<KimonoResponse<Promo.Response>?> {
         val cinemaJson = getArguments().getString(Cinema.KEY)
         cinema = Cinema.SERIALIZER.fromJson(cinemaJson)
-        return restClient.getPromos(cinema.url)
-                .subscribeOn(Schedulers.io())
-                .observeOn(AndroidSchedulers.mainThread())
+        return restClient.getPromos(cinema.url).asObservable()
     }
 
     override fun handleData(response: KimonoResponse<Promo.Response>?) {
