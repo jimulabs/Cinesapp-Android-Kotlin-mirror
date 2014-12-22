@@ -51,9 +51,9 @@ public class App : Application() {
     }
 
     public fun internetIsAvailable(): Boolean {
-        val connectivityManager = getSystemService(Context.CONNECTIVITY_SERVICE) as? ConnectivityManager
-        val activeNetworkInfo = connectivityManager?.getActiveNetworkInfo()
-        return activeNetworkInfo?.isConnected() ?: false
+        val connectivityManager = getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
+        val activeNetworkInfo = connectivityManager.getActiveNetworkInfo()
+        return activeNetworkInfo.isConnected()
     }
 
     public fun picasso(): Picasso {
