@@ -114,6 +114,8 @@ public abstract class AbstractAdapter<T>(
 
     public fun clear(): Unit = synchronized { notifyAfter { items.clear() } }
 
+    public fun getAll(): List<T> = synchronized { ArrayList(items) }
+
     public fun sort(comparator: Comparator<T>): Unit = synchronized {
         notifyAfter {
             Collections.sort(items, comparator)
@@ -126,7 +128,11 @@ public abstract class AbstractAdapter<T>(
         }
     }
 
-    public fun add(index: Int, item: T): Unit = set(index, item)
+    public fun add(index: Int, item: T): Unit = synchronized {
+        notifyAfter {
+            items.add(index, item)
+        }
+    }
 
     public fun addAll(collection: Collection<T>): Boolean = synchronized {
         notifyAfter {
@@ -160,22 +166,22 @@ public abstract class AbstractAdapter<T>(
 
     /* Overloaded operators */
     // adapter[position]
-    public fun get(index: Int): T = synchronized { getItem(index) }
+    public fun get(index: Int): T = getItem(index)
 
     // adapter[position] = item
-    public fun set(index: Int, item: T): Unit = synchronized { items.add(index, item) }
+    public fun set(index: Int, item: T): Unit = add(index, item)
 
     // item in adapter
     public fun contains(item: T): Boolean = synchronized { items.contains(item) }
 
     /* Utility methods */
-    inline fun <R> synchronized(block: () -> R): R {
+    private inline fun <R> synchronized(block: () -> R): R {
         synchronized(this) {
             return block()
         }
     }
 
-    inline fun <R> notifyAfter(block: () -> R): R {
+    private inline fun <R> notifyAfter(block: () -> R): R {
         val result = block();
         notifyDataSetChanged()
         return result
